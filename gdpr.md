@@ -24,4 +24,31 @@ All users can at any time reach out on gdpr@monta.app and ask questions about th
  - Device info (platform, os version, device) - Used for improving the app expirence. Eg if 1 problem only appears on iphone, but another on android only on samsung devices
  - Device location (stored when using credit cards) - Used for fraud detection
 
-Besides the user data above, we store data inputted in forms and saved. Like charge points, favorites, reports, 
+_Besides the user data above, we store data inputted in forms and saved. Like charge points, favorites, reports, chat etc._
+
+### Where is the data stored
+
+All data is stored in [Amazon web services](https://aws.amazon.com/). In following data centers
+
+ - eu-west-01, Ireland
+
+We are using a handful of data storages
+
+ - Aurora, MySQL - Master database
+ - Elastic search - Search engine for map + log files
+ - Dynamo DB - Configs
+ - Elastic cache, Redis - Caching, normally less than 12hours
+ - S3 - Files like images
+
+#### Who else have access to what data
+
+ - [Laravel Vapor](http://vapor.laravel.com/) as CD have access to all above
+ - [Laravel Forge](http://forge.laravel.com/) as CD have access to all above
+ - [Elastic Cloud](https://cloud.elastic.co) is managing Elastic search
+ - [Twilio](https://www.twilio.com) is provider of sms messages
+ - [Firebase - Google](https://firebase.google.com/) is provider of Push notificions. For Iphone users Apple are having access also
+ - [Bugsnag](https://bugsnag.com/) is provider of crash reports for Backend
+
+### Backup
+
+We are backing up several times each day. And keeping the backups for 20 days.
