@@ -40,15 +40,18 @@ We are using a handful of data storages
  - Elastic cache, Redis - Caching, normally less than 12hours
  - S3 - Files like images
 
-#### Who else have access to what data
+### Who else have access to what data
 
- - [Laravel Vapor](http://vapor.laravel.com/) as CD have access to all above
- - [Laravel Forge](http://forge.laravel.com/) as CD have access to all above
+ - [Laravel Vapor](http://vapor.laravel.com/) as automated deployment (CD) have access to all above
+ - [Laravel Forge](http://forge.laravel.com/) as automated deployment (CD) have access to all above
  - [Elastic Cloud](https://cloud.elastic.co) is managing Elastic search
  - [Twilio](https://www.twilio.com) is provider of sms messages
  - [Firebase - Google](https://firebase.google.com/) is provider of Push notificions. For Iphone users Apple are having access also
+ - [Firebase - Google](https://firebase.google.com/) is provider of crash reports for Iphone and Android
  - [Bugsnag](https://bugsnag.com/) is provider of crash reports for Backend
+ - [Firebase - Google](https://firebase.google.com/) is provider of analytics for Iphone and Android
+ - [Google Analytics](https://analytics.google.com/) is provider of analytics for website
 
-### Backup
+### Data retention, backup
 
 We are backing up several times each day. And keeping the backups for 20 days.
