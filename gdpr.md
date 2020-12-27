@@ -28,7 +28,7 @@ _Besides the user data above, we store data inputted in forms and saved. Like ch
 
 ### Where is the data stored
 
-All data is stored in [Amazon web services](https://aws.amazon.com/). In following data centers
+Most data is stored in [Amazon web services, AWS](https://aws.amazon.com/). In following data centers
 
  - eu-west-01, Ireland
 
@@ -39,6 +39,10 @@ We are using a handful of data storages
  - Dynamo DB - Configs
  - Elastic cache, Redis - Caching, normally less than 12hours
  - S3 - Files like images
+
+Besides Amazon web services, AWS. We are using following
+
+ - [Pubnub](https://pubnub.com) - Chat messages
 
 ### Who else have access to what data
 
