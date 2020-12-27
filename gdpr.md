@@ -1,6 +1,8 @@
 # GDPR
 
-This document is to descripe the how we handle data on behalf of users.
+Last updated: December 27, 2020
+
+__This document is to descripe the how we handle data on behalf of users.__
 
 And what options we have for users to control it.
 
