@@ -10,17 +10,20 @@ Here is our list of dependecies
   
 # Web frontend
 
- - [Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
- - [Font awesome](https://fontawesome.com/)
+ - [Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction)
+ - [Font awesome](https://fontawesome.com)
  - [Argon](https://www.creative-tim.com/product/argon-dashboard-pro) 
- - [JQuery](https://jquery.com/)
- - [Vue](https://vuejs.org/)
+ - [JQuery](https://jquery.com)
+ - [Vue](https://vuejs.org)
  
 # Server 
- - [GoLang](https://golang.org/)
+ - [GoLang](https://golang.org)
  - [Gin](https://github.com/gin-gonic/gin)
- - [PHP](https://www.php.net/)
+ - [PHP](https://www.php.net)
  - [Laravel](https://laravel.com)
- - [Laravel Nova](https://nova.laravel.com/)
+ - [Laravel Nova](https://nova.laravel.com)
  - [Laravel Socialite](https://laravel.com/docs/8.x/socialite)
- - [Laravel Vapor](https://vapor.laravel.com/)
+ - [Laravel Passport](https://laravel.com/docs/8.x/passport)
+ - [Laravel Vapor](https://vapor.laravel.com)
+ - [Kotlin](https://kotlinlang.org)
+ - [Micronaut](https://micronaut.io)
