@@ -14,7 +14,7 @@ All users can at any time reach out on gdpr@monta.app and ask questions about th
  
  ### What data is stored
  
- - Name, first_name & last_name (optional) - Used for user profile
+ - Name, first & last name (optional) - Used for user profile
  - Profile image (optional) - Used for user profile, building trust for other users
  - Email (optional) - Used for User profile
  - Phone (optional) - Used for 2-factor login
@@ -22,7 +22,7 @@ All users can at any time reach out on gdpr@monta.app and ask questions about th
  - Country - Used for applying to local laws
  - IP address - Used for fraud detection & IP to coordinate when GPS is disabled / not ready
  - Device info (platform, os version, device) - Used for improving the app expirence. Eg if 1 problem only appears on iphone, but another on android only on samsung devices
- - Device location (stored when using credit cards) - Used for fraud detection
+ - Device location (optional, stored when using credit cards) - Used for fraud detection
 
 _Besides the user data above, we store data inputted in forms and saved. Like charge points, favorites, reports, chat etc._
 
