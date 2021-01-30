@@ -1,7 +1,7 @@
 Terms and Conditions
 ====================
 
-Last updated: January 12th, 2021 (rev. 1)
+Last updated: January 12th, 2021 (rev. 2)
 
 Please read these terms and conditions carefully before using OurService.
 
@@ -25,8 +25,7 @@ For the purposes of these Terms and Conditions:
 -   **Marketplace** means the peer-to-peer Charging activities made available by the Application.
 -   **Account** means a unique account created for You to access our Service or parts of our Service.
 -   **Country** refers to: Denmark
--   **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Monta ApS, Göteborg Plads 4, 5.
-    tv. 2150 Nordhavn.
+-   **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Monta ApS, Middelfartgade 15, 3 floor, 2100 Østerbro.
 -   **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 -   **Feedback** means feedback, innovations or suggestions sent by You regarding the attributes, performance or features of our Service.
 -   **Charging** the primary product offered for sale on the Service.
