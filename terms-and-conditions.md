@@ -3,7 +3,8 @@ Terms and Conditions
 
 Last updated: January 12th, 2021 (rev. 2)
 
-Please read these terms and conditions carefully before using OurService.
+Please read these terms and conditions carefully before using Our Service.
+
 
 Interpretation and Definitions
 ==============================
@@ -20,24 +21,26 @@ For the purposes of these Terms and Conditions:
 
 -   **Application** means the software provided by the Company downloaded by You on any electronic device, named Monta App
 -   **Application Store** means the digital distribution service operated and developed by Apple Inc. (Apple App Store) or Google Inc. (Google Play Store) in which the Application has been downloaded.
--   **Affiliate** means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
--   **Agent** is a user engaged as a seller on Our Marketplace.
--   **Marketplace** means the peer-to-peer Charging activities made available by the Application.
+-   **Agent** is a user engaged as a seller on our Peer-to-Peer Charging Service.
+-   **Marketplace** refers to the online venue that enables Marketeers to publish and offering subscription based services.
+-   **Marketeer** are entities engaged in selling services on our Marketplace.
 -   **Account** means a unique account created for You to access our Service or parts of our Service.
 -   **Country** refers to: Denmark
--   **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Monta ApS, Middelfartgade 15, 3 floor, 2100 Østerbro.
+-   **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Monta ApS, Middelfartgade 15, 3rd floor, 2100 Copenhagen.
 -   **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 -   **Feedback** means feedback, innovations or suggestions sent by You regarding the attributes, performance or features of our Service.
 -   **Charging** the primary product offered for sale on the Service.
 -   **Charges** the act of consuming our primary product, to "charge a vehicle / (battery)"
--   **Other Goods** refer to other items than Charging offered for sale on the Service.
--   **Orders** mean a request by You to purchase Goods from Us or an Agent.
+-   **Other Goods** refer to other items than Charging offered for sale on the Marketplace.
+-   **Orders** mean a request by You to purchase Goods from Us, an Agent or Marketeer.
 -   **Service** refers to the Application.
 -   **Terms and Conditions** (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service.
 -   **Third-party Social Media Service** means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
 -   **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+-   **Peer-to-Peer Charging Service** means the distributed access to private and semi-public charge points.
 -   **Professional** means users that make use of our Professional Teams service.
 -   **Professional Teams** is a service that allows You to manage multiple charge points.
+
 
 Acknowledgment
 ==============
@@ -52,19 +55,19 @@ You represent that you are over the age of 18. The Company does not permit those
 
 Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service.
 
-Placing Orders for Charging and Other Goods
+
+Placing Orders for Charging
 ========================
 
-By placing an Order for Charging and/or Other Goods through the Service, You warrant that You are legally capable of entering into binding contracts.
+By placing an Order for Charging through the Service, You warrant that You are legally capable of entering into binding contracts.
 
-## Prohibited Uses of Our Marketplace
+## Prohibited Uses of Our Peer-to-Peer Charging Service
 
-In connection with using or accessing the the Service you will not:
+In connection with using or accessing the Peer-to-Peer Charging Service you will not:
 
 - post, list or upload inappropriate content on our Service.
 - breach or circumvent any laws, third-party rights or our system, policies, or determinations of your account status.
-- fail to pay for Charging and Other Goods purchased by you, unless you have a valid reason.
-- fail to deliver items sold by you, unless you have a valid reason.
+- fail to pay for Charging purchased by you, unless you have a valid reason.
 - manipulate the price of any item or interfere with any other users listings.
 - post false, inaccurate, misleading, deceptive, defamatory or libelous content.
 - take any action that may undermine the feedback or ratings systems.
@@ -72,7 +75,43 @@ In connection with using or accessing the the Service you will not:
 
 ## Your Information
 
-If You wish to place an Order for Charging and Other Goods available on the Service, You may be asked to supply certain information relevant to Your Order
+If You wish to place an Order for Charging on the Peer-to-Peer Charging Service, You may be asked to supply certain information relevant to Your Order
+including, without limitation, Your name, Your email, Your phone number, Your credit card number, the expiration date of Your credit card, Your billing address, and Your shipping information.
+
+You represent and warrant that: (i) You have the legal right to use any credit or debit card(s) or other payment method(s) in connection with any Order; and that (ii) the information You supply to us is true, correct and complete.
+
+By submitting such information, You grant us the right to provide the information to payment processing third parties for purposes of facilitating the completion of Your Order.
+
+## Payments for Charging
+
+All Charging purchased are subject to a one-time payment. Payment can be made through various payment methods we have available, such as Visa, MasterCard, or online payment methods such as Apple Pay and Google Pay.
+
+Payment cards (credit cards or debit cards) are subject to validation checks and authorization by Your card issuer. If we do not receive the required authorization, We will not be liable for any delay or non-delivery of Your Order.
+
+## Fees
+
+We collect the following fees for using our Services:
+
+
+Placing Orders for Other Goods
+========================
+
+By placing an Order for Other Goods through the Service, You warrant that You are legally capable of entering into binding contracts.
+
+## Prohibited Uses of Our Marketplace
+
+In connection with using or accessing the the Service you will not:
+
+- breach or circumvent any laws, third-party rights or our system, policies, or determinations of your account status.
+- fail to pay for Other Goods purchased by you, unless you have a valid reason.
+- manipulate the price of any item or interfere with any other users listings.
+- post false, inaccurate, misleading, deceptive, defamatory or libelous content.
+- take any action that may undermine the feedback or ratings systems.
+- transfer your Monta account and user ID to another party without our consent.
+
+## Your Information
+
+If You wish to place an Order for Other Goods available on the Marketplace, You may be asked to supply certain information relevant to Your Order
 including, without limitation, Your name, Your email, Your phone number, Your credit card number, the expiration date of Your credit card, Your billing address, and Your shipping information.
 
 You represent and warrant that: (i) You have the legal right to use any credit or debit card(s) or other payment method(s) in connection with any Order; and that (ii) the information You supply to us is true, correct and complete.
@@ -91,13 +130,7 @@ We reserve the right to refuse or cancel Your Order if fraud or an unauthorized 
 
 Cancellation of subscriptions bought via the Service, will be subject to the terms associated with the subscription.
 
-## Payments for Charging
-
-All Charging purchased are subject to a one-time payment. Payment can be made through various payment methods we have available, such as Visa, MasterCard, or online payment methods such as Apple Pay and Google Pay.
-
-Payment cards (credit cards or debit cards) are subject to validation checks and authorization by Your card issuer. If we do not receive the required authorization, We will not be liable for any delay or non-delivery of Your Order.
-
-## Transactions of Other Goods Between Buyers and Agents
+## Transactions of Other Goods Between Buyers and Agents.
 
 Through our Service, Monta provides a Marketplace for exchanging information between buyers and sellers of Other Goods, ie. monthly service subscriptions for charge points.
 
@@ -117,6 +150,7 @@ Availability, Errors and Inaccuracies
 We are constantly updating Our offerings of Charging and Other Goods on the Service. The Goods available on Our Service may be mispriced, described inaccurately, or unavailable, and We may experience delays in updating information regarding Other Goods on the Service and in Our advertising on other websites.
 
 We cannot and do not guarantee the accuracy or completeness of any information, including prices, product images, specifications, availability, and services. We reserve the right to change or update information and to correct errors, inaccuracies, or omissions at any time without prior notice.
+
 
 Prices Policy
 -------------
@@ -199,25 +233,30 @@ Without limiting the foregoing, neither the Company nor any of the company's pro
 
 Some jurisdictions do not allow the exclusion of certain types of warranties or limitations on applicable statutory rights of a consumer, so some or all of the above exclusions and limitations may not apply to You. But in such a case the exclusions and limitations set forth in this section shall be applied to the greatest extent enforceable under applicable law.
 
+
 Governing Law
 =============
 
 The laws of the Country, excluding its conflicts of law rules, shall govern this Terms and Your use of the Service. Your use of the Application may also be subject to other local, state, national, or international laws.
+
 
 Disputes Resolution
 ===================
 
 If You have any concern or dispute about the Service, You agree to first try to resolve the dispute informally by contacting the Company.
 
+
 For European Union (EU) Users
 =============================
 
 If You are a European Union consumer, you will benefit from any mandatory provisions of the law of the country in which you are resident in.
 
+
 United States Legal Compliance
 ==============================
 
 You represent and warrant that (i) You are not located in a country that is subject to the United States government embargo, or that has beendesignated by the United States government as a "terrorist supporting" country, and (ii) You are not listed on any United States government list of prohibited or restricted parties.
+
 
 Severability and Waiver
 =======================
@@ -232,10 +271,12 @@ Waiver
 
 Except as provided herein, the failure to exercise a right or to require performance of an obligation under this Terms shall not effect a party's ability to exercise such right or require such performance at any time thereafter nor shall be the waiver of a breach constitute a waiver of any subsequent breach.
 
+
 Translation Interpretation
 ==========================
 
 These Terms and Conditions may have been translated if We have made them available to You on our Service. You agree that the original English text shall prevail in the case of a dispute.
+
 
 Changes to These Terms and Conditions
 =====================================
@@ -243,6 +284,7 @@ Changes to These Terms and Conditions
 We reserve the right, at Our sole discretion, to modify or replace these Terms at any time. If a revision is material We will make reasonable efforts to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at Our sole discretion.
 
 By continuing to access or use Our Service after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, please stop using the website and the Service.
+
 
 Contact Us
 ==========
