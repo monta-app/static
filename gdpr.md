@@ -1,6 +1,6 @@
 # GDPR
 
-Last updated: December 27, 2020
+Last updated: Feb 28, 2021
 
 __This document is to descripe the how we handle data on behalf of users.__
 
@@ -11,8 +11,10 @@ All users can at any time reach out on gdpr@monta.app and ask questions about th
  - What data do we have stored around them
  - Ask to get some user data changed
  - Get all their data deleted
+
+Inside Monta App, under Me -> Profile. Request for data and Request to get delete is added as 2 buttons. 
  
- We strive to solve the queries within 20 bussiness days
+ We strive to solve the queries within 20 bussiness days (normally it takes 2-3)
  
  ### What data is stored
  
