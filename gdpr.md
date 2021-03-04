@@ -46,7 +46,7 @@ We are using a handful of data storages
 
 Besides Amazon web services, AWS. We are using following
 
- - [Pubnub](https://pubnub.com) - User to user chat messages
+ - [Pubnub](https://pubnub.com) - User to user chat messages - 30 days retention on messages
  - [Intercom](https://intercom.com) - Customer support chat message
 
 ### Who else have access to what data
