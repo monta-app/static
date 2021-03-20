@@ -12,7 +12,7 @@ All users can at any time reach out on gdpr@monta.app and ask questions about th
  - Ask to get some user data changed
  - Get all their data deleted
 
-Inside Monta App, under Me -> Profile. Request for data and Request to get delete is added as 2 buttons. 
+Inside Monta App, under Me -> Profile. "Request for data" and "Request to get deleted" is added as 2 buttons. 
 
  Data request are sent instantly, and delete requests are carefully handled within 10 business days
  
