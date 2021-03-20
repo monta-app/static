@@ -13,8 +13,8 @@ All users can at any time reach out on gdpr@monta.app and ask questions about th
  - Get all their data deleted
 
 Inside Monta App, under Me -> Profile. Request for data and Request to get delete is added as 2 buttons. 
- 
- We strive to solve the queries within 20 bussiness days (normally it takes 2-3)
+
+ Data request are sent instantly, and delete requests are carefully handled within 10 business days
  
  ### What data is stored
  
