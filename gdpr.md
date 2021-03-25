@@ -1,6 +1,6 @@
 # GDPR
 
-Last updated: Feb 28, 2021
+Last updated: March 25, 2021
 
 __This document is to descripe the how we handle data on behalf of users.__
 
@@ -50,7 +50,6 @@ Besides Amazon web services, AWS. We are using following
  - [Intercom](https://intercom.com) - Customer support chat message
 
 ### Who else have access to what data
-
  - [Laravel Vapor](http://vapor.laravel.com/) as automated deployment (CD) have access to all above
  - [Laravel Forge](http://forge.laravel.com/) as automated deployment (CD) have access to all above
  - [Elastic Cloud](https://cloud.elastic.co) is managing Elastic search
@@ -60,6 +59,7 @@ Besides Amazon web services, AWS. We are using following
  - [Bugsnag](https://bugsnag.com/) is provider of crash reports for Backend
  - [Firebase - Google](https://firebase.google.com/) is provider of analytics for Iphone and Android
  - [Google Analytics](https://analytics.google.com/) is provider of analytics for website
+ - Services providers selling subscriptions, will get access to required user data such as (Name, address, phone and email) when a subscription is pending or active
 
 ### Data retention, backup
 
