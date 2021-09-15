@@ -395,7 +395,9 @@ Your personal information is governed by their Privacy Policy. These
 payment processors adhere to the standards set by PCI-DSS as managed by
 the PCI Security Standards Council, which is a joint effort of brands
 like Visa, Mastercard, American Express and Discover. PCI-DSS
-requirements help ensure the secure handling of payment information.
+requirements help ensure the secure handling of payment information. 
+We collect Your phone number and installed application information in 
+order to process payments to Your Monta Wallet inside of the app.
 
 -   **Apple Store In-App Payments**
 
