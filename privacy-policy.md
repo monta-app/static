@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Last updated: October 18, 2020
+Last updated: September 15, 2021
 
 This Privacy Policy describes Our policies and procedures on the
 collection, use and disclosure of Your information when You use the
@@ -407,10 +407,10 @@ requirements help ensure the secure handling of payment information.
     Their Privacy Policy can be viewed at
     [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/)
 
--   **Checkout**
+-   **Stripe**
 
     Their Privacy Policy can be viewed at
-    [https://www.checkout.com/legal/privacy-policy](https://www.checkout.com/legal/privacy-policy)
+    [https://stripe.com/privacy](https://stripe.com/privacy)
 
 Behavioral Remarketing
 ----------------------
