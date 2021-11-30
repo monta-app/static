@@ -1,66 +1,121 @@
 # GDPR
 
-Last updated: March 25, 2021
+Monta ApS
 
-__This document is to descripe the how we handle data on behalf of users.__
+Middelfartgade 15, 2100, Copenhagen, Denmark
 
-And what options we have for users to control it.
+info@monta.app
 
-All users can at any time reach out on gdpr@monta.app and ask questions about their data. Eg:
+Company registration number: 41668385
 
- - What data do we have stored around them
- - Ask to get some user data changed
- - Get all their data deleted
+**Last updated: 30 November 2021**
 
-Inside Monta App, under Me -> Profile. "Request for data" and "Request to get deleted" is added as 2 buttons. 
+This document is to describe how we handle data on behalf of users. This compliments our [Privacy Policy](https://app.monta.app/privacy-policy).
 
- Data request are sent instantly, and delete requests are carefully handled within 10 business days
- 
- ### What data is stored
- 
- - First & last name (optional) - Used for user profile
- - Profile image (optional) - Used for user profile, building trust for other users
- - Email (optional) - Used for User profile
- - Phone (optional) - Used for 2-factor login
- - Language (optional, taken from device configuration) - Used for for communicating in best possible language
- - Country - Used for applying to local laws
- - IP address - Used for fraud detection & IP to coordinate when GPS is disabled / not ready
- - Device info (platform, os version, device) - Used for improving the app expirence. Eg if 1 problem only appears on iphone, but another on android only on samsung devices
- - Device location (optional, stored when using credit cards) - Used for fraud detection
+You are entitled to the following:
 
-_Besides the user data above, we store data inputted in forms and saved. Like charge points, favorites, reports, chat etc._
+- The right to access – You have the right to request copies of your personal data.
 
-### Where is the data stored
+- The right to rectification – You have the right to request that Monta correct any information you believe is inaccurate. You also have the right to request Monta to complete the information you believe is incomplete.
 
-Most data is stored in [Amazon web services, AWS](https://aws.amazon.com/). In following data centers
+- The right to erasure – You have the right to request that Monta erase your personal data, under certain conditions.
 
- - eu-west-01, Ireland
+- The right to restrict processing – You have the right to request that Monta restrict the processing of your personal data, under certain conditions.
 
-We are using a handful of data storages
+- The right to object to processing – You have the right to object to Monta&#39;s processing of your personal data, under certain conditions.
 
- - Aurora, MySQL - Master database
- - Elastic search - Search engine for map + log files
- - Dynamo DB - Configs
- - Elastic cache, Redis - Caching, normally less than 12hours
- - S3 - Files like images
+- The right to data portability – You have the right to request that Monta transfer the data that we have collected to another organization, or directly to you, under certain conditions.
 
-Besides Amazon web services, AWS. We are using following
+Inside of the Monta App, it is possible to [request your data and request to delete your account](https://intercom.help/monta-aps/en/articles/4831492-i-would-like-to-delete-my-account).
 
- - [Pubnub](https://pubnub.com) - User to user chat messages - 30 days retention on messages
- - [Intercom](https://intercom.com) - Customer support chat message
+The requests are handled as soon as possible and usually within 10 business days.
 
-### Who else have access to what data
- - [Laravel Vapor](http://vapor.laravel.com/) as automated deployment (CD) have access to all above
- - [Laravel Forge](http://forge.laravel.com/) as automated deployment (CD) have access to all above
- - [Elastic Cloud](https://cloud.elastic.co) is managing Elastic search
- - [Twilio](https://www.twilio.com) is provider of sms messages
- - [Firebase - Google](https://firebase.google.com/) is provider of Push notificions. For Iphone users Apple are having access also
- - [Firebase - Google](https://firebase.google.com/) is provider of crash reports for Iphone and Android
- - [Bugsnag](https://bugsnag.com/) is provider of crash reports for Backend
- - [Firebase - Google](https://firebase.google.com/) is provider of analytics for Iphone and Android
- - [Google Analytics](https://analytics.google.com/) is provider of analytics for website
- - Services providers selling subscriptions, will get access to required user data such as (Name, address, phone and email) when a subscription is pending or active
+**What data is stored**
 
-### Data retention, backup
+- First &amp; last name (optional) - Used for user profile
 
-We are backing up several times each day. And keeping the backups for 20 days.
+- Profile image (optional) - Used for user profile
+
+- Email (optional) - Used for User profile
+
+- Phone (optional) - Used for 2-factor login
+
+- Language (optional, taken from device configuration) - Used for for communicating in your preferred language
+
+- Country - Used for complying to local laws and regulations
+
+- IP address - Used for fraud detection &amp; IP to coordinate when GPS is disabled / not ready
+
+- Device info (platform, OS version, device model) - Used for improving the app experience and troubleshooting
+
+- Device location (optional, stored when using credit cards) - Used for fraud detection
+
+- We also store data that users input themselves in forms and other features, such as your favorite charge points or customer support contact.
+
+**Where is the data stored**
+
+Most of our data is stored in Amazon Web Services, AWS (EKS / EC2) in the following data center: eu-west-1 in Ireland.
+
+We are using a handful of data storages:
+
+- Aurora, MySQL - Master database
+
+- Elastic search - Search engine for map + log files
+
+- Dynamo DB - Configs
+
+- Elastic cache, Redis - Cached data, mainly for PHP app. Normally less than 12 hours.
+
+- S3 - Files like images
+
+- Pubnub - User to user chat messages - 30 days retention on messages
+
+- Intercom - Customer support chat messages
+
+**Services used**
+
+- Laravel Vapor as automated deployment (CD) have access to all above.
+
+- Laravel Forge as automated deployment (CD) have access to all above.
+
+- Elastic Cloud is managing Elastic search.
+
+- Twilio is the provider of sms messages.
+
+- Firebase by Google is the provider of push notifications. For iPhone users Apple also has access.
+
+- Firebase by Google is the provider of crash reports for iPhone and Android.
+
+- Bugsnag is the provider of crash reports for Backend.
+
+- Firebase by Google is the provider of analytics for both iPhone and Android.
+
+- Google Analytics is the provider of analytics for our websites.
+
+- Service providers selling subscriptions will get access to only the minimum required user data needed such as name, address, phone and email when a subscription is pending or active.
+
+- Stripe handles credit card and banking information.
+
+- Elasic.co: Logging data
+
+- Sentry: Crash data
+
+- Snowflake (Ireland): Big data
+
+- Weld (Ireland): Sync data to Snowflake
+
+- Microsoft PowerBI
+
+Internal tools (Hosted inside our K8s cluster):
+
+- Grafana Loki keeps logging data.
+
+- Elastic Search
+
+**Backups**
+
+We are backing up several times each day and keep our backups for 20 days.
+
+**Contact us**
+
+If you have any questions about the data we hold on you or you would like to exercise one of your data protection rights, please do not hesitate to contact us.
