@@ -1,295 +1,129 @@
-Terms and Conditions
-====================
+Monta ApS
 
-Last updated: January 12th, 2021 (rev. 2)
+Middelfartgade 15, 2100, Copenhagen, Denmark
 
-Please read these terms and conditions carefully before using Our Service.
+info@monta.app
 
+Company registration number: 41668385
 
-Interpretation and Definitions
-==============================
+**1. General**
 
-Interpretation
---------------
+These Terms and Conditions (the &quot;Agreement&quot;) are entered into between the entity/person using or accessing the Services (&quot;the User&quot; or &quot;You&quot;) and Monta ApS (&quot;Monta&quot; or &quot;we&quot;), collectively referred to as the &quot;Parties&quot; or each a &quot;Party&quot;.
 
-The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+These Agreement together with the Monta [Privacy Policy](https://app.monta.app/privacy-policy) govern your use of the services operated by Monta (&quot;Services&quot;).
 
-Definitions
------------
+Services may include, but are not limited to, mobile applications and/or websites operated by Monta under its own brand and/or under its partners&#39; brands. These Services includes, but is not limited to, all features and functionalities, including but not limited to websites, user portals, mobile applications, content and user interfaces, associated with Monta&#39;s platform for electric car drivers and charge point operators, where users can manage and find charge points to start and pay for charging processes of electric vehicles.
 
-For the purposes of these Terms and Conditions:
+**2. Acceptance**
 
--   **Application** means the software provided by the Company downloaded by You on any electronic device, named Monta App
--   **Application Store** means the digital distribution service operated and developed by Apple Inc. (Apple App Store) or Google Inc. (Google Play Store) in which the Application has been downloaded.
--   **Agent** is a user engaged as a seller on our Peer-to-Peer Charging Service.
--   **Marketplace** refers to the online venue that enables Marketeers to publish and offering subscription based services.
--   **Marketeer** are entities engaged in selling services on our Marketplace.
--   **Account** means a unique account created for You to access our Service or parts of our Service.
--   **Country** refers to: Denmark
--   **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Monta ApS, Middelfartgade 15, 3rd floor, 2100 Copenhagen.
--   **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
--   **Feedback** means feedback, innovations or suggestions sent by You regarding the attributes, performance or features of our Service.
--   **Charging** the primary product offered for sale on the Service.
--   **Charges** the act of consuming our primary product, to "charge a vehicle / (battery)"
--   **Other Goods** refer to other items than Charging offered for sale on the Marketplace.
--   **Orders** mean a request by You to purchase Goods from Us, an Agent or Marketeer.
--   **Service** refers to the Application.
--   **Terms and Conditions** (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service.
--   **Third-party Social Media Service** means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
--   **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
--   **Peer-to-Peer Charging Service** means the distributed access to private and semi-public charge points.
--   **Professional** means users that make use of our Professional Teams service.
--   **Professional Teams** is a service that allows You to manage multiple charge points.
+By registering for the Services and accepting these Terms of Use you enter into an agreement with Monta which allows you to use the Services.
 
+All transactions that are part of the Services including, but not limited to, ordering of charging keys and initiating charging sessions, are governed by such agreement. Registration without explicit acceptance of these Terms of Conditions is not possible.
 
-Acknowledgment
-==============
+**3. Prices**
 
-These are the Terms and Conditions governing the use of this Service and the agreement that operates between You and the Company. These Terms and Conditions set out the rights and obligations of all users regarding the use of the Service.
+All applicable prices are exclusive of VAT or unless otherwise stated and are indicated on the Services before the start of a charging process or any other transaction is initiated.
 
-Your access to and use of the Service is conditioned on Your acceptance of and compliance with these Terms and Conditions. These Terms and Conditions apply to all visitors, users and others who access or use the Service.
+Monta is free for personal use, but may charge for certain Services, such as transaction fees for facilitating sharing of charge points to other users.
 
-By accessing or using the Service You agree to be bound by these Terms and Conditions. If You disagree with any part of these Terms and Conditions then You may not access the Service.
+For enterprises, business entities and other partners, Services may include both transaction fees and monthly subscription plans.
 
-You represent that you are over the age of 18. The Company does not permit those under 18 to use the Service.
+Monta also sells physical goods, such as charge keys, QR stickers and SIM cards on the Monta Shop, where the prices will be clearly stated before purchase.
 
-Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service.
+Before the charging process, the price will be clearly displayed as fees per kWh of consumed energy, parking fees for time of parking at the charging station, and if applicable charging session starting fees and fees for time of charging. You acknowledge that the final and payable price of the charging service is directly dependent on use, for example on the amount of consumed energy, and is therefore not always automatically provided before the start of the charging process.
 
+ADD RESERVATION FEES
 
-Placing Orders for Charging
-========================
+The User may transfer their desired amount of money to their customer account (&quot;Monta Wallet&quot;) to be used to pay for charging processes. The User may choose to transfer money to their Monta Wallet either manually or automatically when the balance goes below a certain amount. The User may also withdraw their balance from their Monta Wallet. After each charging transaction, the amount corresponding to the transaction is charged from the Monta Wallet. Monta shall deliver a monthly receipt of the use of the charging Service, including each charging transaction executed during the month in question. The User must see to it that the Monta Wallet has sufficient balance for the charging transaction.
 
-By placing an Order for Charging through the Service, You warrant that You are legally capable of entering into binding contracts.
+Other payment methods include debit/credit card and invoices.
 
-## Prohibited Uses of Our Peer-to-Peer Charging Service
+**4. Billing**
 
-In connection with using or accessing the Peer-to-Peer Charging Service you will not:
+Monta may charge you via a variety of payment methods, such as your Monta Wallet, debit/credit card and/or invoices.
 
-- post, list or upload inappropriate content on our Service.
-- breach or circumvent any laws, third-party rights or our system, policies, or determinations of your account status.
-- fail to pay for Charging purchased by you, unless you have a valid reason.
-- manipulate the price of any item or interfere with any other users listings.
-- post false, inaccurate, misleading, deceptive, defamatory or libelous content.
-- take any action that may undermine the feedback or ratings systems.
-- transfer your Monta account and user ID to another party without our consent.
+Invoices may be sent by Monta via mail or email, and is also accessible in your user account within the Services. Full payment for invoices issued must be received by Monta thirty (30) days after the mailing date of the invoice, unless otherwise stated. Unpaid amounts are subject to a charge of 1.5% per month on any outstanding balance, or the maximum permitted by law, whichever is lower, plus all expenses of collection and may result in immediate termination of Services.
 
-## Your Information
+Monta may suspend access to the Services, with immediate effect, if the User fails to pay any fees invoiced by Monta pursuant to this Agreement. Suspension will not relieve the User of its obligation to pay such invoices or any other fees payable to Monta for the relevant Services.
 
-If You wish to place an Order for Charging on the Peer-to-Peer Charging Service, You may be asked to supply certain information relevant to Your Order
-including, without limitation, Your name, Your email, Your phone number, Your credit card number, the expiration date of Your credit card, Your billing address, and Your shipping information.
+**5. Obligations**
 
-You represent and warrant that: (i) You have the legal right to use any credit or debit card(s) or other payment method(s) in connection with any Order; and that (ii) the information You supply to us is true, correct and complete.
+1. You will cooperate with Monta by providing such information and materials as Monta may reasonably require in order to supply the Services, and ensure that such information is complete and accurate in all material respects.
 
-By submitting such information, You grant us the right to provide the information to payment processing third parties for purposes of facilitating the completion of Your Order.
+1. It is your responsibility to ensure that the registered payment method is valid, that it has a sufficient balance and is not blocked. In the event that debiting is not possible, Monta reserves the right to temporarily suspend your access to the Services or part of it until the overdue balance is fully paid. Monta has the right to seek payment from you by other means, such as by sending a separate invoice for your use of the Services.
 
-## Payments for Charging
+1. You are responsible for complying with the specific parking restrictions and regulations at the charging station (such as written instructions shown at the charging station or the instructions given by the personnel of the charging station operators).
 
-All Charging purchased are subject to a one-time payment. Payment can be made through various payment methods we have available, such as Visa, MasterCard, or online payment methods such as Apple Pay and Google Pay.
+1. You shall use the charging station correctly and in accordance with the provided instructions and ensure that the charging station is suitable for the vehicle to be charged. If the charging station is damaged or defective, the User should inform Monta.
 
-Payment cards (credit cards or debit cards) are subject to validation checks and authorization by Your card issuer. If we do not receive the required authorization, We will not be liable for any delay or non-delivery of Your Order.
+1. You must take due care to protect your Monta account against misuse by others and promptly notify Monta about any detected misuse. You are responsible for keeping your account secure and not granting access to your account to others.
 
-## Fees
+2. You are obligated to immediately notify Monta if you believe that your account or the charging key has been used by an unauthorized person or in an unauthorized manner. Monta may then block your access to the Services.
 
-We collect the following fees for using our Services:
+3. In the event of the loss of your charging key or the mobile phone on which the application operated by Monta has been installed, you shall immediately notify Monta. Monta may then block your access to the Services. If you do not give such notification and the charging key or the mobile phone in question remains in illegitimate use, Monta reserves the right to claim incurred losses as a damage from you in accordance with statutory law. For the sake of clarity, this clause does not constitute additional claims for damages against you as a consumer, but only reserves the right to claim damages under statutory law.
 
+4. You are solely responsible for ensuring that you comply with all applicable regulations, laws, or conventions before using the Services.
 
-Placing Orders for Other Goods
-========================
+1. Unless explicitly granted to You in writing by Monta, You must not (and must not allow any third party to) directly or indirectly: I. Rent, lease, copy, transfer, resell, sublicense, lease, time-share, or otherwise provide access to the Services to a third party; II. Modify or create a derivative work of the Monta Services or any portion of it; III. Reverse engineer, disassemble, decompile, translate, or otherwise seek to obtain or derive the source code, underlying ideas, algorithms, file formats, or non-public APIs to the Services, except to the extent expressly permitted by applicable law and then only with advance notice in writing to Monta; IV. Break or circumvent any security measures of the Services, or configure the Services to avoid incurring fees or in any way disrupt the integrity, performance or security of the Services; V. Access the Services for the purpose of building a competitive product or service or copying its features or user interfaces; VI. Use or permit the Services to be used for any illegal or misleading purpose, or any manner inconsistent with this Agreement; VII. Collect, use, and disclose data that violates any third-party rights, including privacy, publicity rights and intellectual property, (&quot;Intellectual Property Rights&quot; means any and all copyright, moral rights, trademark, trade dress, patent, trade secret, unfair competition, right of privacy, right of publicity, and any other proprietary rights).
 
-By placing an Order for Other Goods through the Service, You warrant that You are legally capable of entering into binding contracts.
+1. You agree that Monta retains all rights, title and interest (including all Intellectual Property Rights) in and to the Services, and all related or underlying documentation, technology, code, know-how, logos, templates, anything delivered as part of the support of other services, and any updates, modifications, or derivative works of any of the foregoing (all of which is deemed Monta&#39;s confidential information) and that Monta reserves any licenses not specifically granted in this Agreement. You acknowledge and agree that you have no right to obtain a copy of the software behind any of the Services and that Monta has sole discretion to make updates, bug fixes, modifications or improvements to the Services from time to time. Monta reserves the right to change or remove features of the Services from time to time.
 
-## Prohibited Uses of Our Marketplace
+**6. Liability**
 
-In connection with using or accessing the the Service you will not:
+1. The use of the Services is the sole responsibility of the User. The Services are supplied &quot;as is&quot; and may be modified, updated, interrupted, suspended or discontinued at any time without notice or liability.
 
-- breach or circumvent any laws, third-party rights or our system, policies, or determinations of your account status.
-- fail to pay for Other Goods purchased by you, unless you have a valid reason.
-- manipulate the price of any item or interfere with any other users listings.
-- post false, inaccurate, misleading, deceptive, defamatory or libelous content.
-- take any action that may undermine the feedback or ratings systems.
-- transfer your Monta account and user ID to another party without our consent.
+1. All warranties, conditions and other terms implied by statute or law are, to the fullest extent permitted by law, excluded from the Agreement.
 
-## Your Information
+1. Nothing in this Agreement shall operate so as to exclude or limit either party&#39;s liability to the other for death or personal physical injury arising out of negligence, fraud or fraudulent misrepresentation.
 
-If You wish to place an Order for Other Goods available on the Marketplace, You may be asked to supply certain information relevant to Your Order
-including, without limitation, Your name, Your email, Your phone number, Your credit card number, the expiration date of Your credit card, Your billing address, and Your shipping information.
+1. Monta (or its affiliates, licensors and suppliers) shall not be liable concerning any subject matter arising from or related to this Agreement, the Services or any of the websites operated by Monta or regardless of the form of any claim or action (whether in contract, negligence, strict liability or otherwise) for; (i) any loss of profits, contracts, revenue, business, business opportunity, loss or corruption of data or recovery of data, goodwill, security breach resulting from a failure of a third party telecommunications and/or the internet, anticipated savings or revenue (regardless of whether any of these is direct, indirect or consequential); (ii) any loss or damage arising in connection with liabilities to third parties (whether direct, indirect or consequential); (iii) any matter beyond its reasonable control; and (iv) any indirect, incidental or consequential loss or damage whatsoever; or (v) damages in the aggregate for all claims in excess of amounts paid to Monta by the User (hereunder during the 12-month period preceding the date on which the first claim arose), even if Monta has been advised of the possibility of such damages. These limitations are independent from all other provisions of this Agreement and shall apply notwithstanding the failure of any remedy provided herein.
 
-You represent and warrant that: (i) You have the legal right to use any credit or debit card(s) or other payment method(s) in connection with any Order; and that (ii) the information You supply to us is true, correct and complete.
+**7. Force Majeure**
 
-By submitting such information, You grant us the right to provide the information to payment processing third parties for purposes of facilitating the completion of Your Order.
+Neither party will be liable for any delay or failure to perform its obligation under this Agreement (except payment obligations) if the delay or failure is due to causes beyond its reasonable control, such as a strike, blockade, war, act of terrorism, riot, natural disaster, failure or reduction of power or telecommunications or data networks or services, or government act.
 
-## Order Cancellation
+**8. Termination**
 
-We reserve the right to refuse or cancel Your Order at any time for certain reasons including but not limited to:
+This Agreement may be terminated by either party without notice at any time for any reason. After termination, you will no longer have access to the Services.
 
--   Goods availability
--   Errors in the description or prices for Goods
--   Errors in Your Order
+All sections of this Agreement which by their nature should survive termination will survive termination, including, without limitation, accrued rights to payment, confidentiality obligations, warranty disclaimers, and limitations of liability. Thus the termination does not affect existing claims with respect to the charging processes that have previously taken place, including the obligation to pay for all charging sessions you initiated before the termination.
 
-We reserve the right to refuse or cancel Your Order if fraud or an unauthorized or illegal transaction is suspected.
+**9. Data Protection**
 
-Cancellation of subscriptions bought via the Service, will be subject to the terms associated with the subscription.
+Monta ​​or commissioned service providers collect, process and use data pertaining to you for the implementation of the contractual relationship pursuant to the provisions of the General Data Protection Regulation (2016/679), known as GDPR, and other applicable national data protection legislation.
 
-## Transactions of Other Goods Between Buyers and Agents.
+Unique identification number that is used to identify you, your vehicle, personal details and transactional details may be transferred to the operator of the charging station for the purpose of activating the charging stations, solving potential issues regarding the charging service and invoicing. Personal details, contact details and transactional details may also be transferred to the partners of Monta for the purpose of invoicing and customer service.
 
-Through our Service, Monta provides a Marketplace for exchanging information between buyers and sellers of Other Goods, ie. monthly service subscriptions for charge points.
+Monta may use non-personal data collected in the provision of the Services in order to (i) improve the Services and its other products and services, and (ii) share statistical information with its partners.
 
-Monta does not represent either the seller or the buyer in specific transactions. Monta does not control and is not liable to or responsbile for the quality, safety, lawfulness or availability of the products or services offered for sale on Our Service or the ability of the sellers to complete a sale or the ability of buyers to complete a purchase.
+By agreeing to this Agreement, you agree to our Privacy Policy.
 
-## Fees
+**10. Waiver**
 
-We collect the following fees for using our Services:
+Monta&#39;s decision not to enforce or exercise any provision of the Agreement is not a waiver of that provision.
 
-- **Transaction fee** - any financial transaction carried out may be subject to a small transaction fee from Monta. This is only to cover transaction costs.
-- **Service fee** - our Professional customers decide to either have a subscription or not. If they have a subscription we charge a 2% fee on all Charges. If they do not have a subscription the fee is 10% on all Charges.
+**11. Assignment**
 
+The parties are not entitled to transfer their rights or obligations under the Agreement to any third party without prior written consent from Monta.
 
-Availability, Errors and Inaccuracies
--------------------------------------
+**12. Severability**
 
-We are constantly updating Our offerings of Charging and Other Goods on the Service. The Goods available on Our Service may be mispriced, described inaccurately, or unavailable, and We may experience delays in updating information regarding Other Goods on the Service and in Our advertising on other websites.
+Should any provision of the Agreement be held invalid or unenforceable for any reason or to any extent, such invalidity or enforceability shall not in any manner affect or render invalid or unenforceable the remaining provisions of the Agreement, and the application of that provision shall be enforced to the extent permitted by law.
 
-We cannot and do not guarantee the accuracy or completeness of any information, including prices, product images, specifications, availability, and services. We reserve the right to change or update information and to correct errors, inaccuracies, or omissions at any time without prior notice.
+**13. Agreement**
 
+The Agreement constitutes the entire agreement between the User and Monta in relation to its subject matter. It replaces and extinguishes all prior agreements, arrangements, collateral warranties, collateral contracts, statements, assurances, representations and understandings of any nature made by or on behalf of the parties in relation to the same, whether oral or written.
 
-Prices Policy
--------------
+No variation of this Agreement shall be effective unless it is in writing and signed by the parties (or their authorized representatives).
 
-The Company reserves the right to revise its prices at any time prior to accepting an Order.
+**14. Governing Law and Jurisdiction**
 
-The prices quoted may be revised by the Company subsequent to accepting an Order in the event of any occurrence affecting delivery caused by government action, variation in customs duties, increased shipping charges, higher foreign exchange costs and any other matter beyond the control of the Company. In that event, You will have the right to cancel Your Order.
+This Agreement is subject to the laws of Denmark.
 
+If any dispute arising out of or in connection with this Agreement were to be litigated, such dispute shall be settled by the City Court of Copenhagen as sole proper venue.
 
-User Accounts
-=============
+**15. Changes to these Terms and Conditions**
 
-When You create an account with Us, You must provide Us information that is accurate, complete, and current at all times. Failure to do so constitutes a breach of the Terms, which may result in immediate termination of Your account on Our Service.
+This Agreement was last updated on 3 December 2021.
 
-You are responsible for safeguarding the password that You use to access the Service and for any activities or actions under Your password, whether Your password is with Our Service or a Third-Party Social Media Service.
-
-You agree not to disclose Your password to any third party. You must notify Us immediately upon becoming aware of any breach of security or unauthorized use of Your account.
-
-You may not use as a username the name of another person or entity or that is not lawfully available for use, a name or trademark that is subject to any rights of another person or entity other than You without appropriate authorization, or a name that is otherwise offensive, vulgar or obscene.
-
-
-Intellectual Property
-=====================
-
-The Service and its original content (excluding Content provided by You or other users), features and functionality are and will remain the exclusive property of the Company and its licensors.
-
-The Service is protected by copyright, trademark, and other laws of both the Country and foreign countries.
-
-Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of the Company.
-
-
-Your Feedback to Us
-===================
-
-You assign all rights, title and interest in any Feedback You provide the Company. If for any reason such assignment is ineffective, You agree to grant the Company a non-exclusive, perpetual, irrevocable, royalty free, worldwide right and license to use, reproduce, disclose, sub-license, distribute, modify and exploit such Feedback without restriction.
-
-
-Links to Other Websites
-=======================
-
-Our Service may contain links to third-party web sites or services that are not owned or controlled by the Company.
-
-The Company has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that the Company shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such web sites or services.
-
-We strongly advise You to read the terms and conditions and privacy policies of any third-party web sites or services that You visit.
-
-
-Termination
-===========
-
-We may terminate or suspend Your Account immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.
-
-Upon termination, Your right to use the Service will cease immediately. If You wish to terminate Your Account, You may simply discontinue using the Service.
-
-Monta is obligated to give our Professional customers a three month notice if any major changes to our service offering is due, ie. closing down Our Service.
-
-
-Limitation of Liability
-=======================
-
-Notwithstanding any damages that You might incur, the entire liability of the Company and any of its suppliers under any provision of this Terms and Your exclusive remedy for all of the foregoing shall be limited to the amount actually paid by You through the Service or 100 USD if You haven't purchased anything through the Service.
-
-To the maximum extent permitted by applicable law, in no event shall the Company or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, loss of data or other information, for business interruption, for personal injury, loss of privacy arising out of or in any way related to the use of or inability to use the Service, third-party software and/or third-party hardware
-used with the Service, or otherwise in connection with any provision of this Terms), even if the Company or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose.
-
-Some states do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply. In these states, each party's liability will be limited to the greatest extent permitted by law.
-
-"AS IS" and "AS AVAILABLE" Disclaimer
-=====================================
-
-The Service is provided to You "AS IS" and "AS AVAILABLE" and with all faults and defects without warranty of any kind. To the maximum extent permitted under applicable law, the Company, on its own behalf and on behalf of its Affiliates and its and their respective licensors and service providers, expressly disclaims all warranties, whether express, implied, statutory or otherwise, with respect to the Service, including all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, and warranties that may arise out of course of dealing, course of performance, usage or trade practice. Without limitation to the foregoing, the Company provides no warranty or undertaking, and makes no representation of any kind that the Service will meet Your requirements, achieve any intended results, be compatible or work with any other software, applications, systems or services, operate without interruption, meet any performance or reliability standards or be error free or that any errors or defects can or will be corrected.
-
-Without limiting the foregoing, neither the Company nor any of the company's provider makes any representation or warranty of any kind, express or implied:
-
-(i) as to the operation or availability of the Service, or the information, content, and materials or products included thereon;
-
-(ii) that the Service will be uninterrupted or error-free;
-
-(iii) as to the accuracy, reliability, or currency of any information or content provided through the Service; or (iv) that the Service, its servers, the content, or e mails sent from or on behalf of the Company are free of viruses, scripts, trojan horses, worms, malware, timebombs or other harmful components.
-
-Some jurisdictions do not allow the exclusion of certain types of warranties or limitations on applicable statutory rights of a consumer, so some or all of the above exclusions and limitations may not apply to You. But in such a case the exclusions and limitations set forth in this section shall be applied to the greatest extent enforceable under applicable law.
-
-
-Governing Law
-=============
-
-The laws of the Country, excluding its conflicts of law rules, shall govern this Terms and Your use of the Service. Your use of the Application may also be subject to other local, state, national, or international laws.
-
-
-Disputes Resolution
-===================
-
-If You have any concern or dispute about the Service, You agree to first try to resolve the dispute informally by contacting the Company.
-
-
-For European Union (EU) Users
-=============================
-
-If You are a European Union consumer, you will benefit from any mandatory provisions of the law of the country in which you are resident in.
-
-
-United States Legal Compliance
-==============================
-
-You represent and warrant that (i) You are not located in a country that is subject to the United States government embargo, or that has beendesignated by the United States government as a "terrorist supporting" country, and (ii) You are not listed on any United States government list of prohibited or restricted parties.
-
-
-Severability and Waiver
-=======================
-
-Severability
-------------
-
-If any provision of these Terms is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect.
-
-Waiver
-------
-
-Except as provided herein, the failure to exercise a right or to require performance of an obligation under this Terms shall not effect a party's ability to exercise such right or require such performance at any time thereafter nor shall be the waiver of a breach constitute a waiver of any subsequent breach.
-
-
-Translation Interpretation
-==========================
-
-These Terms and Conditions may have been translated if We have made them available to You on our Service. You agree that the original English text shall prevail in the case of a dispute.
-
-
-Changes to These Terms and Conditions
-=====================================
-
-We reserve the right, at Our sole discretion, to modify or replace these Terms at any time. If a revision is material We will make reasonable efforts to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at Our sole discretion.
-
-By continuing to access or use Our Service after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, please stop using the website and the Service.
-
-
-Contact Us
-==========
-
-If you have any questions about these Terms and Conditions, You can
-contact us:
-
--   By email: info@monta.app
+Monta reserves the right in its sole discretion, to modify, update, or otherwise revise these Terms and Conditions at any time. Such revisions shall be effective immediately upon posting revised Terms and Conditions on this webpage. Monta will notify you of any material changes to this Agreement. By using the Services after Monta has posted any modification, updates, or revisions, the User agrees to be bound by such revised Terms and Conditions. If any modification, update, or other change to these Terms and Conditions are not acceptable to you, then you have the right to immediately terminate these Terms and Conditions and must immediately terminate your use or access to the Services.
