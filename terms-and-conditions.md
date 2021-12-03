@@ -30,11 +30,9 @@ For enterprises, business entities and other partners, Services may include both
 
 Monta also sells physical goods, such as charge keys, QR stickers and SIM cards on the Monta Shop, where the prices will be clearly stated before purchase.
 
-Before the charging process, the price will be clearly displayed as fees per kWh of consumed energy, parking fees for time of parking at the charging station, and if applicable charging session starting fees and fees for time of charging. You acknowledge that the final and payable price of the charging service is directly dependent on use, for example on the amount of consumed energy, and is therefore not always automatically provided before the start of the charging process.
+Before the charging process, the price will be clearly displayed as fees per kWh of consumed energy, parking fees for time of parking at the charging station, and if applicable charging session starting fees and fees for time of charging. There may also be fees if the User decides to reserve a charging station, and if they do not show up, or overstay. You acknowledge that the final and payable price of the charging service is directly dependent on use, for example on the amount of consumed energy, and is therefore not always automatically provided before the start of the charging process.
 
-ADD RESERVATION FEES
-
-The User may transfer their desired amount of money to their customer account (&quot;Monta Wallet&quot;) to be used to pay for charging processes. The User may choose to transfer money to their Monta Wallet either manually or automatically when the balance goes below a certain amount. The User may also withdraw their balance from their Monta Wallet. After each charging transaction, the amount corresponding to the transaction is charged from the Monta Wallet. Monta shall deliver a monthly receipt of the use of the charging Service, including each charging transaction executed during the month in question. The User must see to it that the Monta Wallet has sufficient balance for the charging transaction.
+The User may transfer their desired amount of money to their customer account (“Monta Wallet”) to be used to pay for charging processes. The User may choose to transfer money to their Monta Wallet either manually or automatically when the balance goes below a certain amount. The User may also withdraw their balance from their Monta Wallet. After each charging transaction, the amount corresponding to the transaction is charged from the Monta Wallet. Monta shall deliver a receipt of the use of the charging Service, including each charging transaction executed. The User must see to it that the Monta Wallet has sufficient balance for the charging transaction.
 
 Other payment methods include debit/credit card and invoices.
 
@@ -42,7 +40,7 @@ Other payment methods include debit/credit card and invoices.
 
 Monta may charge you via a variety of payment methods, such as your Monta Wallet, debit/credit card and/or invoices.
 
-Invoices may be sent by Monta via mail or email, and is also accessible in your user account within the Services. Full payment for invoices issued must be received by Monta thirty (30) days after the mailing date of the invoice, unless otherwise stated. Unpaid amounts are subject to a charge of 1.5% per month on any outstanding balance, or the maximum permitted by law, whichever is lower, plus all expenses of collection and may result in immediate termination of Services.
+Invoices may be sent by Monta via mail or email, and is also accessible in your user account within the Services. Full payment for invoices issued must be received by Monta fifteen (15) days after the issue date of the invoice, unless otherwise stated. The due date will be stated on the invoice. Unpaid amounts are subject to a charge of 1.5% per month on any outstanding balance, or the maximum permitted by law, whichever is lower, plus all expenses of collection and may result in immediate termination of Services.
 
 Monta may suspend access to the Services, with immediate effect, if the User fails to pay any fees invoiced by Monta pursuant to this Agreement. Suspension will not relieve the User of its obligation to pay such invoices or any other fees payable to Monta for the relevant Services.
 
