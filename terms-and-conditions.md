@@ -2,7 +2,7 @@ Monta ApS
 
 Middelfartgade 15, 2100, Copenhagen, Denmark
 
-[info@monta.app](mailto://info@monta.app)
+[info@monta.app](mailto:info@monta.app)
 
 Company registration number: 41668385
 
