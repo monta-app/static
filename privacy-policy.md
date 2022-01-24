@@ -1,6 +1,6 @@
 Monta ApS
 
-Middelfartgade 15, 2100, Copenhagen, Denmark
+Strandboulevarden 122, 2100 Copenhagen, Denmark
 
 info@monta.app
 
@@ -110,7 +110,7 @@ Cookies are text files placed on your computer or other devices to collect stand
 
 Monta keeps its privacy policy under regular review and places any updates on this webpage. Please regularly check this privacy policy to ensure you are aware of the most updated version.
 
-This privacy policy was last updated on 3 December 2021.
+This privacy policy was last updated on 24 January 2022.
 
 **8. How to contact us**
 
