@@ -1,6 +1,6 @@
 Monta ApS
 
-Middelfartgade 15, 2100, Copenhagen, Denmark
+Strandboulevarden 122, 2100 Copenhagen, Denmark
 
 [info@monta.app](mailto:info@monta.app)
 
@@ -122,6 +122,6 @@ If any dispute arising out of or in connection with this Agreement were to be li
 
 **15. Changes to these Terms and Conditions**
 
-This Agreement was last updated on 3 December 2021.
+This Agreement was last updated on 28 January 2022.
 
 Monta reserves the right in its sole discretion, to modify, update, or otherwise revise these Terms and Conditions at any time. Such revisions shall be effective immediately upon posting revised Terms and Conditions on this webpage. Monta will notify you of any material changes to this Agreement. By using the Services after Monta has posted any modification, updates, or revisions, the User agrees to be bound by such revised Terms and Conditions. If any modification, update, or other change to these Terms and Conditions are not acceptable to you, then you have the right to immediately terminate these Terms and Conditions and must immediately terminate your use or access to the Services.
