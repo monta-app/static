@@ -2,7 +2,7 @@
 
 Monta ApS
 
-Middelfartgade 15, 2100, Copenhagen, Denmark
+Strandboulevarden 122, 2100 Copenhagen, Denmark
 
 info@monta.app
 
