@@ -20,6 +20,8 @@ By registering for the Services and accepting these Terms of Use you enter into 
 
 All transactions that are part of the Services including, but not limited to, ordering of charging keys and initiating charging sessions, are governed by such agreement. Registration without explicit acceptance of these Terms of Conditions is not possible.
 
+When you make an order for the charging of an electric vehicle through the Services, Monta acts as an agent on behalf of the Operator to conclude your order and to manage your experience throughout the order process. Monta is not liable and does not take any responsibility for the provision of the charging of electric vehicles by users.
+
 **3. Prices**
 
 All applicable prices are exclusive of VAT or unless otherwise stated and are indicated on the Services before the start of a charging process or any other transaction is initiated.
@@ -122,6 +124,6 @@ If any dispute arising out of or in connection with this Agreement were to be li
 
 **15. Changes to these Terms and Conditions**
 
-This Agreement was last updated on 28 January 2022.
+This Agreement was last updated on 3 February 2022.
 
 Monta reserves the right in its sole discretion, to modify, update, or otherwise revise these Terms and Conditions at any time. Such revisions shall be effective immediately upon posting revised Terms and Conditions on this webpage. Monta will notify you of any material changes to this Agreement. By using the Services after Monta has posted any modification, updates, or revisions, the User agrees to be bound by such revised Terms and Conditions. If any modification, update, or other change to these Terms and Conditions are not acceptable to you, then you have the right to immediately terminate these Terms and Conditions and must immediately terminate your use or access to the Services.
