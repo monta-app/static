@@ -110,6 +110,6 @@ Sales by Monta. This Agreement shall in no way limit our right to make available
 
 Authority. Each party represents and warrants to the other that it has full power and authority to enter into this Agreement and that it is binding upon such party and enforceable in accordance with its terms.
 
-Survival. The following sections shall survive the expiration or termination of this Agreement: &#39;Proprietary Rights&#39;, &#39;Confidentiality&#39;, &#39;Effects of Termination/Expiration&#39;, &#39;Indemnification&#39;, &#39;Disclaimers; Limitation of Liability&#39;, &#39;Non-Solicitation&#39; and &#39;General&#39;.
+Survival. The following sections shall survive the expiration or termination of this Agreement: &#39;Proprietary Rights&#39;, &#39;Confidentiality&#39;, &#39;Termination&#39;, &#39;Indemnification&#39;, &#39;Disclaimers; Limitation of Liability&#39;, &#39;Non-Solicitation&#39; and &#39;General&#39;.
 
 This Agreement was last updated on 15 February 2022.
