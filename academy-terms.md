@@ -4,7 +4,7 @@ We periodically update these terms, and you can find the most recent version on 
 
 **1. Definitions**
 
-&quot;AcademyPortal&quot; means all of our web-based inbound marketing and sales applications, tools and platforms that we may make available to you, and are developed, operated, and maintained by us, accessible via http://monta.com or another designated URL, and any ancillary products and services, including website hosting, that we provide to you for your use in accordance with the terms of this Agreement.
+&quot;Academy Portal&quot; means all of our web-based inbound marketing and sales applications, tools and platforms that we may make available to you, and are developed, operated, and maintained by us, accessible via http://monta.com or another designated URL, and any ancillary products and services, including website hosting, that we provide to you for your use in accordance with the terms of this Agreement.
 
 &quot;Academy Content&quot; means all information, data, text, messages, software, sound, music, video, photographs, graphics, images, and tags that we incorporate into our Monta Academy certification resources and make available to you under this Agreement.
 
