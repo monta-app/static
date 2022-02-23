@@ -4,7 +4,7 @@ We periodically update these terms, and you can find the most recent version on 
 
 **1. Definitions**
 
-&quot;Academy Portal&quot; means all of our web-based inbound marketing and sales applications, tools and platforms that we may make available to you, and are developed, operated, and maintained by us, accessible via http://monta.com or another designated URL, and any ancillary products and services, including website hosting, that we provide to you for your use in accordance with the terms of this Agreement.
+&quot;Academy Portal&quot; means all of our web-based inbound marketing and sales applications, tools and platforms that we may make available to you, and are developed, operated, and maintained by us, accessible via https://monta.com or another designated URL, and any ancillary products and services, including website hosting, that we provide to you for your use in accordance with the terms of this Agreement.
 
 &quot;Academy Content&quot; means all information, data, text, messages, software, sound, music, video, photographs, graphics, images, and tags that we incorporate into our Monta Academy certification resources and make available to you under this Agreement.
 
@@ -14,7 +14,7 @@ We periodically update these terms, and you can find the most recent version on 
 
 &quot;Customer Terms of Service&quot; means those terms and conditions located at https://app.monta.app/terms-and-conditions, as modified from time to time.
 
-&quot;Academy Partner Benefits&quot; means the benefits made available to partners which we have described at http://academy.monta.com, or another website we may designate.
+&quot;Academy Partner Benefits&quot; means the benefits made available to partners which we have described at https://academy.monta.com, or another website we may designate.
 
 &quot;Academy Partner Program&quot; means our partner program as described in this Agreement.
 
