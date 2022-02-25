@@ -92,6 +92,12 @@ We are using a handful of data storages:
 
 - Google Analytics is the provider of analytics for our websites.
 
+- Hubspot is our customer relationship management system.
+
+- Totango is our customer success software.
+
+- Workable is used for talent acquisition, including applicant tracking system.
+
 - Service providers selling subscriptions will get access to only the minimum required user data needed such as name, address, phone and email when a subscription is pending or active.
 
 - Stripe handles credit card and banking information.
