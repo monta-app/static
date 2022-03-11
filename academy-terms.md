@@ -78,7 +78,7 @@ a. Disclaimer of Warranties. WE AND OUR AFFILIATES AND AGENTS MAKE NO REPRESENTA
 
 b. No Indirect Damages. TO THE EXTENT PERMITTED BY LAW, IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INDIRECT, PUNITIVE, OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS OR BUSINESS OPPORTUNITIES.
 
-c. Limitation of Liability. IF, NOTWITHSTANDING THE OTHER TERMS OF THIS AGREEMENT, WE ARE DETERMINED TO HAVE ANY LIABILITY TO YOU OR ANY THIRD PARTY, THE PARTIES AGREE THAT OUR AGGREGATE LIABILITY WILL BE LIMITED TO FIVE HUNDRED DOLLARS.
+c. Limitation of Liability. IF, NOTWITHSTANDING THE OTHER TERMS OF THIS AGREEMENT, WE ARE DETERMINED TO HAVE ANY LIABILITY TO YOU OR ANY THIRD PARTY, THE PARTIES AGREE THAT OUR AGGREGATE LIABILITY WILL BE LIMITED TO FIVE HUNDRED EUROS.
 
 d. Academy Portal. WE DISCLAIM ALL LIABILITY WITH RESPECT TO THE Academy Portal THAT YOU OR YOUR END USERS USE.
 
@@ -110,6 +110,6 @@ Sales by Monta. This Agreement shall in no way limit our right to make available
 
 Authority. Each party represents and warrants to the other that it has full power and authority to enter into this Agreement and that it is binding upon such party and enforceable in accordance with its terms.
 
-Survival. The following sections shall survive the expiration or termination of this Agreement: &#39;Proprietary Rights&#39;, &#39;Confidentiality&#39;, &#39;Termination&#39;, &#39;Indemnification&#39;, &#39;Disclaimers; Limitation of Liability&#39;, &#39;Non-Solicitation&#39; and &#39;General&#39;.
+Survival. The following sections shall survive the expiration or termination of this Agreement: &#39;Proprietary Rights&#39;, &#39;Confidentiality&#39;, &#39;Termination&#39;, &#39;Indemnification&#39;, &#39;Disclaimers; Limitation of Liability&#39;, and &#39;General&#39;.
 
-This Agreement was last updated on 15 February 2022.
+This Agreement was last updated on 11 March 2022.
