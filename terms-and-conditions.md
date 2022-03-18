@@ -16,9 +16,9 @@ Services may include, but are not limited to, mobile applications and/or website
 
 **2. Acceptance**
 
-By registering for the Services and accepting these Terms of Use you enter into an agreement with Monta which allows you to use the Services.
+By registering for the Services and accepting these Terms and Conditions you enter into an agreement with Monta which allows you to use the Services.
 
-All transactions that are part of the Services including, but not limited to, ordering of charging keys and initiating charging sessions, are governed by such agreement. Registration without explicit acceptance of these Terms of Conditions is not possible.
+All transactions that are part of the Services including, but not limited to, initiating charging sessions as well as ordering and using RFID cards, are governed by such agreement. Registration without explicit acceptance of these Terms and Conditions is not possible.
 
 When you make an order for the charging of an electric vehicle through the Services, Monta acts as an agent on behalf of the Operator to conclude your order and to manage your experience throughout the order process. Monta is not liable and does not take any responsibility for the provision of the charging of electric vehicles by users.
 
@@ -30,7 +30,7 @@ Monta is free for personal use, but may charge for certain Services, such as tra
 
 For enterprises, business entities and other partners, Services may include both transaction fees and monthly subscription plans.
 
-Monta also sells physical goods, such as charge keys, QR stickers and SIM cards on the Monta Shop, where the prices will be clearly stated before purchase.
+Monta also sells physical goods, such as but not limited to RFID cards, QR stickers and SIM cards on the Monta Shop, where the prices will be clearly stated before purchase.
 
 Before the charging process, the price will be clearly displayed as fees per kWh of consumed energy, parking fees for time of parking at the charging station, and if applicable charging session starting fees and fees for time of charging. There may also be fees if the User decides to reserve a charging station, and if they do not show up, or overstay. You acknowledge that the final and payable price of the charging service is directly dependent on use, for example on the amount of consumed energy, and is therefore not always automatically provided before the start of the charging process.
 
@@ -124,6 +124,6 @@ If any dispute arising out of or in connection with this Agreement were to be li
 
 **15. Changes to these Terms and Conditions**
 
-This Agreement was last updated on 3 February 2022.
+This Agreement was last updated on 18 March 2022.
 
 Monta reserves the right in its sole discretion, to modify, update, or otherwise revise these Terms and Conditions at any time. Such revisions shall be effective immediately upon posting revised Terms and Conditions on this webpage. Monta will notify you of any material changes to this Agreement. By using the Services after Monta has posted any modification, updates, or revisions, the User agrees to be bound by such revised Terms and Conditions. If any modification, update, or other change to these Terms and Conditions are not acceptable to you, then you have the right to immediately terminate these Terms and Conditions and must immediately terminate your use or access to the Services.
