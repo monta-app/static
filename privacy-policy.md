@@ -28,7 +28,7 @@ Information that you provide to us when using the services on our website, user 
 
 Information relating to any purchases you make of Monta&#39;s goods and services or any other transactions (such as charge keys) that you enter into our website, user portal or mobile applications (such as name, contact details, address, cost, and transaction details but excluding payment information).
 
-If you submit payment information, we utilize a third party credit card payment processing company to collect payment information, such as your debit/credit card number, billing address, and phone number. In such circumstances, the third party service provider, and not Monta, stores your payment information on our behalf.
+We use Stripe as a third party credit card payment processing company to collect payment information. If you submit payment information, we will share with Stripe information such as your debit/credit card number, billing address, phone number, and installed application information in order to process payments.
 
 We collect your phone number and installed application information in order to process payments to your Monta Wallet inside of the application.
 
@@ -110,7 +110,7 @@ Cookies are text files placed on your computer or other devices to collect stand
 
 Monta keeps its privacy policy under regular review and places any updates on this webpage. Please regularly check this privacy policy to ensure you are aware of the most updated version.
 
-This privacy policy was last updated on 24 January 2022.
+This privacy policy was last updated on 3 May 2022.
 
 **8. How to contact us**
 
