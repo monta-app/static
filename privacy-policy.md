@@ -1,8 +1,10 @@
+PRIVACY POLICY
+
 Monta ApS
 
 Strandboulevarden 122, 2100 Copenhagen, Denmark
 
-info@monta.app
+info@monta.com
 
 Company registration number: 41668385
 
@@ -110,7 +112,7 @@ Cookies are text files placed on your computer or other devices to collect stand
 
 Monta keeps its privacy policy under regular review and places any updates on this webpage. Please regularly check this privacy policy to ensure you are aware of the most updated version.
 
-This privacy policy was last updated on 3 May 2022.
+This privacy policy was last updated on 16 May 2022.
 
 **8. How to contact us**
 
