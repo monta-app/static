@@ -8,7 +8,7 @@ Company registration number: 41668385
 
 **1. General**
 
-These Terms and Conditions (the &quot;Agreement&quot;) are entered into between the entity/person using or accessing the Services (the &quot;User&quot; or &quot;You&quot;) and Monta ApS (&quot;Monta&quot; or &quot;we&quot;), collectively referred to as the &quot;Parties&quot; or each a &quot;Party&quot;.
+These Terms of Use (the &quot;Agreement&quot;) are entered into between the entity/person using or accessing the Services (the &quot;User&quot; or &quot;You&quot;) and Monta ApS (&quot;Monta&quot; or &quot;we&quot;), collectively referred to as the &quot;Parties&quot; or each a &quot;Party&quot;.
 
 This Agreement together with the Monta [Privacy Policy](https://app.monta.app/privacy-policy) govern your use of the services operated by Monta (&quot;Services&quot;).
 
@@ -34,13 +34,13 @@ Monta also sells physical goods, such as but not limited to RFID cards, QR stick
 
 Before the charging process, the price will be clearly displayed as fees per kWh of consumed energy, parking fees for time of parking at the charging station, and if applicable charging session starting fees and fees for time of charging. There may also be fees if the User decides to reserve a charging station, and if they do not show up, or overstay. You acknowledge that the final and payable price of the charging service is directly dependent on use, for example on the amount of consumed energy, and is therefore not always automatically provided before the start of the charging process.
 
-The User may transfer their desired amount of money to their customer account (“Monta Wallet” or "Wallet") to be used to pay for charging processes. The User may choose to transfer money to their Monta Wallet either manually or automatically when the balance goes below a certain amount. The User may also withdraw their balance from their Monta Wallet. After each charging transaction, the amount corresponding to the transaction is charged from the Monta Wallet. Monta shall deliver a receipt of the use of the charging Service, including each charging transaction executed. The User must see to it that the Monta Wallet has sufficient balance for the charging transaction.
+The User may transfer their desired amount of money to their customer account ("Wallet") to be used to pay for charging processes. The User may choose to transfer money to their Monta Wallet either manually or automatically when the balance goes below a certain amount. The User may also withdraw their balance from their Wallet. After each charging transaction, the amount corresponding to the transaction is charged from the Wallet. Monta shall deliver a receipt of the use of the charging Service, including each charging transaction executed. The User must see to it that the Wallet has sufficient balance for the charging transaction.
 
 Other payment methods include debit/credit card and invoices.
 
 **4. Billing**
 
-Monta may charge you via a variety of payment methods, such as your Monta Wallet, debit/credit card and/or invoices.
+Monta may charge you via a variety of payment methods, such as your Wallet, debit/credit card and/or invoices.
 
 Invoices may be sent by Monta via mail or email, and is also accessible in your Monta user account. Full payment for invoices issued must be received by Monta fifteen (15) days after the issue date of the invoice, unless otherwise stated. The due date will be stated on the invoice. Unpaid amounts are subject to a charge of 1.5% per month on any outstanding balance, or the maximum permitted by law, whichever is lower, plus all expenses of collection and may result in immediate termination of Services.
 
@@ -78,9 +78,9 @@ Defects: The Danish Sale of Goods Act applies to any defects to the delivered Pr
 
 Dispute resolution: Any claim under Danish law may be brought before the Danish Consumer Complaints Board or the Danish Center for Complaints Resolution, which can be accessed on the website of the Center for Klageløsning og Forbrugerklagenævnet (naevneneshus.dk). An alternative dispute resolution procedure is also offered by the European Commission to citizens of EU and EEA member states through their platform for Online Dispute Resolution. If you are not satisfied with the outcome of this procedure, you can still bring ordinary legal proceedings.
 
-Monta referrals and promo codes: Credits received in your Monta Wallet from referrals or promotion codes may only be used for purchases by use of the Services and cannot be withdrawn. Referrals and promo codes may only be shared with potential real persons who are not existing Monta users. Any violation hereof will result in such credits being annulled. Unused credits are automatically without notice removed from your account 6 months from the date they were received.   
+Monta referrals and promo codes: Credits received in your Wallet from referrals or promotion codes may only be used for purchases by use of the Services and cannot be withdrawn. Referrals and promo codes may only be shared with potential real persons who are not existing Monta users. Any violation hereof will result in such credits being annulled. Unused credits are automatically without notice removed from your account 6 months from the date they were received.   
 
-Monta Wallet: Funds on your Monta Wallet may be used only to pay for charging services. You may only place amounts in your Wallet within the limit of what is required for your own charging needs and use of Monta's services. By using the Monta Wallet for a transaction, you verify that you are the authentic user. If you become aware of any misuse, you are required to immediately report this to us and we may then block access to the Services.
+Wallet: Funds on your Wallet may be used only to pay for charging services. You may only place amounts in your Wallet within the limit of what is required for your own charging needs and use of Monta's services. By using the Wallet for a transaction, you verify that you are the authentic user. If you become aware of any misuse, you are required to immediately report this to us and we may then block access to the Services.
 
 
 **7. Liability**
