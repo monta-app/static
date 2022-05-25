@@ -1,9 +1,14 @@
 **Nutzungsbedingungen**
 
 Monta Platform GmbH
-Paul-Lincke-Ufer 41, 10999 Berlin, Deutschland
 
-A subsidiary of Monta ApS, Strandboulevarden 122, 2100 Copenhagen, Denmark, Handelsregisternummer: 41668385
+Paul-Lincke-Ufer 41, 
+
+10999 Berlin, 
+
+Deutschland
+
+A subsidiary of Monta ApS (Handelsregisternummer: 41668385)
 
 info@monta.com
 
