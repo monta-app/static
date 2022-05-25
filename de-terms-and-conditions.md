@@ -1,32 +1,28 @@
-**Allgemeine Geschäftsbedingungen**
+**Nutzungsbedingungen**
 
 Monta Platform GmbH
+Paul-Lincke-Ufer 41, 10999 Berlin, Deutschland
 
-Paul-Lincke-Ufer 41
-
-10999 Berlin
-
-Deutschland
+A subsidiary of Monta ApS, Strandboulevarden 122, 2100 Copenhagen, Denmark, Handelsregisternummer: 41668385
 
 info@monta.com
 
-Handelsregisternummer: 41668385
 
 **1. Allgemeines**
 
 1.1 Monta ist ein Anbieter von Softwarelösungen. Das Angebot ist in zwei Bereiche aufgeteilt, die Monta App und das Monta Partnerportal. Die Monta App richtet sich hauptsächlich an den Endnutzer/E-Fahrer und ermöglicht es verfügbare Ladestationen zu finden und dort zu laden. Des Weiteren kann die App u.a. genutzt werden, um die eigene Ladestation zu kontrollieren und anderen Nutzern Zugriff zur eigenen Ladestation zu geben. Das Monta Partnerportal richtet sich hauptsächlich an Zielgruppen wie Installateure, Großhändler, Ladestationshersteller und -betreiber, Unternehmen, WEGs oder andere betriebliche Nutzer. Das Partnerportal bietet unter anderem die Möglichkeit Ladestationen, Nutzer und Zahlungen zu verwalten und ermöglicht es die Ladestationen an die individuellen Bedürfnisse anzupassen.
 
-1.2 Diese Geschäftsbedingungen gelten in dem Vertrag zwischen dem Unternehmen (B2B)/der Person (B2C), das/die die Dienstleistungen nutzt oder auf sie zugreift („der Nutzer&quot; oder „Sie&quot;) und Monta ApS („Monta&quot; oder „wir&quot;), gemeinsam bezeichnet als die „Parteien&quot; oder einzeln die „Partei&quot;.
+1.2 Diese Nutzungsbedingungen gelten in dem Vertrag zwischen dem Unternehmen (B2B)/der Person (B2C), das/die die Dienstleistungen nutzt oder auf sie zugreift („der Nutzer&quot; oder „Sie&quot;) und Monta ApS („Monta&quot; oder „wir&quot;), gemeinsam bezeichnet als die „Parteien&quot; oder einzeln die „Partei&quot;.
 
-1.3 Verbunden mit den Datenschutzbestimmungen von Monta regeln die vorliegenden Geschäftsbedingungen die Nutzung der von Monta angebotenen Dienstleistungen („Dienstleistungen&quot;) durch Sie.
+1.3 Verbunden mit den Datenschutzbestimmungen von Monta regeln die vorliegenden Nutzungsbedingungen die Nutzung der von Monta angebotenen Dienstleistungen („Dienstleistungen&quot;) durch Sie.
 
 1.4 Zu den Dienstleistungen können unter anderem von Monta unter eigener Marke und/oder unter den Marken seiner Partner betriebene mobile Anwendungen und/oder Websites gehören. Diese Dienstleistungen umfassen unter anderem alle Eigenschaften und Funktionen, darunter auch Websites, Benutzer-Portale, mobile Anwendungen, Content und Benutzerschnittstellen, im Zusammenhang mit der Monta-Plattform für Fahrer von Elektroautos und Bedienern von Ladestation, auf denen die Benutzer Ladestation verwalten und suchen und für den Ladevorgang von Elektrofahrzeugen bezahlen.
 
 **2. Annahme**
 
-2.1 Durch die Registrierung für die Dienstleistungen und die Annahme dieser Geschäftsbedingungen schließen Sie einen Vertrag mit Monta ab, der Ihnen die Inanspruchnahme der Dienstleistungen erlaubt.
+2.1 Durch die Registrierung für die Dienstleistungen und die Annahme dieser Nutzungsbedingungen schließen Sie einen Vertrag mit Monta ab, der Ihnen die Inanspruchnahme der Dienstleistungen erlaubt.
 
-2.2 Alle Geschäfte, die Teil der Dienstleistungen sind, darunter u.a. die Bestellung von Ladekarten und die Einleitung von Ladevorgängen unterliegen den Bestimmungen des zwischen Ihnen und Monta abgeschlossenen Dienstleistungsvertrags. Eine Registrierung ohne die ausdrückliche Annahme dieser Geschäftsbedingungen ist nicht möglich.
+2.2 Alle Geschäfte, die Teil der Dienstleistungen sind, darunter u.a. die Bestellung von Ladekarten und die Einleitung von Ladevorgängen unterliegen den Bestimmungen des zwischen Ihnen und Monta abgeschlossenen Dienstleistungsvertrags. Eine Registrierung ohne die ausdrückliche Annahme dieser Nutzungsbedingungen ist nicht möglich.
 
 **3. Preise**
 
@@ -114,9 +110,9 @@ Die Parteien sind ohne schriftliche Zustimmung von Monta nicht zur Übertragung 
 
 Sofern eine Bestimmung des Vertrags aus jedwedem Grund oder in jedwedem Umfang als unwirksam oder nicht vollstreckbar gilt, hat besagte Unwirksamkeit oder Nichtvollstreckbarkeit keinerlei Auswirkungen auf die übrigen Bestimmungen des Vertrags und die Anwendung besagter Bestimmung wird im gesetzlich zulässigen Umfang vollstreckt.
 
-**13. Allgemeine Geschäftsbedingungen (AGB)**
+**13. Nutzungsbedingungen**
 
-Diese AGB regeln den Vertragsinhalt zwischen dem Nutzer und Monta in Bezug auf den Vertragsgegenstand dar. Er ersetzt und hebt sämtliche vorangegangenen Vereinbarungen, Abmachungen, Nebenvereinbarungen, Nebenverträge, Aussagen, Zusicherungen, Erklärungen und Absprachen auf, die die Parteien in diesem Zusammenhang in mündlicher oder schriftlicher Form abgegeben haben oder die in ihrem Namen erfolgt sind.
+Diese Nutzungsbedingungen regeln den Vertragsinhalt zwischen dem Nutzer und Monta in Bezug auf den Vertragsgegenstand dar. Er ersetzt und hebt sämtliche vorangegangenen Vereinbarungen, Abmachungen, Nebenvereinbarungen, Nebenverträge, Aussagen, Zusicherungen, Erklärungen und Absprachen auf, die die Parteien in diesem Zusammenhang in mündlicher oder schriftlicher Form abgegeben haben oder die in ihrem Namen erfolgt sind.
 
 Änderungen an diesen AGB sind nur wirksam, wenn sie schriftlich erfolgen und von den Parteien (oder ihren bevollmächtigten Vertretern) unterzeichnet sind.
 
@@ -126,8 +122,8 @@ Diese AGB sind durch die dänischen Gesetze geregelt.
 
 Für Streitigkeiten aufgrund oder im Zusammenhang mit AGB ist der Gerichtsstand Kopenhagen als alleiniger Gerichtsstand zuständig.
 
-**15. Änderungen an diesen Geschäftsbedingungen**
+**15. Änderungen an diesen Nutzungsbedingungen**
 
 Diese AGB wurden zuletzt am 24. Januar 2022 aktualisiert.
 
-Monta behält sich das Recht vor, diese Geschäftsbedingungen jederzeit nach eigenem Ermessen zu ändern, zu aktualisieren oder anderweitig zu überarbeiten. Die besagte Überarbeitung ist unmittelbar nach der Veröffentlichung der überarbeiteten Geschäftsbedingungen auf dieser Website wirksam. Monta informiert Sie über alle rechtserheblichen Änderungen an diesem Vertrag. Durch die Nutzung der Dienstleistungen nach der Veröffentlichung von Änderungen, Aktualisierungen oder Überarbeitungen durch Monta verpflichtet sich der Benutzer zur Einhaltung besagter überarbeiteter Geschäftsbedingungen. Wenn Sie mit einer Änderung, Aktualisierung oder sonstigen Änderungen dieser Bedingungen nicht einverstanden sind, können Sie die vorliegenden Bedingungen mit sofortiger Wirkung kündigen und müssen Ihre Nutzung oder Ihren Zugang zu den Diensten unverzüglich beenden.
+Monta behält sich das Recht vor, diese Nutzungsbedingungen jederzeit nach eigenem Ermessen zu ändern, zu aktualisieren oder anderweitig zu überarbeiten. Die besagte Überarbeitung ist unmittelbar nach der Veröffentlichung der überarbeiteten Nutzungsbedingungen auf dieser Website wirksam. Monta informiert Sie über alle rechtserheblichen Änderungen an diesem Vertrag. Durch die Nutzung der Dienstleistungen nach der Veröffentlichung von Änderungen, Aktualisierungen oder Überarbeitungen durch Monta verpflichtet sich der Benutzer zur Einhaltung besagter überarbeiteter Nutzungsbedingungen. Wenn Sie mit einer Änderung, Aktualisierung oder sonstigen Änderungen dieser Bedingungen nicht einverstanden sind, können Sie die vorliegenden Bedingungen mit sofortiger Wirkung kündigen und müssen Ihre Nutzung oder Ihren Zugang zu den Diensten unverzüglich beenden.
