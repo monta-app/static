@@ -20,7 +20,7 @@ By registering for the Services and accepting this Agreement you enter into an a
 
 All transactions that are part of the Services including, but not limited to, initiating charging sessions as well as ordering and using RFID cards, are governed by such agreement. Registration without explicit acceptance of this Agreement is not possible.
 
-When you make an order for the charging of an electric vehicle through the Services, Monta acts as an agent on behalf of the Operator to conclude your order and to manage your experience throughout the order process. Monta is not liable and does not take any responsibility for the provision of the charging of electric vehicles by users.
+When you make an order for the charging of an electric vehicle through the Services, Monta acts as an agent on behalf of the Operator to conclude your order and to manage your experience throughout the order process. If during this proces Monta has received an amount payable by a User to an Operator, such payment shall discharge the User of any payment obligation towards the Operator. Monta is not liable and does not take any responsibility for the provision of the charging of electric vehicles by users.
 
 **3. Prices**
 
@@ -133,6 +133,6 @@ If any dispute arising out of or in connection with this Agreement were to be li
 
 **15. Changes to these Terms of Use**
 
-This Agreement was last updated on 24 May 2022.
+This Agreement was last updated on 9 June 2022.
 
 Monta reserves the right in its sole discretion, to modify, update, or otherwise revise the Terms of Use at any time. Such revisions shall be effective immediately upon posting updates to the Terms of Use on this webpage. Monta will notify you of any material changes to the terms. By using the Services after Monta has posted any modification, updates, or revisions, the User agrees to be bound by such revised Terms of Use. If any modification, update, or other change to these Terms of Use are not acceptable to you, then you have the right to terminate this Agreement provided you immediately terminate your use or access to the Services.
