@@ -69,31 +69,45 @@ Company registration number: 41668385
 
 5.10 Sie erkennen an, dass Monta alle Rechte, Rechtsansprüche und Interessen (einschließlich aller Rechte am geistigen Eigentum) an den Dienstleistungen sowie an allen damit zusammenhängenden oder zugrundeliegenden Dokumentationen, Technologien, Codes, Know-how, Logos, Vorlagen und allem anderen hat, was als Teil des Supports anderer Dienstleistungen geliefert wird, sowie an Aktualisierungen, Änderungen oder Bearbeitungen der vorgenannten (die alle als vertrauliche Informationen von Monta gelten), und dass Monta alle nicht spezifisch in diesem Vertrag gewährten Lizenzen vorbehält. Sie nehmen zustimmend zur Kenntnis, dass Sie keine Rechte auf Erhalt einer Kopie der Software hinter den Dienstleistungen haben und dass Monta nach eigenem Ermessen von Zeit zu Zeit Aktualisierungen vornehmen, Fehler beheben, Änderungen oder Verbesserungen der Dienstleistungen vornehmen kann. Monta behält sich von Zeit zu Zeit das Recht auf Änderung oder Aufhebung von Eigenschaften der Dienstleistungen vor.
 
-**6. Haftbarkeit**
+**6. Verbraucher**
 
-6.1 Für die Nutzung der Dienstleistungen ist ausschließlich der Nutzer haftbar. Die Dienstleistungen werden in der vorliegenden Form bereitgestellt und können jederzeit und ohne entsprechende Mitteilung oder Haftbarkeit geändert, aktualisiert, unterbrochen, ausgesetzt oder eingestellt werden.
+6.1 Rücknahme und Rückgabe von Produkten: Sie haben das Recht, den Vertrag innerhalb von vierzehn (14) Tagen ab dem Tag zu widerrufen, an dem Sie oder ein von Ihnen benannter Dritter in den Besitz einer von Monta gekauften physischen Ware („Produkt“) gelangt sind. Sie müssen Monta über Ihren Entschluss, den Vertrag zu widerrufen, mittels einer weiteren unmissverständlichen Erklärung (z. B. eine E-Mail an info@monta.com) informieren. Wenn Sie vom Vertrag zurücktreten wollen, müssen Sie die Produkte unverzüglich, spätestens jedoch innerhalb von 14 Tagen ab dem Tag, an dem Monta der Rücktritt mitgeteilt wurde, an Monta zurück- oder übergeben. Sie sind verpflichtet, die Produkte auf eigene Kosten und gemäß den Anweisungen von Monta an Monta zurückzusenden. Monta verpflichtet sich, alle erhaltenen Zahlungen, mit Ausnahme der von Ihnen beschlossenen außerordentlichen Lieferkosten, unverzüglich und in jedem Fall spätestens 14 Tage nach dem Tag, an dem Monta die zurückgegebenen Produkte erhält, zu erstatten. Für diese Rückzahlung verwenden wir dasselbe Zahlungsmittel, das Sie bei der ursprünglichen Transaktion eingesetzt haben, es sei denn, mit Monta wurde ausdrücklich etwas anderes vereinbart. Sie haften für jede Wertminderung der Produkte, die sich aus einem anderen Umgang als demjenigen ergibt, der zur Feststellung der Art, der Eigenschaften und der Funktionsweise des Produkts erforderlich ist. Sie haften ferner für jede Wertminderung, zu der die Produkte weiterverkauft werden können.
 
-6.2 Alle Garantien, Bedingungen oder sonstige gesetzliche Bestimmungen sind im weitestmöglichen gesetzlich zulässigen Umfang vom Vertrag ausgeschlossen.
+6.2 Gebührenpflichtige Dienste: Das Widerrufsrecht erlischt ab dem Zeitpunkt, an dem der Kauf einer Dienstleistung/einer Ladung abgeschlossen ist. Wenn Sie im Zusammenhang mit dem Kauf von Ladedienstleistungen beantragt haben, dass die Ladung vor Ablauf der Widerrufsfrist beginnt, und Sie dennoch widerrufen möchten, müssen Sie damit rechnen, dass wir eine angemessene Vergütung für den Teil der Dienstleistung berechnen, der zum Zeitpunkt des Widerrufs bereits erbracht wurde. Nach Ende dieser Dienstleistung erlischt das Widerrufsrecht.
 
-6.3 Keine der Bestimmungen dieses Vertrags hat den Ausschluss oder die Beschränkung der Haftung der einen Partei gegenüber der anderen Partei für Todesfälle oder Personenschäden, die auf Fahrlässigkeit, Betrug oder arglistige Täuschung zurückzuführen sind, zur Folge.
+6.3 Mängel: Für Mängel an den gelieferten Produkten gilt das dänische Kauf- und Vermarktungsgesetz. Wenn Sie eine Beschwerde über einen Mangel oder andere Angelegenheiten in Bezug auf die Produkte einreichen möchten, kontaktieren Sie uns bitte über die E-Mail-Adresse info@monta.com.
 
-6.4 Monta (oder seine Tochtergesellschaften, Lizenzgeber und Zulieferer) haften nicht für aus diesem Vertrag, den Dienstleistungen oder den von Monta betriebenen Websites entstehende oder damit zusammenhängende Belange oder unabhängig von der Form eines Anspruchs oder einer Klage (unabhängig davon, ob auf Grundlage von Verträgen, Fahrlässigkeit, Gefährdungshaftung oder anderweitig) für; (i) entgangene Gewinne, Verträge, Einnahmen, Geschäfte, Geschäftsmöglichkeiten, für Verlust oder Beschädigung von Daten oder Wiederherstellung von Daten, Firmenwert, Sicherheitsverletzungen infolge von Störungen der Telekommunikation Dritter und/oder des Internets, erwartete Einsparungen oder Einnahmen (unabhängig davon, ob es sich dabei um direkte, indirekte oder Folgeschäden handelt); ii) Verluste oder Schäden im Zusammenhang mit der Haftbarkeit gegenüber Dritten (unabhängig davon, ob es sich dabei um direkte, indirekte oder Folgeschäden handelt); (iii) sämtliche Belange außerhalb seiner Kontrolle; und (iv) indirekte, zufällige oder Folgeschäden jeglicher Art; oder (v) Gesamtschadenersatz für alle Ansprüche, die über die vom Nutzer an Monta gezahlten Beträge hinausgehen (innerhalb des 12-Monats-Zeitraums vor dem Datum, an dem der erste Anspruch entstanden ist), selbst wenn Monta auf die Möglichkeit besagter Schäden hingewiesen wurde. Diese Einschränkungen sind unabhängig von allen anderen Bestimmungen dieses Vertrags und gelten unbeschadet der Unwirksamkeit darin vorgesehener Rechtsmittel.
+6.4 Beilegung von Streitigkeiten: Alle Ansprüche nach dänischem Recht können bei der dänischen Verbraucherschlichtungsstelle oder dem dänischen Zentrum für die Beilegung von Beschwerden geltend gemacht werden, die auf der Website des Zentrums für “Klageløsning og Forbrugerklagenævnet” (naevneneshus.dk) zu finden sind. Die Europäische Kommission bietet den Bürgerinnen und Bürgern der EU- und EWR-Mitgliedstaaten über ihre Plattform für Online-Streitbeilegung ebenfalls ein alternatives Streitbeilegungsverfahren an. Wenn Sie mit dem Ergebnis dieses Verfahrens nicht zufrieden sind, können Sie immer noch ein ordentliches Gerichtsverfahren anstrengen.
 
-**7. Höhere Gewalt**
+6.5 Empfehlungs- und Aktionscodes von Monta: Guthaben, das Sie durch Empfehlungs- oder Aktionscodes auf Ihr Kundenkonto erhalten, kann nur für Käufe durch Nutzung der Dienste verwendet werden und nicht abgehoben werden. Empfehlungs- und Aktionscodes dürfen nur an potenzielle echte Personen weitergegeben werden, die keine bestehenden Monta-Nutzer sind. Ein Verstoß gegen diese Bestimmung führt zur Annullierung des Guthabens. Nicht genutztes Guthaben wird automatisch und ohne Vorankündigung 6 Monate nach Erhalt von Ihrem Konto entfernt.
+
+6.6 Wallet: Das Guthaben auf Ihrem Wallet darf nur für die Bezahlung von kostenpflichtigen Diensten verwendet werden. Sie können nur Beträge in Ihr Kundenkonto einzahlen, die für Ihren eigenen Ladebedarf und die Nutzung der Dienste von Monta erforderlich sind. Wenn Sie das Guthaben im Wallet für eine Transaktion verwenden, bestätigen Sie, dass Sie der authentische Nutzer sind. Wenn Sie von einem Missbrauch Kenntnis erlangen, sind Sie verpflichtet, uns dies unverzüglich zu melden, und wir können dann den Zugang zu den Diensten sperren.
+
+**7. Haftbarkeit**
+
+7.1 Für die Nutzung der Dienstleistungen ist ausschließlich der Nutzer haftbar. Die Dienstleistungen werden in der vorliegenden Form bereitgestellt und können jederzeit und ohne entsprechende Mitteilung oder Haftbarkeit geändert, aktualisiert, unterbrochen, ausgesetzt oder eingestellt werden.
+
+7.2 Alle Garantien, Bedingungen oder sonstige gesetzliche Bestimmungen sind im weitestmöglichen gesetzlich zulässigen Umfang vom Vertrag ausgeschlossen.
+
+7.3 Keine der Bestimmungen dieses Vertrags hat den Ausschluss oder die Beschränkung der Haftung der einen Partei gegenüber der anderen Partei für Todesfälle oder Personenschäden, die auf Fahrlässigkeit, Betrug oder arglistige Täuschung zurückzuführen sind, zur Folge.
+
+7.4 Monta (oder seine Tochtergesellschaften, Lizenzgeber und Zulieferer) haften nicht für aus diesem Vertrag, den Dienstleistungen oder den von Monta betriebenen Websites entstehende oder damit zusammenhängende Belange oder unabhängig von der Form eines Anspruchs oder einer Klage (unabhängig davon, ob auf Grundlage von Verträgen, Fahrlässigkeit, Gefährdungshaftung oder anderweitig) für; (i) entgangene Gewinne, Verträge, Einnahmen, Geschäfte, Geschäftsmöglichkeiten, für Verlust oder Beschädigung von Daten oder Wiederherstellung von Daten, Firmenwert, Sicherheitsverletzungen infolge von Störungen der Telekommunikation Dritter und/oder des Internets, erwartete Einsparungen oder Einnahmen (unabhängig davon, ob es sich dabei um direkte, indirekte oder Folgeschäden handelt); ii) Verluste oder Schäden im Zusammenhang mit der Haftbarkeit gegenüber Dritten (unabhängig davon, ob es sich dabei um direkte, indirekte oder Folgeschäden handelt); (iii) sämtliche Belange außerhalb seiner Kontrolle; und (iv) indirekte, zufällige oder Folgeschäden jeglicher Art; oder (v) Gesamtschadenersatz für alle Ansprüche, die über die vom Nutzer an Monta gezahlten Beträge hinausgehen (innerhalb des 12-Monats-Zeitraums vor dem Datum, an dem der erste Anspruch entstanden ist), selbst wenn Monta auf die Möglichkeit besagter Schäden hingewiesen wurde. Diese Einschränkungen sind unabhängig von allen anderen Bestimmungen dieses Vertrags und gelten unbeschadet der Unwirksamkeit darin vorgesehener Rechtsmittel.
+
+**8. Höhere Gewalt**
 
 Keine der Parteien haftet für Verzögerungen oder die Nichterfüllung ihrer vertraglichen Verpflichtungen (mit Ausnahme von Zahlungsverpflichtungen), wenn die Verzögerung oder Nichterfüllung durch Ursachen hervorgerufen wird, die außerhalb ihrer Kontrolle liegen, wie z.B. Streik, Blockade, Krieg, terroristische Handlungen, Aufruhr, Naturkatastrophen, Ausfall oder Einschränkung der Stromversorgung oder der Telekommunikations- oder Datennetze oder -dienste oder staatliche Maßnahmen.
 
-**8. Kündigung**
+**9. Kündigung**
 
-8.1 Dieser Vertrag kann jederzeit von jeder Partei ohne Kündigungsfrist und grundlos gekündigt werden. Nach dem Wirksamwerden der Kündigung haben Sie keinen Zugriff mehr auf die Dienstleistungen.
+9.1 Dieser Vertrag kann jederzeit von jeder Partei ohne Kündigungsfrist und grundlos gekündigt werden. Nach dem Wirksamwerden der Kündigung haben Sie keinen Zugriff mehr auf die Dienstleistungen.
 
-8.2 Alle Abschnitte dieses Vertrags, die naturgemäß nach einer Kündigung fortbestehen müssen (Abschnitt 5 und 6), bestehen nach der Kündigung fort, darunter, ohne Einschränkung, aufgelaufene Zahlungsansprüche, Geheimhaltungsverpflichtungen, Gewährleistungsausschlüsse und Haftungsbeschränkungen. Die Kündigung hat somit keinerlei Auswirkungen auf bestehende Ansprüche in Bezug auf bisher erfolgte Ladevorgänge, einschließlich der Zahlungsverpflichtung für alle von Ihnen vor der Kündigung vorgenommenen Ladevorgänge.
+9.2 Alle Abschnitte dieses Vertrags, die naturgemäß nach einer Kündigung fortbestehen müssen (Abschnitt 5 und 6), bestehen nach der Kündigung fort, darunter, ohne Einschränkung, aufgelaufene Zahlungsansprüche, Geheimhaltungsverpflichtungen, Gewährleistungsausschlüsse und Haftungsbeschränkungen. Die Kündigung hat somit keinerlei Auswirkungen auf bestehende Ansprüche in Bezug auf bisher erfolgte Ladevorgänge, einschließlich der Zahlungsverpflichtung für alle von Ihnen vor der Kündigung vorgenommenen Ladevorgänge.
 
-**9. Datenschutz**
+**10. Datenschutz**
 
-9.1 Monta oder die beauftragten Dienstleister erheben, verarbeiten und nutzen Ihre Daten für die Durchführung des Vertragsverhältnisses gemäß den Bestimmungen der Datenschutzgrundverordnung (DSGVO, 2016/679) und sonstiger einschlägiger nationaler Datenschutzgesetze.
+10.1 Monta oder die beauftragten Dienstleister erheben, verarbeiten und nutzen Ihre Daten für die Durchführung des Vertragsverhältnisses gemäß den Bestimmungen der Datenschutzgrundverordnung (DSGVO, 2016/679) und sonstiger einschlägiger nationaler Datenschutzgesetze.
 
-9.2 Die eindeutige Identifikationsnummer zur Identifizierung Ihrer Person, Ihres Fahrzeugs, Ihrer personenbezogenen Daten und Transaktionsdaten können zum Zweck der Aktivierung der Ladestationen, der Lösung möglicher Probleme im Zusammenhang mit dem Ladeservice und der Rechnungsstellung an den Betreiber der Ladestation übermittelt werden. Personenbezogene Daten, Kontaktangaben und Angaben zur Transaktion können zum Zweck der Rechnungsstellung und des Kundendiensts ebenso an Partner von Monta übermittelt werden.
+10.2 Die eindeutige Identifikationsnummer zur Identifizierung Ihrer Person, Ihres Fahrzeugs, Ihrer personenbezogenen Daten und Transaktionsdaten können zum Zweck der Aktivierung der Ladestationen, der Lösung möglicher Probleme im Zusammenhang mit dem Ladeservice und der Rechnungsstellung an den Betreiber der Ladestation übermittelt werden. Personenbezogene Daten, Kontaktangaben und Angaben zur Transaktion können zum Zweck der Rechnungsstellung und des Kundendiensts ebenso an Partner von Monta übermittelt werden.
 
 Monta kann nicht-personenbezogene und anonymisierte, bei der Bereitstellung der Dienstleistungen erfasste Daten verwenden, um (i) die Dienstleistungen und seine anderen Produkte und Dienstleistungen zu verbessern und (ii) statistische Informationen an seine Partner weiterzugeben.
 
@@ -103,28 +117,28 @@ Durch Zustimmung zu diesem Vertrag stimmen Sie auch unseren Datenschutzbestimmun
 
 Die Entscheidung von Monta bzgl. des Verzichts der Durchsetzung oder Ausübung einer Bestimmung des Vertrags stellt keinen Verzicht auf besagte Bestimmung dar.
 
-**11. Übertragung**
+**12. Übertragung**
 
 Die Parteien sind ohne schriftliche Zustimmung von Monta nicht zur Übertragung ihrer Rechte oder Pflichten im Zusammenhang mit diesem Vertrag an Dritte berechtigt.
 
-**12. Salvatorische Klausel**
+**13. Salvatorische Klausel**
 
 Sofern eine Bestimmung des Vertrags aus jedwedem Grund oder in jedwedem Umfang als unwirksam oder nicht vollstreckbar gilt, hat besagte Unwirksamkeit oder Nichtvollstreckbarkeit keinerlei Auswirkungen auf die übrigen Bestimmungen des Vertrags und die Anwendung besagter Bestimmung wird im gesetzlich zulässigen Umfang vollstreckt.
 
-**13. Nutzungsbedingungen**
+**14. Nutzungsbedingungen**
 
 Diese Nutzungsbedingungen regeln den Vertragsinhalt zwischen dem Nutzer und Monta in Bezug auf den Vertragsgegenstand dar. Er ersetzt und hebt sämtliche vorangegangenen Vereinbarungen, Abmachungen, Nebenvereinbarungen, Nebenverträge, Aussagen, Zusicherungen, Erklärungen und Absprachen auf, die die Parteien in diesem Zusammenhang in mündlicher oder schriftlicher Form abgegeben haben oder die in ihrem Namen erfolgt sind.
 
 Änderungen an diesen AGB sind nur wirksam, wenn sie schriftlich erfolgen und von den Parteien (oder ihren bevollmächtigten Vertretern) unterzeichnet sind.
 
-**14. Geltendes Recht und Gerichtsstand**
+**15. Geltendes Recht und Gerichtsstand**
 
 Diese AGB sind durch die dänischen Gesetze geregelt.
 
 Für Streitigkeiten aufgrund oder im Zusammenhang mit AGB ist der Gerichtsstand Kopenhagen als alleiniger Gerichtsstand zuständig.
 
-**15. Änderungen an diesen Nutzungsbedingungen**
+**16. Änderungen an diesen Nutzungsbedingungen**
 
-Diese AGB wurden zuletzt am 24. Januar 2022 aktualisiert.
+Diese AGB wurden zuletzt am 21. Juni 2022 aktualisiert.
 
 Monta behält sich das Recht vor, diese Nutzungsbedingungen jederzeit nach eigenem Ermessen zu ändern, zu aktualisieren oder anderweitig zu überarbeiten. Die besagte Überarbeitung ist unmittelbar nach der Veröffentlichung der überarbeiteten Nutzungsbedingungen auf dieser Website wirksam. Monta informiert Sie über alle rechtserheblichen Änderungen an diesem Vertrag. Durch die Nutzung der Dienstleistungen nach der Veröffentlichung von Änderungen, Aktualisierungen oder Überarbeitungen durch Monta verpflichtet sich der Benutzer zur Einhaltung besagter überarbeiteter Nutzungsbedingungen. Wenn Sie mit einer Änderung, Aktualisierung oder sonstigen Änderungen dieser Bedingungen nicht einverstanden sind, können Sie die vorliegenden Bedingungen mit sofortiger Wirkung kündigen und müssen Ihre Nutzung oder Ihren Zugang zu den Diensten unverzüglich beenden.
