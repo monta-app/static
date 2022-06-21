@@ -8,7 +8,7 @@ info@monta.com
 
 Company registration number: 41668385
 
-1. Introduction 
+ 1. Introduction 
 
 At Monta ApS, Strandboulevarden 122, 5., 2100 Copenhagen, Denmark, CVR-no. 41668385 ("Monta", "we", "us", "our"), we understand the importance of treating the personal data of our customers, vendors, business partners, visitors to our website and other persons we interact with in a confidential and private manner. Transparency is a fundamental value at Monta, and Monta is committed to following the requirements and obligations in relation to data privacy in accordance with applicable law, including the EU General Data Protection Regulation ("GDPR"). Therefore, we have secure and adequate data processing procedures in place.
 
@@ -18,7 +18,7 @@ When we talk about our "Website" we mean www.monta.com and the other sites and a
 
 If you have any question to this Privacy Policy or you wish to exercise your data subject rights pursuant to Chapter III of the GDPR and according to section 7 of this Privacy Policy, please contact Monta on info@monta.com. 
 
-2. Categories of personal data, purpose, and legal basis
+ 2. Categories of personal data, purpose, and legal basis
 
 2.1 Visitors on our Website, user portals, and/or mobile applications, and newsletter recipients
 
@@ -50,7 +50,7 @@ If you submit an inquiry relating to Monta's services via Monta's chat function,
 
 The legitimate interests pursued are to provide customer support by answering the inquiries and business development. The legal basis for the processing of your personal data is Art. 6(1)(f) of the GDPR.
 
-3. Recipients of your personal data
+ 3. Recipients of your personal data
 
 Where relevant, Monta may disclose or transfer your personal data to affiliates of Monta, business partners or other collaborators for business purposes. Such third parties also include social media providers, as described in section 6 below.
 
@@ -58,11 +58,11 @@ In certain specific cases, e.g., in connection with disputes, including when the
 
 Monta uses third-party service providers, such as managed hosting providers, credit card processors, and technology partners to provide the software, networking, marketing, logistics, infrastructure, and other services required to operate, develop, deliver, and maintain our product and services, and fulfil our other purposes as defined in this Privacy Policy. When a third-party processes personal data on our behalf, the processing is in accordance with documented instructions given by Monta and further terms and conditions stated in a data processor agreement entered with Monta. These data processors are not permitted to process your personal data for their own purposes. Monta ensures that the processing is conducted safely and in accordance with all applicable privacy laws, with includes but is not limited to the GDPR.
 
-4. Transfer of your personal data to a third country (outside of eu/eea)
+ 4. Transfer of your personal data to a third country (outside of eu/eea)
 
 In certain cases, your personal data may be transferred to countries outside of the EU/EEA. Monta ensures that such transfer will be carried out in accordance with the applicable data protection laws. This entails that any party outside of the EU/EEA that will receive your personal data will ensure an adequate level of protection, for example, by entering into the EU standard contractual clauses ("SCCs") with Monta. Monta will ensure the implementation of supplementary safeguards if deemed necessary in the specific case. You may receive a copy of the legal basis for transfers upon request. Please contact info@monta.com.
 
-5. Storage of your personal data 
+ 5. Storage of your personal data 
 
 Monta will only store your personal data as long as it is deemed necessary to fulfil the purposes for the processing of your personal data. Monta maintains industry standard security safeguards to protect your data. We encrypt data in transit and at rest, where appropriate, to ensure that your information is kept private. 
 
@@ -96,7 +96,7 @@ The inquiries from existing customers will be deleted 3 years from the terminati
 
 Monta will store your personal data to the extent it is necessary for bookkeeping purposes such as personal data related to invoicing. Such personal data will be stored for a period of 5 years from the end of the financial year to which the accounting records relate. The purpose is to comply with the legal obligation pursuant to the Danish Bookkeeping Act. 
 
-6. Social media
+ 6. Social media
 
 Our Website use social media plug-ins ("plug-ins") from the social networking sites Facebook, Instagram, LinkedIn. When you visit our social media sites on Facebook, Instagram and LinkedIn or our Website where social media plugins have been installed, our social media service providers collect and process your personal data using cookies, subject to your consent to the service provider, as applicable. Such collection and processing take place even if you have no account on the social media.
 
@@ -110,7 +110,7 @@ Facebook: www.facebook.com/policy
 Instagram: https://help.instagram.com/519522125107875/?maybe_redirect_pol=0
 LinkedIn: https://www.linkedin.com/legal/privacy-policy 
 
-7. Your rights
+ 7. Your rights
 
 Monta has implemented several measures to protect your personal data and ensure your rights. As a data subject, you can exercise the rights listed below. 
 
@@ -135,13 +135,13 @@ If the processing of your personal data is based on your consent, cf. Art. 6(1)(
 
 If you wish to exercise any of the above-mentioned rights, or if you wish to withdraw a former consent, you are welcome to contact us at info@monta.com. 
 
-8. Questions or complaints
+ 8. Questions or complaints
  
 If you have any questions relating to this Privacy Policy, you wish to exercise your rights as mentioned above, or you disagree with the way Monta processes your personal data, you can contact Monta at info@monta.com. 
 
 You can also file a complaint to the relevant data protection supervisory authority, which is an independent public authority that, inter alia, is responsible for monitoring and enforcing the application of the GDPR. In Denmark, the relevant authority is the Danish Data Protection Agency. The Danish Data Protection Agency's contact information is available on its website: www.datatilsynet.dk.
 
-9. Amendments to this privacy policy 
+ 9. Amendments to this privacy policy 
 
 Monta has the right to modify this Privacy Policy regarding new technologies, regulatory requirements, or other purposes. For this reason, please visit this page periodically. Below is highlighted the date when the last version of this Privacy Policy has been uploaded.
 
