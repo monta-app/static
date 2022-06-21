@@ -8,112 +8,130 @@ info@monta.com
 
 Company registration number: 41668385
 
-This privacy policy will explain how Monta uses the personal data we collect from you when you use our website, user portals and mobile applications.
+1. Introduction 
 
-To make the policy more easy to read we use &quot;Monta&quot;, &quot;we&quot;, &quot;us&quot;, &quot;our&quot; to describe our company. When we talk about our &quot;website&quot; we mean www.monta.com and the other sites and applications we own and operate. When we refer to &quot;user portals&quot; and &quot;mobile applications&quot;, we mean our product &quot;Monta&quot;.
+At Monta ApS, Strandboulevarden 122, 5., 2100 Copenhagen, Denmark, CVR-no. 41668385 ("Monta", "we", "us", "our"), we understand the importance of treating the personal data of our customers, vendors, business partners, visitors to our website and other persons we interact with in a confidential and private manner. Transparency is a fundamental value at Monta, and Monta is committed to following the requirements and obligations in relation to data privacy in accordance with applicable law, including the EU General Data Protection Regulation ("GDPR"). Therefore, we have secure and adequate data processing procedures in place.
 
-When we refer to &quot;you&quot; and &quot;your&quot; we mean you as a user of our website, user portals, mobile applications and/or customer of our other goods and services.
+Monta is the data controller for the processing of your personal data. This privacy policy will explain how Monta uses the personal data we collect from you when you use our website, user portals and mobile applications.
 
-For the purpose of the EU General Data Protection Regulation 2016 (GDPR), the data controller is Monta.
+When we talk about our "Website" we mean www.monta.com and the other sites and applications we own and operate. When we refer to "user portals" and "mobile applications", we mean our product "Monta".
 
-**1. What data do we collect? How do we collect your data?**
+If you have any question to this Privacy Policy or you wish to exercise your data subject rights pursuant to Chapter III of the GDPR and according to section 7 of this Privacy Policy, please contact Monta on info@monta.com. 
 
-Monta may collect, store and use the following kinds of data:
+2. Categories of personal data, purpose, and legal basis
 
-Personal identification information that you provide to us when registering and completing your profile on our website, user portals or mobile applications (such as your name, email address, phone number, address, and other contact information).
+2.1 Visitors on our Website, user portals, and/or mobile applications, and newsletter recipients
+When you visit our Website, user portals, and/or mobile applications Monta will process personal data about you, for instance, cookies, browser type and version, IP-address, and length of visit. The purpose of using cookies is, i.a., to improve your user experience on our Website, user portals, and/or mobile applications to provide functionality, to generate statistics, to target the marketing of our products to your needs, and to remember your preferences. 
 
-Information that you provide when completing your profile on our website, user portals or mobile applications (such as business name, business address, profile pictures, gender, date of birth, and vehicle information).
+The legitimate interests pursued are to provide you with products and services that work optimally, a good website experience and marketing activities. The legal basis for the processing of your personal data is Art. 6(1)(f) of the GDPR. In certain cases, the legal basis for the processing of your personal data in this regard is your consent, which you will be asked to give when you visit the Website, user portals, and/or mobile applications, cf. Art. 6(1)(a) of the GDPR. You may find more information about our use of cookies in the cookie policy when entering our Website.
 
-We may also obtain some of this information if you choose to use a single sign-on (SSO), such as Google, Apple or Microsoft to create or access your account.
+If you wish to receive a newsletter or book a demo, we also process the following information about you: name and surname, subject(s) of interest and your email address in order to tailor the content of and to send our newsletters to you. The legal basis for the processing of your personal data in this respect is our legitimate interests in branding our products and business and the relevant marketing material that you have requested, cf. Art. 6(1)(f) of the GDPR. You may at any time with future effect unsubscribe to receiving our newsletter. To declare that you wish to unsubscribe, you may use the respective link included in all newsletters or send an email to info@monta.com. 
 
-Information that you provide to us when using the services on our website, user portals or mobile applications or that is generated in the course of the use of our services (including the timing, frequency, location and pattern of EV charging).
+2.2 Customers
+When you register your profile, Monta will process personal data about you, including your name, email address, telephone number, your postal address, bank and payment information, and information on the services purchased. The purpose of the processing of your personal data is to supply you with our services. 
 
-Information relating to any purchases you make of Monta&#39;s goods and services or any other transactions (such as charge keys) that you enter into our website, user portal or mobile applications (such as name, contact details, address, cost, and transaction details but excluding payment information).
+When you use our services, Monta will further process information related to date and time, frequency, location, and pattern of EV charging. Information related to purchases include name, contact details, address, cost, and transaction details. We use Stripe as a third party credit card payment processing company to collect payment information. If you submit payment information, we will share with Stripe information such as your debit/credit card number, billing address, phone number, and installed application information in order to process payments. In such circumstances, the third-party provider, and not Monta, stores your payment information on our behalf acting as a data processor, and in order to process payments to your Wallet inside of the application, they process information about your phone number and installed application information.
 
-We use Stripe as a third party credit card payment processing company to collect payment information. If you submit payment information, we will share with Stripe information such as your debit/credit card number, billing address, phone number, and installed application information in order to process payments.
+The legal basis for the processing of your personal data in that regard is Art. 6(1)(b) of the GDPR. This is either because the processing is necessary for the performance of a contract to which you are a party or because it is necessary in order to take steps at the request of you prior to entering into a contract.
 
-We collect your phone number and installed application information in order to process payments to your Monta Wallet inside of the application.
+2.3 Contact persons at a vendor or another business partner
+As a contact person at a vendor or another business partner, Monta processes your personal data when you communicate with Monta, e.g., via emails in connection with Monta's existing contractual relation with the company you are employed with or in connection with the conclusion or termination of a contract. Monta processes ordinary personal data about you, including your name, email address, telephone number, position, etc. 
 
-Information about your computer and about your visits to and use of our website, user portals or mobile applications (such as your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths).
+The legal basis for such processing of your personal data is that the processing is necessary for the purposes of legitimate interests pursued by Monta. Monta's legitimate interests are fulfilment of our contractual obligations, maintaining and enhancing business relationships, invoicing for the services your company provides to Monta and/or vice versa, communicating with you if you have any questions related to our services or vice versa, and for documentation purposes in the event you agree on matters relating to our services in writing via email. The legal basis for the processing of your personal data is Art. 6(1)(f) of the GDPR.
 
-Information that you provide to us for the purpose of subscribing to our email notifications and/or newsletters (such as your name and email address).
+In some cases, processing of personal data is necessary in order to comply with a legal obligation to which Monta is subject, for instance in relation to the obligation on the preservation of accounting records pursuant to the Danish Bookkeeping Act. In such case, the legal basis for the processing is Art. 6(1)(c) of the GDPR. 
 
-Information contained in or relating to any communication that you send to Monta or send through the Monta websites, user portals or mobile applications (such as information you provide when contacting us for support).
+2.4 Inquiries via chat function in our user portals and mobile applications
+If you submit an inquiry relating to Monta's services via Monta's chat function, Monta will process personal data about you e.g., your IP-address, geographic location, and the personal data you include in your inquiry, e.g., name, email address and telephone number. Monta will not process special categories of personal data (sensitive personal data) about you, unless you have provided us with such information, e.g., through the chat function. Monta kindly encourages you not to send such sensitive personal data. 
 
-Before you disclose the personal information of another person to Monta, you must obtain that person&#39;s consent to both the disclosure and the processing of that personal information in accordance with this privacy policy.
+The legitimate interests pursued are to provide customer support by answering the inquiries and business development. The legal basis for the processing of your personal data is Art. 6(1)(f) of the GDPR.
 
-**2. How will we use your data?**
+3. Recipients of your personal data
 
-Monta may use your data to:
+Where relevant, Monta may disclose or transfer your personal data to affiliates of Monta, business partners or other collaborators for business purposes. Such third parties also include social media providers, as described in section 6 below.
 
-- Administer our website, user portals, mobile applications and business;
-- Personalize the Monta website, user portals and mobile applications for you;
-- Enable your use of the services available on the Monta website, user portals and mobile applications;
-- Send you goods and supply to you services purchased through the Monta website, user portals or mobile applications;
-- Send statements, invoices and payment reminders to you, and collect payments from you;
-- Send you non-marketing commercial communications;
-- Send you email notifications and information that you have specifically requested (such as via our lead generator, or by contacting us for support);
-- Send you email newsletters, if you have requested it (you can unsubscribe at any time);
-- Send you marketing communications relating to the Monta&#39;s business which we think may be of interest to you, where you have specifically agreed to this (you can unsubscribe at any time);
-- Provide third parties with anonymized statistical information about our users;
-- Deal with enquiries and complaints made by or about you relating to your use of Monta&#39;s services (including investigating and fixing technical issues);
-- For the establishment, exercise or defense of legal claims;
-- Keep Monta website, user portals and mobile applications secure and prevent fraud; and
-- Verify compliance with the terms and conditions governing the use of Monta&#39;s website, user portals or mobile applications.
+In certain specific cases, e.g., in connection with disputes, including when the disclosure of your personal data is necessary for the establishment, exercise or defence of Monta's legal claims, Monta may disclose your personal data to its advisers or other relevant third parties provided it is deemed necessary and lawful.
 
-Monta will not sell or otherwise provide your personal data to third parties, and will only make it available to third parties involved in the performance of the goods and services agreed with you. We may collect anonymized and aggregated usage data.
+Monta uses third-party service providers, such as managed hosting providers, credit card processors, and technology partners to provide the software, networking, marketing, logistics, infrastructure, and other services required to operate, develop, deliver, and maintain our product and services, and fulfil our other purposes as defined in this Privacy Policy. When a third-party processes personal data on our behalf, the processing is in accordance with documented instructions given by Monta and further terms and conditions stated in a data processor agreement entered with Monta. These data processors are not permitted to process your personal data for their own purposes. Monta ensures that the processing is conducted safely and in accordance with all applicable privacy laws, with includes but is not limited to the GDPR.
 
-**3. How do we store your data?**
+4. Transfer of your personal data to a third country (outside of eu/eea)
 
-Monta maintains industry standard security safeguards to protect your data. We encrypt data in transit and at rest, where appropriate, to ensure that your information is kept private. Monta securely stores your data on our secure (password- and firewall-protected) servers. All payment information is fully encrypted and handled only by PCI certified organizations.
+In certain cases, your personal data may be transferred to countries outside of the EU/EEA. Monta ensures that such transfer will be carried out in accordance with the applicable data protection laws. This entails that any party outside of the EU/EEA that will receive your personal data will ensure an adequate level of protection, for example, by entering into the EU standard contractual clauses ("SCCs") with Monta. Monta will ensure the implementation of supplementary safeguards if deemed necessary in the specific case. You may receive a copy of the legal basis for transfers upon request. Please contact info@monta.com.
 
-Monta seeks to limit the period for which the personal data are stored to a minimum. Thus, Monta processes your personal data only to the extent and as long as is necessary to meet the purposes of the data processing.
+5. Storage of your personal data 
 
-In broad terms, we will only retain your personal data for as long as is necessary for the purposes described in this privacy policy. This means that the retention periods will vary according to the type of the data and the reason that we have the data in the first place. We have procedures in place regarding our retention periods which we keep under review taking into account our reasons for processing your personal data and the legal basis for doing so.
+Monta will only store your personal data as long as it is deemed necessary to fulfil the purposes for the processing of your personal data. Monta maintains industry standard security safeguards to protect your data. We encrypt data in transit and at rest, where appropriate, to ensure that your information is kept private. 
 
-We retain your information as long as required to provide the goods and services requested by you, for record keeping purposes, to comply with our legal obligations, resolve disputes, and enforce the terms for our services. After it is no longer necessary for us to retain information about you, or otherwise upon your request, we will dispose of it in a secure manner or anonymize the information.
-
-Information that Monta collects may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this policy.
-
-You acknowledge that the transmission of information over the internet is inherently insecure, and Monta cannot guarantee the security of data sent over the internet. Emails sent via the internet might not be encrypted, so we advise you not to include any confidential or sensitive information in your emails to us.
+Monta securely stores your data on our secure (password- and firewall-protected) servers. All payment information is fully encrypted and handled only by PCI certified organizations. You acknowledge that the transmission of information over the internet is inherently insecure, and Monta cannot guarantee the security of data sent over the internet. Emails sent via the internet might not be encrypted, so we advise you not to include any confidential or sensitive information in your emails to us.
 
 Access controls are in place to limit access to your information to those who need it to perform their jobs. For example, information about you may be provided to our customer support team to help you with your requests.
 
-**4. Who processes your personal data?**
+5.1 Visitors on our Website, user portals, and/or mobile applications, and newsletters recipients
+Personal data related to your newsletter account is stored until you withdraw your consent and no longer wish to receive newsletters from us. 
 
-Monta uses third-party service providers, such as managed hosting providers, credit card processors, and technology partners to provide the software, networking, marketing, logistics, infrastructure and other services required to operate, develop, deliver and maintain our product and services, and fulfill our other purposes as defined in this privacy policy. When a third party processes personal data on our behalf, we ensure that the processing of personal data is conducted safely and in accordance with all applicable privacy laws and best practices of data processing (including but not limited to GDPR).
+Personal data collected via cookies through use of our Website, user portals, and/or mobile applications are stored for different periods depending on the type and purpose of the cookie in question. 
 
-In addition, personal data may be disclosed to authorities when we are required to do so by law, based on demands made by competent authorities in accordance with existing privacy laws.
+Personal data collected in relation to the use of social media will be erased when the content is deleted or when you withdraw your response to our content (likes, sharing, etc.). See more in section 6 below. 
 
-Monta may also use other service providers for the processing of personal data outside the European Union or the European Economic Area. Such transfer of personal data is always conducted on the basis of any of the following legal grounds:
+5.2 Customers
+Personal data about customers are generally deleted when they are no longer necessary for the purpose of collection. Personal data is deleted 3 years after termination of the contractual relationship between Monta and the customer, if it is assessed that continued storage is not necessary for documentation purposes. If storage is not necessary for documentation purposes, the personal data will be deleted upon termination of the contractual relationship. 
 
-- The European Commission has established that an adequate level of data protection will be ensured in the recipient country concerned;
-- Monta has implemented the appropriate safeguards for the transfer of personal data, using standard terms of privacy approved by the European Commission; or
-- You will have to give your express consent for the transfer of their personal data, or there is a legitimate basis for the transfer of personal data.
+5.3 Contact person at a vendor or another business partner
+If you are a contact person at a vendor or another business partner, Monta will store personal data about you as long as Monta communicates with you because you are Monta's point of contact, 3 years after termination of the contractual relationship, or until it is no longer necessary for the establishment, exercise, or defence of a legal claim.
 
-**5. What are your data protection rights?**
+5.4 Inquiries via chat function in our user portals and mobile applications
+The inquiries from potential customers will be deleted 3 years after the inquiry is resolved, unless it is deemed necessary to store such inquiries for documentation purposes e.g., due to a dispute, including for the establishment, exercise or defence of legal claims. 
 
-Monta would like to make sure you are fully aware of all of your data protection rights. You are entitled to the following:
+The inquiries from existing customers will be deleted 3 years from the termination of the contractual relationship, unless it is deemed necessary to store such inquiries for documentation purposes e.g., due to a dispute, including for the establishment, exercise, or defence of a legal claim.
 
-- The right to access – You have the right to request copies of your personal data.
-- The right to rectification – You have the right to request that Monta correct any information you believe is inaccurate. You also have the right to request Monta to complete the information you believe is incomplete.
-- The right to erasure – You have the right to request that Monta erase your personal data, under certain conditions.
-- The right to restrict processing – You have the right to request that Monta restrict the processing of your personal data, under certain conditions.
-- The right to object to processing – You have the right to object to Monta&#39;s processing of your personal data, under certain conditions.
-- The right to data portability – You have the right to request that Monta transfer the data that we have collected to another organization, or directly to you, under certain conditions.
+5.5 Bookkeeping material 
+Monta will store your personal data to the extent it is necessary for bookkeeping purposes such as personal data related to invoicing. Such personal data will be stored for a period of 5 years from the end of the financial year to which the accounting records relate. The purpose is to comply with the legal obligation pursuant to the Danish Bookkeeping Act. 
 
-If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us at our email: info@monta.app
+6. Social media
 
-**6. Cookies**
+Our Website use social media plug-ins ("plug-ins") from the social networking sites Facebook, Instagram, LinkedIn. When you visit our social media sites on Facebook, Instagram and LinkedIn or our Website where social media plugins have been installed, our social media service providers collect and process your personal data using cookies, subject to your consent to the service provider, as applicable. Such collection and processing take place even if you have no account on the social media.
 
-Cookies are text files placed on your computer or other devices to collect standard internet log information and visitor behavior information. When you visit our websites, user portals and mobile applications, we may collect information from you automatically through cookies or similar technology. Monta uses cookies in a range of ways to improve your experience on our websites, user portals and mobile applications. You can remove cookies from your browser and set your browser not to accept cookies.
+If you access our Website using such a plug-in, your browser will contact the server of the underlying social networking site, load the visual presentation of the plug-in, and present it to you. While this is happening, the social networking site receives information concerning your visit to our website, as well as further data such as your IP address. Monta receives anonymous demographic and geographic statistics from the social media on the visitors on our Website and our social media sites.
 
-**7. Changes to our privacy policy**
+Monta is joint data controller with our social media providers for personal data collected and processed in connection with your visit to our social media sites and our Website. It means, among other things, that you may contact both Monta and the social media providers to exercise your rights under the GDPR. Facebook, Instagram, and LinkedIn have primary responsibility for ensuring compliance with the GDPR and responding to requests from visitors on Facebook, Instagram, and LinkedIn. If you are registered as user of Facebook, Instagram and/or LinkedIn, you may exercise your rights via your account settings on Facebook, Instagram and/or LinkedIn. 
 
-Monta keeps its privacy policy under regular review and places any updates on this webpage. Please regularly check this privacy policy to ensure you are aware of the most updated version.
+We have no influence on the amount of data that social networking sites collect via an active plug-in. For more information, please consult the relevant data privacy notice: 
 
-This privacy policy was last updated on 16 May 2022.
+Facebook: www.facebook.com/policy
+Instagram: https://help.instagram.com/519522125107875/?maybe_redirect_pol=0
+LinkedIn: https://www.linkedin.com/legal/privacy-policy 
 
-**8. How to contact us**
+7. Your rights
 
-If you have any questions about our privacy policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us. If we are unable to resolve your concerns, you also have the right to contact your local data protection authority.
+Monta has implemented several measures to protect your personal data and ensure your rights. As a data subject, you can exercise the rights listed below. 
+
+The Danish Data Protection Agency has prepared guidelines regarding the data subjects’ rights available on the agency's website. 
+
+As a data subject you have the following specific rights, unless otherwise exceptionally provided by the data protection legislation:
+
+Right of access
+Right of rectification
+Right of erasure ("right to be forgotten")
+Right to restriction of processing
+Right to data portability
+Right to object 
+
+7.1 Right to complain to the Data Protection Agency
+If you disagree with the way in which Monta processes your personal data, you may file a complaint with the Data Protection Agency, using the contact details that are available at www.datatilsynet.dk. However, we hope that you will contact us first, using the below contact details, so that we may reach agreement. 
+
+7.2 Right to withdraw a former consent
+If the processing of your personal data is based on your consent, cf. Art. 6(1)(a) of the GDPR, you have the right to withdraw your consent at any time. Please note that your withdrawal does not affect the lawfulness of the previous processing of your personal data which until your withdrawal has been based on your consent. 
+
+If you wish to exercise any of the above-mentioned rights, or if you wish to withdraw a former consent, you are welcome to contact us at info@monta.com. 
+
+8. Questions or complaints
+ 
+If you have any questions relating to this Privacy Policy, you wish to exercise your rights as mentioned above, or you disagree with the way Monta processes your personal data, you can contact Monta at info@monta.com. 
+
+You can also file a complaint to the relevant data protection supervisory authority, which is an independent public authority that, inter alia, is responsible for monitoring and enforcing the application of the GDPR. In Denmark, the relevant authority is the Danish Data Protection Agency. The Danish Data Protection Agency's contact information is available on its website: www.datatilsynet.dk.
+
+9. Amendments to this privacy policy 
+
+Monta has the right to modify this Privacy Policy regarding new technologies, regulatory requirements, or other purposes. For this reason, please visit this page periodically. Below is highlighted the date when the last version of this Privacy Policy has been uploaded.
+
+Date of the most recent version of this Privacy Policy: 21 June 2022.
