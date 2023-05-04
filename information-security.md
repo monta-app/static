@@ -1,9 +1,9 @@
 Information security policy
 ===========================
 
-Monta ApS
-Strandboulevarden 122, 2100 Copenhagen, Denmark
-Email: info@monta.com
+Monta ApS  
+Strandboulevarden 122, 2100 Copenhagen, Denmark  
+Email: info@monta.com  
 Company registration number: 41668385
 
 Overview
