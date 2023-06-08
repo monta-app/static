@@ -20,8 +20,8 @@ According to the General Data Protection Regulation ("**GDPR**"), every use or h
 
 Prior to any processing of personal data, Monta must ensure compliance with certain fundamental legal requirements:
 
-1. the basic principles of the GDPR on processing of personal data, and
-2. the processing must have a specific legal basis listed in the GDPR.
+   a. the basic principles of the GDPR on processing of personal data, and
+   b. the processing must have a specific legal basis listed in the GDPR.
 
 Below is an overall description of the above-mentioned requirements.
 
@@ -81,18 +81,18 @@ Personal data can be considered as **confidential**, depending on the type of in
 
 Ordinary personal data may be processed if for instance:
 
-- the data subject has given consent;
-- processing is necessary for the performance of a contract with the data subject; e.g. a sales agreement, or in order to take steps at the request of the data subject prior to the entering into a contract; e.g. an employment contract;
-- processing is necessary for compliance with a legal obligation to which Monta is subject to as a controller; e.g. report obligations to national tax authorities; or
-- it is necessary for the purposes of the legitimate interest pursued by Monta, which are not overridden by the interests or fundamental rights and freedoms of the data subject.
+   - the data subject has given consent;
+   - processing is necessary for the performance of a contract with the data subject; e.g. a sales agreement, or in order to take steps at the request of the data subject prior to the entering into a contract; e.g. an employment contract;
+   - processing is necessary for compliance with a legal obligation to which Monta is subject to as a controller; e.g. report obligations to national tax authorities; or
+   - it is necessary for the purposes of the legitimate interest pursued by Monta, which are not overridden by the interests or fundamental rights and freedoms of the data subject.
 
 3.2.3 **Sensitive personal data - exceptions**
 
 Sensitive personal data may not be processed, unless a specific exception applies - for instance one of the following:
 
-- the data subject has given *explicit* consent;
-- processing is necessary for the purposes of carrying out the obligations and exercising specific rights of Monta or of the data subject in the field of employment: or
-- processing is necessary for the establishment, exercise or defence of legal claims, e.g. in connection with a specific dispute.
+   - the data subject has given *explicit* consent;
+   - processing is necessary for the purposes of carrying out the obligations and exercising specific rights of Monta or of the data subject in the field of employment: or
+   - processing is necessary for the establishment, exercise or defence of legal claims, e.g. in connection with a specific dispute.
 
 Please note that both a **legal ground** from section 3.2.2 and an **exception** from section 3.2.3 must be provided by Monta in order to process sensitive personal data.
 
@@ -108,9 +108,9 @@ In order to comply with the information requirement, Monta must link to or by ot
 
 Please refer to the specific privacy policies for respectively:
 
-- job applicants,
-- employees in Monta,
-- external business partners, customers, and website visitors (Monta’s external privacy policy)
+   - job applicants,
+   - employees in Monta,
+   - external business partners, customers, and website visitors (Monta’s external privacy policy)
 
 Monta must take *active* steps in providing the information, so it is not sufficient to have the policies located on the webpage or the intranet.
 
@@ -120,13 +120,13 @@ The data subjects have a number of rights which Monta is required to handle in a
 
 Subject to certain exceptions and limitations, the data subjects have the right to:
 
-- Request access to their personal data. This right enables the data subjects to receive a copy of the personal data Monta processes about them.
-- Request correction of their personal data.This enables the data subjects to have incomplete or inaccurate personal data that Monta processes about them corrected.
-- Request erasure of their personal data. This right enables the data subjects to request to have their personal data erased prior to the expiry of Monta's usual retention period. This is sometimes referred to as the “right to be forgotten”.
-- Request the restriction of processing of their personal data. This right enables the data subjects, for instance, to ask Monta to suspend the processing of their personal data for a period enabling Monta to verify the accuracy of the personal data if the accuracy of the personal data being processed is contested by them, or if the processing is unlawful and the data subjects oppose to the erasure of the personal data and request restriction of their use instead.
-- Request data portability. This right enables a data subject the right to request Monta to transfer the personal data which Monta have received from the data subjects to them in a structured, commonly used and machine-readable format, and they will then have the right to transmit those personal data to another data controller without hindrance from Monta.
-- Objection to processing of their personal data. This enables the data subjects to object to the processing of their personal data, which is based for instance on Monta's legitimate interests, including profiling based on this legal basis.
-- Request not to be subject to automated individual decision-making, including profiling. This enables the data subjects to request of Monta that they are not subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning them or similarly significantly affects them. (Monta does not as a rule make decisions of this nature based solely on automated processing and without any human assessment whatsoever. Monta would notify the data subjects specifically and on beforehand if we did).
+   - Request access to their personal data. This right enables the data subjects to receive a copy of the personal data Monta processes about them.
+   - Request correction of their personal data.This enables the data subjects to have incomplete or inaccurate personal data that Monta processes about them corrected.
+   - Request erasure of their personal data. This right enables the data subjects to request to have their personal data erased prior to the expiry of Monta's usual retention period. This is sometimes referred to as the “right to be forgotten”.
+   - Request the restriction of processing of their personal data. This right enables the data subjects, for instance, to ask Monta to suspend the processing of their personal data for a period enabling Monta to verify the accuracy of the personal data if the accuracy of the personal data being processed is contested by them, or if the processing is unlawful and the data subjects oppose to the erasure of the personal data and request restriction of their use instead.
+   - Request data portability. This right enables a data subject the right to request Monta to transfer the personal data which Monta have received from the data subjects to them in a structured, commonly used and machine-readable format, and they will then have the right to transmit those personal data to another data controller without hindrance from Monta.
+   - Objection to processing of their personal data. This enables the data subjects to object to the processing of their personal data, which is based for instance on Monta's legitimate interests, including profiling based on this legal basis.
+   - Request not to be subject to automated individual decision-making, including profiling. This enables the data subjects to request of Monta that they are not subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning them or similarly significantly affects them. (Monta does not as a rule make decisions of this nature based solely on automated processing and without any human assessment whatsoever. Monta would notify the data subjects specifically and on beforehand if we did).
 
 5 **Security of personal data processing activities**
 
@@ -134,10 +134,10 @@ Subject to certain exceptions and limitations, the data subjects have the right 
 
 Monta implements appropriate technical and organisational measures to ensure a level of security appropriate to the risk including, i.a., as appropriate:
 
-- the pseudonymisation and encryption of personal data;
-- the ability to ensure the ongoing confidentiality, integrity, availability and resilience of processing systems and services;
-- the ability to restore the availability and access to personal data in a timely manner in the event of a physical or technical incident; and
-- a process for regularly testing, assessing, and evaluating the effectiveness of technical and organisational measures for ensuring the security of the processing.
+   - the pseudonymisation and encryption of personal data;
+   - the ability to ensure the ongoing confidentiality, integrity, availability and resilience of processing systems and services;
+   - the ability to restore the availability and access to personal data in a timely manner in the event of a physical or technical incident; and
+   - a process for regularly testing, assessing, and evaluating the effectiveness of technical and organisational measures for ensuring the security of the processing.
 
 In assessing the appropriate level of security account shall be taken in particular of the risks that are presented by processing, in particular from accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to personal data transmitted, stored or otherwise processed. Monta has prepared written risk assessments with regards to the processing activities.
 
@@ -162,9 +162,9 @@ New products, services, technical solutions, etc. must be designed so they meet 
 
 **Data protection by default** requires that relevant data minimisation techniques are implemented:
 
-- Monta implements appropriate technical and organisational measures ensuring that, by default, only personal data which is necessary for each specific purpose of the processing is processed.
-- This minimisation requirement applies to the amount of personal data collected, the extent of their processing, the period of their storage and their accessibility.
-- Such measures shall ensure that by default, personal data are not made accessible without careful consideration.
+   - Monta implements appropriate technical and organisational measures ensuring that, by default, only personal data which is necessary for each specific purpose of the processing is processed.
+   - This minimisation requirement applies to the amount of personal data collected, the extent of their processing, the period of their storage and their accessibility.
+   - Such measures shall ensure that by default, personal data are not made accessible without careful consideration.
 
 7 **Personal data breaches**
 
@@ -172,9 +172,9 @@ By "personal data breach" means a breach of security leading to the accidental o
 
 Personal data breaches can in outline be categorised as described below, or as breaches of all of the categories at the same time or as any combination of that:
 
-- Confidentiality breach - an unauthorised or accidental disclosure of, or access to, personal data;
-- Availability breach - an unauthorised or accidental loss of access to, or destruction of, personal data: and/or
-- Integrity breach - an unauthorised or accidental alteration of personal data.
+   - Confidentiality breach - an unauthorised or accidental disclosure of, or access to, personal data;
+   - Availability breach - an unauthorised or accidental loss of access to, or destruction of, personal data: and/or
+   - Integrity breach - an unauthorised or accidental alteration of personal data.
 
 In case of a personal data breach, Monta is required to without undue delay and, where feasible, no later than **72 hours** after becoming aware of the breach, notify the personal data breach to the relevant data protection supervisory authority, such as the Danish Data Protection Agency, and in some cases also the data subjects affected by the breach.
 
@@ -210,10 +210,10 @@ The Court of Justice of the European Union has ruled that the protection granted
 
 This means for Monta that certain matters must be attended to if personal data is intended to be transferred to a third country:
 
-- Prior to a transfer to a third country, an appropriate legal transfer ground must be established in accordance with Chapter V of the GDPR such as the standard contractual clauses of the EU Commission;
-- Prior to a transfer to a third country, Monta must make a transfer risk assessment, including an analysis of the third country legislation and practices in order to determine if anything impinges of the effectiveness of the chosen transfer tool;
-- If the transfer risk assessment mentioned above reveals a risk and therefore a possibility of impingement of the effectiveness of the transfer tool, Monta must before a transfer to a third country - typically in collaboration with the data processor/the data importer - ensure the implementation of supplementary measures in order to fill the gaps in the protection and bring it up to a level of protection required by or essentially equivalent to EU law. The effectiveness of said supplementary measures must be assessed in the context of the specific transfer, in light of the third country law and practices and the transfer tool relied on. In principle, supplementary measures may have a contractual (e.g. transparency obligations and obligations to take action), technical (e.g. encryption or multi-party processing) and organisational (e.g. internal policies for governance of transfers and data minimisation measures) nature, and combining such diverse measures may enhance the level of protection and therefore contribute to reach the EU standard of protection; and
-- Monta shall at any time be able to demonstrate the above-mentioned to the relevant data protection supervisory authority; in Denmark, the Danish Data Protection Agency.
+   - Prior to a transfer to a third country, an appropriate legal transfer ground must be established in accordance with Chapter V of the GDPR such as the standard contractual clauses of the EU Commission;
+   - Prior to a transfer to a third country, Monta must make a transfer risk assessment, including an analysis of the third country legislation and practices in order to determine if anything impinges of the effectiveness of the chosen transfer tool;
+   - If the transfer risk assessment mentioned above reveals a risk and therefore a possibility of impingement of the effectiveness of the transfer tool, Monta must before a transfer to a third country - typically in collaboration with the data processor/the data importer - ensure the implementation of supplementary measures in order to fill the gaps in the protection and bring it up to a level of protection required by or essentially equivalent to EU law. The effectiveness of said supplementary measures must be assessed in the context of the specific transfer, in light of the third country law and practices and the transfer tool relied on. In principle, supplementary measures may have a contractual (e.g. transparency obligations and obligations to take action), technical (e.g. encryption or multi-party processing) and organisational (e.g. internal policies for governance of transfers and data minimisation measures) nature, and combining such diverse measures may enhance the level of protection and therefore contribute to reach the EU standard of protection; and
+   - Monta shall at any time be able to demonstrate the above-mentioned to the relevant data protection supervisory authority; in Denmark, the Danish Data Protection Agency.
 
 In order to meet these requirements concerning third country transfers, Monta has prepared a transfer risk assessment template on contemplated third country transfer to ensure that all mandatory steps and considerations are taken before a transfer to a third country.
 
@@ -223,13 +223,13 @@ Please note that there are exceptions to the requirements above. The requirement
 
 Monta is required to maintain records of processing activities under Monta's responsibility. The content of the records is:
 
-- name and contact details;
-- the purposes of the processing;
-- a description of the categories of data subjects and of the categories of personal data;
-- the recipients to whom the personal data have been or will be disclosed, including recipients in third countries or international organisations;
-- where applicable, transfers of personal data to a third country, including the identification of that third country and, if relevant, the documentation of suitable safeguards;
-- where possible, the envisaged time limits for erasure of the different categories of data; and
-- where possible, a general description of the applied technical and organisational security measures.
+   - name and contact details;
+   - the purposes of the processing;
+   - a description of the categories of data subjects and of the categories of personal data;
+   - the recipients to whom the personal data have been or will be disclosed, including recipients in third countries or international organisations;
+   - where applicable, transfers of personal data to a third country, including the identification of that third country and, if relevant, the documentation of suitable safeguards;
+   - where possible, the envisaged time limits for erasure of the different categories of data; and
+   - where possible, a general description of the applied technical and organisational security measures.
 
 The records of processing activities are internal documents but must be disclosed to the data protection supervisory authority upon request.
 
