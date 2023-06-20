@@ -16,6 +16,34 @@ Personal data is for instance a name, a phone number, an IP address, a customer 
 
 According to the General Data Protection Regulation ("**GDPR**"), every use or handling of personal data is considered "processing". "Processing" is any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction. Storage of personal data is also considered a processing activity under the GDPR. The processing of personal data includes both automated processing as well as processing other than by automated means if it forms part of a filing system or are intended to form part of a filing system.
 
+Monta's processing includes the following types of personal data about data subjects:
+
+Charge station ID;
+
+User ID;
+
+If applicable, energy company;
+
+EV-driver address;
+
+EV-driver charge card ID;
+
+EV-driver data regarding transactional history;
+
+EV-driver data regarding use (kwh); 
+
+EV-driver e-mail address;
+
+EV-driver financial data (bank account, invoice);
+
+EV-driver name;
+
+If applicable, lease company;Location of charge station;
+
+Vehicle Identification Number (VIN);
+
+Transaction ID.
+
 3 **Fundamental requirements for all processing activities**
 
 Prior to any processing of personal data, Monta must ensure compliance with certain fundamental legal requirements:
