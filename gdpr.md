@@ -38,7 +38,9 @@ EV-driver financial data (bank account, invoice);
 
 EV-driver name;
 
-If applicable, lease company;Location of charge station;
+If applicable, lease company;
+
+Location of charge station;
 
 Vehicle Identification Number (VIN);
 
