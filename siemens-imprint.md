@@ -1,4 +1,4 @@
-PRIVACY POLICY
+IMPRINT
 ==============
 
 Siemens Test ApS  
