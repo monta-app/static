@@ -7,6 +7,12 @@ Werner-von-Siemens-Straße 1
 80333 Munich  
 Germany  
 
+Monta ApS  
+Strandboulevarden 122, 2100 Copenhagen, Denmark  
+Email: info@monta.com  
+Company registration number: 41668385
+
+
 contact@siemens.com
 Tel. +49 (89) 3803 5491
 Fax +49 (69) 797 6664
