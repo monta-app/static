@@ -1,8 +1,8 @@
 
 Corporate Information 
 
-Corporate Headquarters 
-Siemens Aktiengesellschaft 
+Corporate Headquarters  
+Siemens Aktiengesellschaft  
 Werner-von-Siemens-Straße 1 
 80333 Munich 
 Germany 
