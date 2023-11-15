@@ -118,25 +118,25 @@ Les transferts réalisés vers les autres pays sont encadrés par des clauses co
 
 Les durées de conservation que nous appliquons à vos données à caractère personnel sont proportionnées aux finalités pour lesquelles elles ont été collectées. En conséquence, nous organisons notre politique de conservation des données de la manière suivante :
 
-<span style="text-decoration:underline;">Durée de conservation des données techniques </span>
+Durée de conservation des données techniques
 
-Les données techniques sont conservées pour la durée strictement nécessaire à la réalisation des finalités visées dans la présente politique de confidentialité.
+* Les données techniques sont conservées pour la durée strictement nécessaire à la réalisation des finalités visées dans la présente politique de confidentialité.
 
-<span style="text-decoration:underline;">Conservation des données pendant la durée de la relation contractuelle </span>
+Conservation des données pendant la durée de la relation contractuelle
 
-Les données à caractère personnel faisant l'objet d'un traitement ne sont pas conservées au-delà du temps nécessaire à l'exécution des obligations définies lors de la conclusion du contrat ou de la durée prédéfinie de la relation contractuelle. 
+* Les données à caractère personnel faisant l'objet d'un traitement ne sont pas conservées au-delà du temps nécessaire à l'exécution des obligations définies lors de la conclusion du contrat ou de la durée prédéfinie de la relation contractuelle. 
 
-<span style="text-decoration:underline;">Conservation des données anonymisées au-delà de la relation contractuelle / après la suppression de votre compte</span>
+Conservation des données anonymisées au-delà de la relation contractuelle / après la suppression de votre compte
 
-Nous conservons les données personnelles pour la durée strictement nécessaire à la réalisation des finalités décrites dans la présente politique de confidentialité. Au-delà de cette durée, elles seront anonymisées et conservées à des fins exclusivement statistiques et ne donneront lieu à aucune exploitation, de quelque nature que ce soit. 
+* Nous conservons les données personnelles pour la durée strictement nécessaire à la réalisation des finalités décrites dans la présente politique de confidentialité. Au-delà de cette durée, elles seront anonymisées et conservées à des fins exclusivement statistiques et ne donneront lieu à aucune exploitation, de quelque nature que ce soit. 
 
-<span style="text-decoration:underline;">Suppression des données après suppression du compte </span>
+Suppression des données après suppression du compte
 
-Des moyens de purge de données sont mis en place afin d'en prévoir la suppression effective dès lors que la durée de conservation ou d'archivage nécessaire à l'accomplissement des finalités déterminées ou imposées est atteinte. Vous disposez par ailleurs d'un droit de suppression sur vos données que vous pouvez exercer à tout moment en prenant contact avec l'éditeur du site. 
+* Des moyens de purge de données sont mis en place afin d'en prévoir la suppression effective dès lors que la durée de conservation ou d'archivage nécessaire à l'accomplissement des finalités déterminées ou imposées est atteinte. Vous disposez par ailleurs d'un droit de suppression sur vos données que vous pouvez exercer à tout moment en prenant contact avec l'éditeur du site. 
 
-<span style="text-decoration:underline;">Suppression du compte en cas de violation des CGU et de la politique de confidentialité</span>
+Suppression du compte en cas de violation des CGU et de la politique de confidentialité
 
-En cas de violation d'une ou de plusieurs dispositions des Conditions Générales d’Utilisation et de Vente (« CGU » et « CGV »), de la présente politique de confidentialité ou de tout autre document incorporé aux présentes par référence, WAAT se réserve le droit de mettre fin ou restreindre sans aucun avertissement préalable et à sa seule discrétion, votre usage et accès aux services, ainsi qu’à votre compte.
+* En cas de violation d'une ou de plusieurs dispositions des Conditions Générales d’Utilisation et de Vente (« CGU » et « CGV »), de la présente politique de confidentialité ou de tout autre document incorporé aux présentes par référence, WAAT se réserve le droit de mettre fin ou restreindre sans aucun avertissement préalable et à sa seule discrétion, votre usage et accès aux services, ainsi qu’à votre compte.
 
 
 ## La sécurité de vos données
