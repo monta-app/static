@@ -1,34 +1,22 @@
-<span style="text-decoration:underline;">POLITIQUE DE CONFIDENTIALITE</span>
+
+## POLITIQUE DE CONFIDENTIALITE
 
 Les informations suivantes vous sont communiquées afin que vous puissiez prendre connaissance des engagements en matière de protection des données à caractère personnel de la Société WAAT, ci-après nommé “WAAT”, qui a édité l’application mobile MyWaat, téléchargeable à partir des applications suivantes : Google Play, Apple Play. MyWAAT est une application en marque blanche développée à partir de solutions éditées et gérées par la société MONTA. WAAT agit en tant que responsable du traitement pour les traitements de données à caractère personnel évoqués dans le présent document et MONTA agit en tant que sous-traitant.
 
 _Dernière mise à jour : octobre 2023_
 
 
-            **SOMMAIRE**
-
-
-[TOC]
-
-
-
-
-
 ## Le délégué à la protection des données 
 
 WAAT a désigné un délégué à la protection des données personnelles dont les coordonnées sont les suivantes : 
 
+Debora Cohen
 
-    Debora Cohen
+Adresse postale : 60 rue Saint Lazare 75009 PARIS FRANCE 
 
+Ligne téléphonique dédiée : 0146424066 
 
-    Adresse postale : 60 rue Saint Lazare 75009 PARIS FRANCE 
-
-
-    Ligne téléphonique dédiée : 0146424066 
-
-
-    Adresse électronique dédiée : [contact.rgpd@waat.fr](mailto:contact.rgpd@waat.fr) 
+Adresse électronique dédiée : [contact.rgpd@waat.fr](mailto:contact.rgpd@waat.fr)
 
 
 ## Les données à caractère personnel que nous traitons
