@@ -1,26 +1,3 @@
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 1.285 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β34
-* Wed Nov 15 2023 11:02:08 GMT-0800 (PST)
-* Source doc: 2023 10 25 Politique de confidentialité MyWAAT V1
-* Tables are currently converted to HTML tables.
------>
-
-
 <span style="text-decoration:underline;">POLITIQUE DE CONFIDENTIALITE</span>
 
 Les informations suivantes vous sont communiquées afin que vous puissiez prendre connaissance des engagements en matière de protection des données à caractère personnel de la Société WAAT, ci-après nommé “WAAT”, qui a édité l’application mobile MyWaat, téléchargeable à partir des applications suivantes : Google Play, Apple Play. MyWAAT est une application en marque blanche développée à partir de solutions éditées et gérées par la société MONTA. WAAT agit en tant que responsable du traitement pour les traitements de données à caractère personnel évoqués dans le présent document et MONTA agit en tant que sous-traitant.
