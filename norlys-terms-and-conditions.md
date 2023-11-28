@@ -12,7 +12,7 @@ E-Mail: opladning@norlys.dk
 Company registration number: 25118359 
 
 
-**1. General **
+**1. General**
 
 
 These Terms of Use (the "Terms of Use") are entered into between the entity/person using or accessing the  Services (the "User" or "you") and Norlys Energi A/S ("Norlys" or "we"), collectively referred to as the  "Parties" or each a "Party". 
