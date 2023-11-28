@@ -24,7 +24,7 @@ These Terms of Use govern your use of the Services provided in Norlys' platform 
 Norlys Opladning is a white label charge point operator platform supported and operated by Monta ApS  (“Monta”) on behalf of Norlys. 
 
 
-**2. Acceptance **
+**2. Acceptance**
 
 
 By registering for the Services, you accept these Terms of Use, which allow you to use the Services. 
@@ -33,7 +33,7 @@ By registering for the Services, you accept these Terms of Use, which allow you 
 All transactions that are part of the Services including, but not limited to, initiating charging sessions as well  as using RFID cards, are governed by these Terms of use. Registration without explicit acceptance of these  Terms of Use is not possible. 
 
 
-**3. Prices **
+**3. Prices**
 
 
 For consumers, all applicable prices are listed inclusive of VAT. For businesses, applicable prices are  exclusive of VAT or unless otherwise stated.  
@@ -45,7 +45,10 @@ Before the charging process, the price will be clearly displayed as fees per kWh
 Norlys estimates the charging price prior to the initiation of a charge and reserves the necessary amount if  relevant. You acknowledge that the final and payable price of the charging service is directly dependent on  actual use, for example on the amount of consumed electricity, and is therefore not always automatically  provided before the start of the charging process. 
 
 
-Norlys will deliver a receipt of the use of the charging Service, including each charging transaction executed. **4. Billing **
+Norlys will deliver a receipt of the use of the charging Service, including each charging transaction executed. 
+
+
+**4. Billing**
 
 
 Norlys may charge you via a variety of payment methods, such as your debit/credit card, or by Norlys  invoice.
@@ -57,7 +60,7 @@ Invoices may be sent by Norlys via mail, email, or OIO invoice and are also acce
 Norlys may suspend access to the Services, with immediate effect, if the User fails to pay any fees invoiced  by Norlys pursuant to these Terms of Use. Suspension will not relieve the User of its obligation to pay such  invoices or any other fees payable to Norlys for the relevant Services. 
 
 
-**5. Obligations **
+**5. Obligations**
 
 
 You must cooperate with Norlys by providing such information and materials as Norlys may reasonably  require in order to supply the Services and ensure that such information is complete and accurate in all  material respects. 
@@ -81,10 +84,7 @@ You must take due care to protect your Norlys account against misuse by others a
 You are obligated to immediately notify Norlys if you believe that your account or the charging key has been  used by an unauthorized person or in an unauthorized manner. Norlys may then block your access to the  Services. 
 
 
-In the event of the loss of your charging key or the mobile phone on which the application operated by Norlys has been installed, you shall immediately notify Norlys. Norlys may then block your access to the Services. If  you do not give such notification and the charging key or the mobile phone in question remains in illegitimate  use, Norlys reserves the right to claim incurred losses as a damage from you in accordance with applicable  
-
-
-law. For the sake of clarity, this clause does not constitute additional claims for damages against you as a  consumer. 
+In the event of the loss of your charging key or the mobile phone on which the application operated by Norlys has been installed, you shall immediately notify Norlys. Norlys may then block your access to the Services. If  you do not give such notification and the charging key or the mobile phone in question remains in illegitimate  use, Norlys reserves the right to claim incurred losses as a damage from you in accordance with applicable law. For the sake of clarity, this clause does not constitute additional claims for damages against you as a  consumer. 
 
 
 You are solely responsible for ensuring that you comply with all applicable regulations, laws, or conventions  before using the Services.
@@ -96,7 +96,7 @@ Unless explicitly granted to You in writing by Norlys, You must not (and must no
 Monta and Norlys retains all respective rights, title and interest (including all Intellectual Property Rights) in  and to the Services, and all related or underlying documentation, technology, code, know-how, logos,  templates, anything delivered as part of the support of other services, and any updates, modifications, or  derivative works of any of the foregoing (all of which is deemed confidential information). Norlys reserves any  licenses not specifically granted in these Terms of Use. You acknowledge and agree that you have no right  to obtain a copy of the software behind any of the Services and that Norlys has sole discretion to make  updates, bug fixes, modifications, or improvements to the Services from time to time. Norlys reserves the  right to change or remove features of the Services from time to time. 
 
 
-**6. Liability **
+**6. Liability**
 
 
 The use of the Services is the sole responsibility of the User. The Services are supplied "as is" and may be  modified, updated, interrupted, suspended, or discontinued at any time without notice or liability. 
@@ -111,13 +111,13 @@ Nothing in these Terms of Use shall operate so as to exclude or limit Norlys’ 
 Norlys (or its affiliates, licensors and suppliers) shall not be liable concerning any subject matter arising from  or related to these Terms of Use, the Services or any of the websites operated by Norlys regardless of the  form of any claim or action (whether in contract, negligence, strict liability or otherwise) for; (i) any loss of  profits, contracts, revenue, business, business opportunity, loss or corruption of data or recovery of data,  goodwill, security breach resulting from a failure of a third party telecommunications and/or the internet,  anticipated savings or revenue (regardless of whether any of these is direct, indirect or consequential); (ii)  any loss or damage arising in connection with liabilities to third parties (whether direct, indirect or  consequential); (iii) any matter beyond its reasonable control; and (iv) any indirect, incidental or  consequential loss or damage whatsoever. Norlys’ (or its affiliates, licensors, and suppliers) liability for  damages shall in no event exceed the amount paid to Norlys by the User during the 12-month period  preceding the date of the event giving rise to the claim, even if Norlys has been advised of the possibility of  such damages. These limitations are independent from all other provisions of these Terms of Use and shall  apply notwithstanding the failure of any remedy provided herein. 
 
 
-**7. Force Majeure **
+**7. Force Majeure**
 
 
 Neither party will be liable for any delay or failure to perform its obligation under these Terms of Use (except  payment obligations) if the delay or failure is due to causes beyond its reasonable control, such as a strike, blockade, war, act of terrorism, riot, natural disaster, epidemic, pandemic, failure or reduction of power or  telecommunications or data networks or services, IT manipulation, or government act. 
 
 
-**8. Termination **
+**8. Termination**
 
 
 These Terms of Use may be terminated by either party without notice at any time for any reason. After  termination, you will no longer have access to the Services. 
@@ -126,7 +126,7 @@ These Terms of Use may be terminated by either party without notice at any time 
 All sections of these Terms of Use which by their nature should survive termination will survive termination,  including, without limitation, accrued rights to payment, confidentiality obligations, warranty disclaimers, and  limitations of liability. Thus, the termination does not affect existing claims with respect to the charging  processes that have previously taken place, including the obligation to pay for all charging sessions you  initiated before the termination. 
 
 
-**9. Data Protection **
+**9. Data Protection**
 
 
 Norlys or commissioned service providers collect, process, and use data pertaining to you for the  implementation of the contractual relationship pursuant to the provisions of the General Data Protection  Regulation (EU/2016/679), known as GDPR, and other applicable national data protection legislation. 
@@ -141,25 +141,25 @@ Norlys may use data collected in the provision of the Services in order to (i) i
 For further information, please see our Privacy Policy.
 
 
-**10. Waiver **
+**10. Waiver**
 
 
 Norlys' decision not to enforce or exercise any provision of these Terms of Use is not a waiver of that  provision. 
 
 
-**11. Assignment **
+**11. Assignment**
 
 
 The User is not entitled to transfer any rights or obligations under these Terms of Use to any third party  without the prior written consent from Norlys. 
 
 
-**12. Severability **
+**12. Severability**
 
 
 Should any provision of these Terns of Use be held invalid or unenforceable for any reason or to any extent,  such invalidity or unenforceability shall not in any manner affect or render invalid or unenforceable the  remaining provisions of these Terms of Use, and the application of that provision shall be enforced to the  extent permitted by law. 
 
 
-**13. Consumer cancellation and complaint rights **
+**13. Consumer cancellation and complaint rights**
 
 
 Charging services: The right of cancellation ceases from the time a purchase of a service/a charging session  has been completed. If, in connection with the purchase of charging services, you have requested that the  charging supply commences before the expiry of the cancellation period, and you still wish to cancel, you  must be aware that we will charge a reasonable payment for the part of the service that was already delivered at the time of cancellation. When such service has been completed, the right of cancellation ceases. 
@@ -168,7 +168,7 @@ Charging services: The right of cancellation ceases from the time a purchase of 
 Dispute resolution: Any claim under Danish law may be brought before the Danish Consumer Complaints  Board or the Danish Center for Complaints Resolution, which can be accessed on the website of the Center  for Klageløsning og Forbrugerklagenævnet (naevneneshus.dk). An alternative dispute resolution procedure  is also offered by the European Commission to citizens of EU and EEA member states through their platform  for Online Dispute Resolution. If you are not satisfied with the outcome of this procedure, you can still bring  ordinary legal proceedings. 
 
 
-**14. Personal Wallet and Team Wallets **
+**14. Personal Wallet and Team Wallets**
 
 
 The personal wallet is a virtual payment method which can be used to pay for charging your electric vehicle by funds placed in your personal Norlys account directly by use of Norlys Opladning or by use of a charge  key connected to your account (“Personal Wallet”). The Personal Wallet can be loaded by a User by means  of credit card or other accepted payment methods. The User may deposit funds to their Personal Wallet  either manually or automatically when the balance goes below a certain amount. The User may also  withdraw their balance from their Personal Wallet. Norlys does not charge fees for the deposit or withdrawal  process. 
@@ -206,7 +206,7 @@ Norlys Credits: Credits received in your Personal Wallet from referrals, promoti
 The Danish Consumer Ombudsman (Forbrugerombudsmanden) handles complaints regarding Norlys’  general terms and marketing. Further, Forbrugerombudsmanden may handle complaints on information  rights, third party misuse of card, best practices, etc. in accordance with the Danish Payment Act. 
 
 
-**15. Governing Law and Jurisdiction **
+**15. Governing Law and Jurisdiction**
 
 
 These Terms of Use is subject to the laws of Denmark. 
@@ -215,10 +215,10 @@ These Terms of Use is subject to the laws of Denmark.
 If any dispute arising out of or in connection with these Terms of Use were to be litigated, such dispute shall  be settled by the City Court of Copenhagen as legal venue. 
 
 
-    **16. Changes to these Terms of Use **
+**16. Changes to these Terms of Use**
 
 
-    These Terms of Use was last updated on 28.11.2023. 
+These Terms of Use was last updated on 28.11.2023. 
 
 
-    Norlys reserves the right in its sole discretion, to modify, update, or otherwise revise these Terms of Use at  any time. Such revisions shall be effective immediately upon posting updates to these Terms of Use in  Norlys Opladning. Norlys will notify you of any material changes to the terms. By using the Services after  Norlys has posted any modification, updates, or revisions, the User agrees to be bound by such revised  Terms of Use. If any modification, update, or other change to these Terms of Use are not acceptable to you,  then you have the right to terminate these Terms of Use provided you immediately terminate your use or  access to the Services.
+Norlys reserves the right in its sole discretion, to modify, update, or otherwise revise these Terms of Use at  any time. Such revisions shall be effective immediately upon posting updates to these Terms of Use in  Norlys Opladning. Norlys will notify you of any material changes to the terms. By using the Services after  Norlys has posted any modification, updates, or revisions, the User agrees to be bound by such revised  Terms of Use. If any modification, update, or other change to these Terms of Use are not acceptable to you,  then you have the right to terminate these Terms of Use provided you immediately terminate your use or  access to the Services.
