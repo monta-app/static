@@ -1,18 +1,18 @@
 # Política de privacidad (Traducción, es)
-Original traducido con ChatGPT de ~[https://app.emovili Fast.app/privacy-policy](https://app.monta.app/privacy-policy)~
+Original traducido con ChatGPT de [https://app.emovili Fast.app/privacy-policy](https://app.monta.app/privacy-policy)
 POLÍTICA DE PRIVACIDAD 
 Responsible del Tratamiento
 EMOVILI SPAIN, S.L.. B86616042.  C. de la Granja, 15, edificio B, planta B, 28108 Alcobendas, Madrid . 919 01 14 52 contacto@emovili.com. 
-Puede ponerse en contacto con nuestro Delegado de Protección de Datos en ~[dpo@emovili.com](mailto:dpo@emovili.com)~
+Puede ponerse en contacto con nuestro Delegado de Protección de Datos en [dpo@emovili.com](mailto:dpo@emovili.com)
 
 En Emovili Fast, , entendemos la importancia de tratar los datos personales de nuestros clientes, proveedores, socios comerciales, visitantes de nuestro sitio web y otras personas con las que interactuamos de manera confidencial y privada. La transparencia es un valor fundamental en Emovili Fast, y nos comprometemos a seguir los requisitos y obligaciones en relación con la privacidad de datos de acuerdo con la ley aplicable, incluido el Reglamento General de Protección de Datos de la UE ("GDPR"). Por lo tanto, tenemos procedimientos seguros y adecuados para el procesamiento de datos.
 
 Emovili Fast es el responsable del tratamiento de sus datos personales. Esta política de privacidad explicará cómo Emovili Fast utiliza los datos personales que recopilamos de usted cuando utiliza nuestro sitio web, portales de usuario y aplicaciones móviles.
 Emovili Fast cuenta con un encargado del tratamiento Monta ApS que se encarga de la gestión técnica de la plataforma. Emovili Fast cuenta con el correspondiente contrato de encargado del tratamiento entre ambas partes, que asegura que el tratamiento de datos realizado por Monta ApS se adecua a la legislación de protección de datos
 
-Cuando hablamos de nuestro "Sitio web", nos referimos a ~[www.emovili.com](http://www.monta.com/)~ y otros sitios y aplicaciones de nuestra propiedad y operación. Cuando nos referimos a "portales de usuario" y "aplicaciones móviles", nos referimos a nuestro producto "Emovili Fast".
+Cuando hablamos de nuestro "Sitio web", nos referimos a [www.emovili.com](http://www.monta.com/) y otros sitios y aplicaciones de nuestra propiedad y operación. Cuando nos referimos a "portales de usuario" y "aplicaciones móviles", nos referimos a nuestro producto "Emovili Fast".
 
-Si tiene alguna pregunta sobre esta Política de Privacidad o desea ejercer sus derechos como sujeto de datos de acuerdo con el Capítulo III del GDPR y según la sección 7 de esta Política de Privacidad, comuníquese con Emovili Fast en ~[operadorfast@emovili.com](mailto:info@monta.com)~.
+Si tiene alguna pregunta sobre esta Política de Privacidad o desea ejercer sus derechos como sujeto de datos de acuerdo con el Capítulo III del GDPR y según la sección 7 de esta Política de Privacidad, comuníquese con Emovili Fast en [operadorfast@emovili.com](mailto:info@monta.com).
 
 Categorías de datos personales, propósito y base legal 
 
@@ -23,12 +23,10 @@ Cuando visita nuestro Sitio web, portales de usuario y/o aplicaciones móviles, 
 Los intereses legítimos perseguidos son proporcionarle productos y servicios que funcionen de manera óptima, una buena experiencia en el sitio web y actividades de marketing. La base legal para el procesamiento de sus datos personales es el Art. 6(1)(f) del GDPR. En ciertos casos, la base legal para el procesamiento de sus datos personales en este sentido es su consentimiento, que se le pedirá cuando visite el Sitio web, portales de usuario y/o aplicaciones móviles, cf. Art. 6(1)(a) del GDPR. Puede obtener más información sobre nuestro uso de cookies en la política de cookies al ingresar a nuestro Sitio web.
 
 Si desea recibir un boletín o reservar una demostración, también procesamos la siguiente información sobre usted: nombre y apellido, tema(s) de interés y su dirección de correo electrónico para adaptar el contenido y enviarle nuestros boletines. La base legal para el procesamiento de sus datos personales en este sentido es nuestro interés legítimo en la promoción de nuestros productos y negocios y el material de marketing relevante que ha solicitado, cf. Art. 6(1)(f) del GDPR. En cualquier momento, puede darse de baja para dejar de recibir nuestro boletín. Para declarar que desea darse de baja, puede utilizar el enlace respectivo incluido en todos los boletines o enviar un correo electrónico a 
-
 ### 2.2 Clientes
 Cuando registra su perfil, Emovili Fast procesará datos personales sobre usted, incluidos su nombre, dirección de correo electrónico, número de teléfono, dirección postal, información bancaria y de pago, e información sobre los servicios adquiridos. El propósito del procesamiento de sus datos personales es suministrarle nuestros servicios.
 Cuando utiliza nuestros servicios, Emovili Fast procesará información relacionada con la fecha y hora, frecuencia, ubicación y patrón de carga de vehículos eléctricos (EV). La información relacionada con las compras incluye nombre, datos de contacto, dirección, costo y detalles de la transacción. Además de Monta ApS Utilizamos Stripe como una empresa de procesamiento de tarjetas de crédito de terceros para recopilar información de pago. Si envía información de pago, compartiremos con Stripe información como el número de su tarjeta de débito/crédito, dirección de facturación, número de teléfono e información de la aplicación instalada para procesar los pagos. En tales circunstancias, el proveedor de terceros, y no Emovili Fast, almacena su información de pago en nuestro nombre actuando como un procesador de datos, y para procesar los pagos en su billetera dentro de la aplicación, procesan información sobre su número de teléfono y detalles de la aplicación instalada.
 La base legal para el procesamiento de sus datos personales en ese sentido es el Art. 6(1)(b) del GDPR. Esto se debe a que el procesamiento es necesario para la ejecución de un contrato del cual usted es parte o porque es necesario tomar medidas a solicitud suya antes de celebrar un contrato.
-
 ### 2.3 Personas de contacto en un proveedor u otro socio comercial
 Como persona de contacto en un proveedor u otro socio comercial, Emovili Fast procesa sus datos personales cuando se comunica con Emovili Fast, por ejemplo, por correo electrónico en relación con la relación contractual existente de Emovili Fast con la empresa para la que trabaja o en relación con la celebración o terminación de un contrato. Emovili Fast procesa datos personales ordinarios sobre usted, incluido su nombre, dirección de correo electrónico, número de teléfono, cargo, etc.
 
@@ -44,24 +42,20 @@ En casos específicos, por ejemplo, en relación con disputas, incluido cuando l
 
 Emovili Fast utiliza proveedores de servicios de terceros, como proveedores de alojamiento administrado, procesadores de tarjetas de crédito y socios tecnológicos para proporcionar el software, la red, el marketing, la logística, la infraestructura y otros servicios necesarios para operar, desarrollar, entregar y mantener nuestro producto y servicios, y cumplir con nuestros otros propósitos según lo definido en esta Política de Privacidad. Cuando un tercero procesa datos personales en nuestro nombre, el procesamiento se realiza de acuerdo con las instrucciones documentadas dadas por Emovili Fast y los términos y condiciones adicionales establecidos en un acuerdo de procesador de datos celebrado con Emovili Fast. A estos procesadores de datos no se les permite procesar sus datos personales para sus propios fines. Emovili Fast garantiza que el procesamiento se realice de manera segura y de acuerdo con todas las leyes de privacidad aplicables, que incluyen pero no se limitan al GDPR.
 
-Transferencia de sus datos personales a un tercer país (fuera de la UE/EEE) En ciertos casos, sus datos personales pueden ser transferidos a países fuera de la UE/EEE. Emovili Fast garantiza que dicha transferencia se llevará a cabo de acuerdo con las leyes aplicables de protección de datos. Esto implica que cualquier parte fuera de la UE/EEE que reciba sus datos personales garantizará un nivel adecuado de protección, por ejemplo, mediante la celebración de las cláusulas contractuales estándar de la UE ("SCCs") con Emovili Fast. Emovili Fast garantizará la implementación de garantías adicionales si se considera necesario en casos específicos. Puede recibir una copia de la base legal para las transferencias bajo petición. Comuníquese con ~[operadorfast@emovili.com](mailto:info@monta.com)~.
+Transferencia de sus datos personales a un tercer país (fuera de la UE/EEE) En ciertos casos, sus datos personales pueden ser transferidos a países fuera de la UE/EEE. Emovili Fast garantiza que dicha transferencia se llevará a cabo de acuerdo con las leyes aplicables de protección de datos. Esto implica que cualquier parte fuera de la UE/EEE que reciba sus datos personales garantizará un nivel adecuado de protección, por ejemplo, mediante la celebración de las cláusulas contractuales estándar de la UE ("SCCs") con Emovili Fast. Emovili Fast garantizará la implementación de garantías adicionales si se considera necesario en casos específicos. Puede recibir una copia de la base legal para las transferencias bajo petición. Comuníquese con [operadorfast@emovili.com](mailto:info@monta.com).
 
 Almacenamiento de sus datos personales Emovili Fast solo almacenará sus datos personales siempre que se considere necesario para cumplir con los fines del procesamiento de sus datos personales. Emovili Fast mantiene salvaguardias de seguridad estándar de la industria para proteger sus datos. Encriptamos los datos en tránsito y en reposo, cuando sea apropiado, para asegurarnos de que su información se mantenga privada.
 
 Emovili Fast almacena de manera segura sus datos en nuestros servidores seguros (protegidos con contraseña y cortafuegos). Toda la información de pago está completamente encriptada y se maneja solo a través de organizaciones certificadas por PCI. Reconoce que la transmisión de información por Internet no es inherentemente segura, y Emovili Fast no puede garantizar la seguridad de los datos enviados por Internet. Los correos electrónicos enviados a través de Internet pueden no estar encriptados, por lo que le recomendamos que no incluya información confidencial o sensible en sus correos electrónicos.
 Se han implementado controles de acceso para limitar el acceso a su información solo a aquellos que lo necesitan para realizar sus trabajos. Por ejemplo, la información sobre usted puede proporcionarse a nuestro equipo de soporte al cliente para ayudarlo con sus solicitudes.
-
 ### 5.1 Visitantes de nuestro Sitio web, portales de usuario y/o aplicaciones móviles, y receptores de boletines
 Los datos personales relacionados con su cuenta de boletín se almacenan hasta que retire su consentimiento y ya no desee recibir boletines de nosotros.
 Los datos personales recopilados a través de cookies mediante el uso de nuestro Sitio web, portales de usuario y/o aplicaciones móviles se almacenan durante diferentes períodos según el tipo y propósito de la cookie en cuestión.
 Los datos personales recopilados en relación con el uso de redes sociales se eliminarán cuando se elimine el contenido o cuando retire su respuesta a nuestro contenido (me gusta, compartir, etc.). Vea más en la sección 6 a continuación.
-
 ### 5.2 Clientes
 Los datos personales sobre clientes se eliminan por lo general cuando ya no son necesarios para el propósito de la recopilación. Los datos personales se eliminan 3 años después de la terminación de la relación contractual entre Emovili Fast y el cliente, si se evalúa que el almacenamiento continuado no es necesario con fines de documentación. Si el almacenamiento no es necesario con fines de documentación, los datos personales se eliminarán al finalizar la relación contractual.
-
 ### 5.3 Persona de contacto en un proveedor u otro socio comercial
 Si es una persona de contacto en un proveedor u otro socio comercial, Emovili Fast almacenará sus datos personales mientras Emovili Fast se comunique con usted porque es el punto de contacto de Emovili Fast, 3 años después de la terminación de la relación contractual, o hasta que ya no sea necesario para el establecimiento, ejercicio o defensa de una reclamación legal.
-
 ### 5.4 Consultas a través de la función de chat en nuestros portales de usuario y aplicaciones móviles
 Las consultas de posibles clientes se eliminarán 3 años después de que se resuelva la consulta, a menos que sea necesario almacenar dichas consultas por razones de documentación, por ejemplo, debido a una disputa, incluida la creación, ejercicio o defensa de reclamaciones legales.
 Las consultas de clientes existentes se eliminarán 3 años después de la terminación de la relación contractual, a menos que sea necesario almacenar dichas consultas por razones de documentación, por ejemplo, debido a una disputa, incluida la creación, ejercicio o defensa de una reclamación legal.
@@ -78,7 +72,7 @@ Emovili Fast es un controlador de datos conjunto con nuestros proveedores de red
 
 No tenemos influencia en la cantidad de datos que las redes sociales recopilan mediante un complemento activo. Para obtener más información, consulte el aviso de privacidad de datos relevante:
 
-Facebook: ~[www.facebook.com/policy](http://www.facebook.com/policy)~ Instagram: ~[https://help.instagram.com/519522125107875/?maybe_redirect_pol=0](https://help.instagram.com/519522125107875/?maybe_redirect_pol=0)~ LinkedIn: ~[https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy)~
+Facebook: [www.facebook.com/policy](http://www.facebook.com/policy) Instagram: [https://help.instagram.com/519522125107875/?maybe_redirect_pol=0](https://help.instagram.com/519522125107875/?maybe_redirect_pol=0) LinkedIn: [https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy)
 
 Tus derechos
 Emovili Fast ha implementado varias medidas para proteger tus datos personales y garantizar tus derechos. Como sujeto de datos, puedes ejercer los siguientes derechos.
@@ -94,10 +88,10 @@ Si no estás de acuerdo con la forma en que Emovili Fast procesa tus datos perso
 Derecho a retirar un consentimiento anterior
 Si el procesamiento de tus datos personales se basa en tu consentimiento, cf. Art. 6(1)(a) del RGPD, tienes el derecho de retirar tu consentimiento en cualquier momento. Ten en cuenta que la retirada no afecta la legalidad del procesamiento previo de tus datos personales que, hasta tu retirada, se haya basado en tu consentimiento.
 
-Si deseas ejercer alguno de los derechos mencionados anteriormente o si deseas retirar un consentimiento anterior, no dudes en ponerte en contacto con nosotros en ~[operadorfast@emovili.com](mailto:info@monta.com)~.
+Si deseas ejercer alguno de los derechos mencionados anteriormente o si deseas retirar un consentimiento anterior, no dudes en ponerte en contacto con nosotros en [operadorfast@emovili.com](mailto:info@monta.com).
 
 Preguntas o quejas
-Si tienes alguna pregunta relacionada con esta Política de privacidad, deseas ejercer tus derechos como se mencionó anteriormente o no estás de acuerdo con la forma en que Emovili Fast procesa tus datos personales, puedes ponerte en contacto con Emovili Fast en ~[operadorfast@emovili.com](mailto:info@monta.com)~.
+Si tienes alguna pregunta relacionada con esta Política de privacidad, deseas ejercer tus derechos como se mencionó anteriormente o no estás de acuerdo con la forma en que Emovili Fast procesa tus datos personales, puedes ponerte en contacto con Emovili Fast en [operadorfast@emovili.com](mailto:info@monta.com).
 También puedes presentar una queja ante la autoridad supervisora de protección de datos pertinente, que es una autoridad pública independiente responsable, entre otras cosas, de supervisar y hacer cumplir la aplicación del RGPD
 
 Modificaciones a esta política de privacidad
