@@ -2,7 +2,9 @@ PRIVACY POLICY
 ==============
 
 NRGi Elhandel A/S, Dusager 22, 8200 Aarhus N
+
 CVR-no.: 32285759 
+
 Email: service@nrgi.dk
 
 
