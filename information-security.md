@@ -21,10 +21,10 @@ Purpose
 
 The overall purpose of this Policy is to ensure the confidentiality, availability, and integrity of all information and information assets belonging to Monta and its stakeholders (third parties, clients or customers and the general public), including  
 
-*   to establish a general approach to information security.
-*   to build an overall framework (management system) for handling information security in different areas of the organisation.
-*   to detect and mitigate the compromise of information security such as misuse of data, networks, computer systems, and applications.
-*   to protect the reputation of the company with respect to its ethical and legal responsibilities.
+  *   to establish a general approach to information security.
+  *   to build an overall framework (management system) for handling information security in different areas of the organisation.
+  *   to detect and mitigate the compromise of information security such as misuse of data, networks, computer systems, and applications.
+  *   to protect the reputation of the company with respect to its ethical and legal responsibilities.
 
 Scope  
 
@@ -46,10 +46,10 @@ Use of the Monta’s Systems by Authorised Users will be lawful, honest and dece
 
 Information must not be copied or transported outside the Monta Systems without consideration of:  
 
-*   the classification of the specific information as defined in Monta’s Information Classification Policy
-*   permission from the information owner  
-*   the risks associated with loss or falling into the wrong hands 
-*   how the information will be shared with externals
+  *   the classification of the specific information as defined in Monta’s Information Classification Policy
+  *   permission from the information owner  
+  *   the risks associated with loss or falling into the wrong hands 
+  *   how the information will be shared with externals
 
 Monta accept that employees are working from home or in other locations outside the office, however, to retain adequate information security this is regulated by the Remote Working Policy.  
 
@@ -63,20 +63,20 @@ Authorised Users of Information Systems are not given rights of privacy in relat
 
 ### Information Security Board  
 
-Monta has established an Information Security Board, which is led by the Chief of Staff. The responsibility of the Information Security Board is to implement information security measures and ensure proper compliance with the same. The Information Security Board has created a monitoring overview with both ongoing monitoring as well as bi-annual reviews.  
+Monta has established an Information Security Board, which is led by the VP Operational Excellence & Governance. The responsibility of the Information Security Board is to implement information security measures and ensure proper compliance with the same. The Information Security Board has created a monitoring overview with both ongoing monitoring as well as bi-annual reviews.  
 
 ### Related standards, policies and processes  
 
 This Information Security Policy sets out the overall standards for Monta’s information security, which is regulated in further detail in the relevant policies listed below:  
 
-*   IT Policy
-*   Office Security Policy
-*   Secure Password Policy
-*   Remote Working Policy
-*   Information Classification Policy
-*   Business Continuity Policy
-*   Privacy Policy
-*   GDPR Policy
+  *   IT Policy
+  *   Office Security Policy
+  *   Secure Password Policy
+  *   Remote Working Policy
+  *   Information Classification Policy
+  *   Business Continuity Policy
+  *   Privacy Policy
+  *   GDPR Policy
 
 These policies can be shared upon request on a private and confidential basis with third parties having a legitimate interest.  
 
@@ -106,4 +106,4 @@ All managers have a specific responsibility to operate within the boundaries of 
 
 The Policy shall be reviewed on a bi-annual basis by the Information Security Board. Further, it shall be reviewed, and eventual edits shall be approved, by Monta Management once per year in February.  
 
-Effective Date: 15 January 2023
+Effective Date: 15 February 2024
