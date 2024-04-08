@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  # Name of the project 
+  name: static
+  description: Static policy pages
+
+# The spec defines who becomes the owner of the system in backstage
+spec:
+  type: website
+  # See lifecycle common values: https://backstage.io/docs/features/software-catalog/descriptor-format/#speclifecycle-required
+  lifecycle: production
+  # Name of the squad responsible for the project, e.g. sre or cpi
+  owner: SRE
+  # Name of the greater system, e.g. "solar" is a part of the home system
+  system: Platform
