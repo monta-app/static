@@ -6,7 +6,7 @@ Here is our list of dependecies
 
 # Mobile frontend
 
- - [Flutter](https://flutter.dev/) ([Dependencies](https://github.com/monta-app/static/blob/main/mobile-dependencies.md))
+ - [Flutter](https://flutter.dev/) ([Dependencies](https://app.monta.app/mobile-dependencies))
   
 # Web frontend
 
