@@ -4,11 +4,11 @@ In Monta we rely on open source software to build our platform. The open source 
 
 Here is our list of dependecies 
 
-# Mobile frontend
+# Monta Charge (Mobile)
 
  - [Flutter](https://flutter.dev/) ([Dependencies](https://app.monta.app/mobile-dependencies))
   
-# Web frontend
+# Monta Hub (Web)
 
  - [Flutter](https://flutter.dev/) ([Dependencies](https://app.monta.app/static/hub-dependencies))
  
