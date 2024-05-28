@@ -4,17 +4,13 @@ In Monta we rely on open source software to build our platform. The open source 
 
 Here is our list of dependecies 
 
-# Mobile frontend
+# Monta Charge (Mobile)
 
  - [Flutter](https://flutter.dev/) ([Dependencies](https://app.monta.app/mobile-dependencies))
   
-# Web frontend
+# Monta Hub (Web)
 
- - [Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction)
- - [Font awesome](https://fontawesome.com)
- - [Argon](https://www.creative-tim.com/product/argon-dashboard-pro) 
- - [JQuery](https://jquery.com)
- - [Vue](https://vuejs.org)
+ - [Flutter](https://flutter.dev/) ([Dependencies](https://app.monta.app/static/hub-dependencies))
  
 # Server 
  - [GoLang](https://golang.org)
