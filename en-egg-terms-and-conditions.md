@@ -35,17 +35,17 @@
 
 **3 Information about us and how to contact us**
 
-3.1 ~Who we are~
+3.1 Who we are
 
 We are **PHOENIX RENEWABLES LIMITED**, trading as ‘Egg’, a company registered in England and Wales. Our company registration number is 7477370 and our registered office is at Griffin House, 161 Hammersmith Road, London, United Kingdom, W6 8BS. Our registered VAT number is GB 109 6957 79.
 
-~3.2 How to contact us~
+3.2 How to contact us
 
 You can contact us by:
 
 (a) telephoning our customer service team at 0113 815 5366;
 
- (b) by sending us an email at ~[home@crackingenergy.com](mailto:home@crackingenergy.com)~; or
+ (b) by sending us an email at [home@crackingenergy.com](mailto:home@crackingenergy.com); or
  
  (c) by sending us an enquiry via the App ‘Contact Us’ function, 
  
@@ -325,7 +325,7 @@ Where our App contains links to other sites and resources provided by third part
 
 **9 Cookies**
 
-The App uses cookies. Cookies are text files placed on your device to collect standard Internet log information and visitor behaviour information. For more information about how we use them please see our Privacy statement here ~[Privacy Policy | Egg - Cracking Energy](https://crackingenergy.com/privacy-policy)~
+The App uses cookies. Cookies are text files placed on your device to collect standard Internet log information and visitor behaviour information. For more information about how we use them please see our Privacy statement here [Privacy Policy | Egg - Cracking Energy](https://crackingenergy.com/privacy-policy)
 
 ### PART 4 – ACCOUNT USER TERMS
 
@@ -405,9 +405,9 @@ The App uses cookies. Cookies are text files placed on your device to collect st
 
 **1 How we use your personal information**
 
-1.1 When you use our Services, we will process your personal information. Our Privacy Policy sets out the ways in which we will collect, store and process data relating to your use of our Services (including the App) and includes details of your rights to access, correct and erase of any of your personal information that we hold. Please find a link to our Privacy Policy here ~[Privacy Policy | Egg - Cracking Energy](https://crackingenergy.com/privacy-policy)~.
+1.1 When you use our Services, we will process your personal information. Our Privacy Policy sets out the ways in which we will collect, store and process data relating to your use of our Services (including the App) and includes details of your rights to access, correct and erase of any of your personal information that we hold. Please find a link to our Privacy Policy here [Privacy Policy | Egg - Cracking Energy](https://crackingenergy.com/privacy-policy).
 
-1.2 If you have any queries in relation to how your personal information is processed please send an email containing your query to ~[privacy@crackingenergy.com](about:blank)~.
+1.2 If you have any queries in relation to how your personal information is processed please send an email containing your query to [privacy@crackingenergy.com](about:blank).
 
 **2 Intellectual Property Rights**
 
@@ -419,7 +419,7 @@ The App uses cookies. Cookies are text files placed on your device to collect st
 
 **3 Changes to these Terms**
 
-3.1 We may update and change our App from time to time to reflect changes to our Services, changes to our business, or changes to operating requirements. We will notify you of any material changes to our Services or App by publishing an updated version of these Terms on the App and on our website ~[https://crackingenergy.com](https://crackingenergy.com/)~.
+3.1 We may update and change our App from time to time to reflect changes to our Services, changes to our business, or changes to operating requirements. We will notify you of any material changes to our Services or App by publishing an updated version of these Terms on the App and on our website [https://crackingenergy.com](https://crackingenergy.com/).
 
 3.2 We will try to give you reasonable notice of any major changes to these Terms. Please check the terms published in the App and the Egg website periodically for any changes.
 
