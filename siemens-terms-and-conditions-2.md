@@ -1,8 +1,8 @@
 # Table of Contents / Inhaltsverzeichnis
-- [Siemens Endbenutzer-Lizenzvertrag für Mobile Android®-Anwendungen](#heading-siemens-endbenutzer-lizenzvertrag-für-mobile-android-anwendungen)
-- [Siemens Endbenutzer-Lizenzvertrag für Mobile Apple®-Anwendungen](#heading-siemens-endbenutzer-lizenzvertrag-für-mobile-apple-anwendungen)
-- [Siemens End User License Agreement for Android® Mobile Applications](#heading-siemens-end-user-license-agreement-for-android-mobile-applications)
-- [Siemens End User License Agreement for Mobile Applications - iOS](#heading-siemens-end-user-license-agreement-for-mobile-applications---ios)
+- [Siemens Endbenutzer-Lizenzvertrag für Mobile Android®-Anwendungen](#siemens-endbenutzer-lizenzvertrag-fr-mobile-android-anwendungen)
+- [Siemens Endbenutzer-Lizenzvertrag für Mobile Apple®-Anwendungen](#siemens-endbenutzer-lizenzvertrag-fr-mobile-apple-anwendungen)
+- [Siemens End User License Agreement for Android® Mobile Applications](#siemens-end-user-license-agreement-for-android-mobile-applications)
+- [Siemens End User License Agreement for Mobile Applications - iOS](#siemens-end-user-license-agreement-for-mobile-applications---ios)
 
 --- 
 
@@ -73,7 +73,7 @@ Dieser  Endbenutzer-Lizenzvertrag  für  Mobile  Android® Anwendungen  („Vert
 11.  Salvatorische Klausel  
      Sollte  eine  Bestimmung  dieses  Vertrags  nichtig  oder undurchsetzbar  sein,  so  wird  die  Gültigkeit  der  restlichen Vertragsbestimmungen davon nicht berührt und diese bleiben gültig und entsprechend ihren Bestimmungen durchsetzbar. Änderungen,  Ergänzungen  und  Zusatzvereinbarungen  zu diesem Vertrag bedürfen zu ihrer Gültigkeit der Schriftform und der  Unterzeichnung  der  ordnungsgemäß  bevollmächtigten Vertreter  der  Vertrags-partner.  Auch  ein  Verzicht  auf  das Schriftformerfordernis  muss  schriftlich  erfolgen.  Erklärungen per E-Mail oder sonstige elektronische Mitteilungen sind zur Erfüllung des Schriftformerfordernisses nicht ausreichend.
 
-[Back to Top / Zurück zum Seitenanfang](#heading-table-of-contents--inhaltsverzeichnis)
+[Back to Top / Zurück zum Seitenanfang](#table-of-contents--inhaltsverzeichnis)
 
 ---
 
@@ -150,7 +150,7 @@ Dieser  Endbenutzer-Lizenzvertrag  für  Mobile  Apple® Anwendungen  („Vertra
 12.  Salvatorische Klausel  
      Sollte  eine  Bestimmung  dieses  Vertrags  nichtig  oder undurchsetzbar  sein,  so  wird  die  Gültigkeit  der  restlichen Vertragsbestimmungen davon nicht berührt und diese bleiben gültig  und  entsprechend  ihrer  Bestimmungen  durchsetzbar. Änderungen,  Ergänzungen  und  Zusatzvereinbarungen  zu diesem Vertrag bedürfen zu ihrer Gültigkeit der Schriftform und der  Unterzeichnung  der  ordnungsgemäß  bevollmächtigten Vertreter  der  Vertrags-partner.  Auch  ein  Verzicht  auf  das Schriftformerfordernis  muss  schriftlich  erfolgen.  Erklärungen per E-Mail oder sonstige elektronische Mitteilungen sind zur Erfüllung des Schriftformerfordernisses nicht ausreichend
 
-[Back to Top / Zurück zum Seitenanfang](#heading-table-of-contents--inhaltsverzeichnis)
+[Back to Top / Zurück zum Seitenanfang](#table-of-contents--inhaltsverzeichnis)
 
 ---
 
@@ -208,7 +208,7 @@ This  End  User  License  Agreement  for  Mobile  Android® Applications ("Agree
 9.  Severability
     If  any  provision  of  this  Agreement  is  or  becomes  void  or unenforceable, the validity of the remaining provisions of this Agreement shall not be affected and such provisions shall remain valid and enforceable. Amendments, supplements, and additional agreements to this Agreement must be in writing and signed by duly authorized representatives of the parties in order to be valid. Any waiver of the written form requirement must also be  in  writing.  Declarations  by  e-mail  or  other  electronic communications are not sufficient to fulfill the written form requirement.
 
-[Back to Top / Zurück zum Seitenanfang](#heading-table-of-contents--inhaltsverzeichnis)
+[Back to Top / Zurück zum Seitenanfang](#table-of-contents--inhaltsverzeichnis)
 
 ---
 
@@ -273,4 +273,4 @@ This  End  User  License  Agreement  for  Mobile  Applications  ("Agreement") is
 10.  Severability  
      If  any  provision  of  this  Agreement  is  or  becomes  void or unenforceable, the validity of the remaining provisions of this Agreement shall not be affected and such provisions shall remain valid and enforceable. Amendments, supplements, and additional agreements to this Agreement must be in writing and signed by duly authorized representatives of the parties in order to be valid. Any waiver of the written form requirement must also be  in  writing.  Declarations  by  e-mail  or  other  electronic communications are not sufficient to fulfill the written form requirement.
 
-[Back to Top / Zurück zum Seitenanfang](#heading-table-of-contents--inhaltsverzeichnis)
+[Back to Top / Zurück zum Seitenanfang](#table-of-contents--inhaltsverzeichnis)
