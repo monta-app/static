@@ -1,0 +1,2 @@
+### Terms of Use
+These Terms of Use (the "Agreement") regulate the use of the "****FREE2MOVE CHARGE APP****", a mobile application **offered by Stellantis Europe Spa - FREE2MOVE CHARGE Business Unit** - Corso G. Agnelli 200, 10135 - Turin, Company Register of Turin, VAT n.: 07973780013, share capital 850.000.000, fully paid-up, company with a sole shareholder -  and **powered by Monta ApS** - Strandboulevarden 122, 2100 Copenhagen, Denmark, Company registration number: 41668385.
