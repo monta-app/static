@@ -5,6 +5,7 @@ info@unox.dk
 CVR-nummer: 3380 7910
 
 **1. Generelt**
+
 Disse Brugsbetingelser ("Aftalen") indgås mellem den enhed/person, der bruger eller får adgang til Tjenesterne ("Brugeren" eller "Du") og Uno X Mobility Danmark ("Uno-X" eller "vi"), samlet benævnt "Parterne" eller hver især en "Part".
 
 Denne aftale regulerer din brug af de tjenester, der drives af Uno-X ("Tjenester"). Aftalen omfatter din brug af tjenester, som Uno-X stiller til rådighed for elbilister og opladningssteder, der drives af Uno-X som Uno-X Lynladning. Tjenesterne omfatter alle funktioner og funktionaliteter, herunder, men ikke begrænset til, websteder, brugerportaler, mobilapplikationer, indhold og brugergrænseflader, der er forbundet med Uno-X Lynladning, hvor brugere kan administrere og finde ladestandere til at starte og betale for opladningsprocesser for elbiler (Tjenesterne).
@@ -14,11 +15,13 @@ Uno-X Lynladning er en whitelabel platform for operatører af ladestandere, som 
 Læs mere om behandling af dine persondata i Uno-X’ privatlivspolitik [https://bilist.unoxmobility.dk/privatlivspolitik/](https://bilist.unoxmobility.dk/privatlivspolitik/)
 
 **2. Accept**
+
 Ved at tilmelde dig tjenesterne og acceptere denne Aftale accepterer du de brugsbetingelser, som giver dig mulighed for at bruge tjenesterne.
 
 Alle transaktioner, der er en del af tjenesterne, herunder, men ikke begrænset til, initiering af opladningssessioner samt bestilling og brug af RFID-kort, er underlagt denne Aftale. Registrering uden udtrykkelig accept af denne Aftale er ikke mulig.
 
 **3. Priser**
+
 For forbrugere er alle gældende priser angivet inklusive moms. For virksomheder er gældende priser eksklusive moms, medmindre andet er angivet. 
 
 Uno-X er gratis til personlig brug, men kan opkræve betaling for visse tjenester, såsom transaktionsgebyrer for at lette deling af ladestandere til andre brugere.
@@ -34,6 +37,7 @@ Du anerkender, at den endelige og betalbare pris for ladetjenesten er direkte af
 Uno-X leverer en kvittering for brugen af opladningstjenesten, herunder hver udført opladningstransaktion.
 
 **4. Fakturering**
+
 Uno-X kan opkræve dig via en række forskellige betalingsmetoder, såsom din Wallet, debet-/kreditkort eller via faktura.
 
 Fakturaer kan sendes af Uno-X via post eller e-mail og trukne beløb fremgår også af dit Uno-X Privatkort og Firmakort ([https://bilist.unoxmobility.dk/kortbetingelser/](https://bilist.unoxmobility.dk/kortbetingelser/)) Fuld betaling for udstedte fakturaer skal være Uno-X i hænde femten (15) dage efter fakturaens udstedelsesdato, medmindre andet er angivet eller aftalt. Forfaldsdatoen vil fremgå af fakturaen. Ubetalte beløb er underlagt et gebyr på 1,5 % pr. måned på enhver udestående saldo eller det maksimale tilladte ved lov, alt efter hvad der er lavest, plus alle udgifter til opkrævning og kan resultere i øjeblikkelig opsigelse af tjenester.
@@ -41,6 +45,7 @@ Fakturaer kan sendes af Uno-X via post eller e-mail og trukne beløb fremgår og
 Uno-X kan suspendere adgangen til tjenesterne med øjeblikkelig virkning, hvis brugeren ikke betaler gebyrer, der faktureres af Uno-X i henhold til denne aftale. Suspension fritager ikke brugeren for dennes forpligtelse til at betale sådanne fakturaer eller andre gebyrer, der skal betales til Uno-X for de relevante tjenester.
 
 **5. Forpligtelser**
+
 Du er forpligtet til at levere sådanne oplysninger og materialer, som Uno-X med rimelighed kan kræve for at levere tjenesterne, og sikre, at sådanne oplysninger er fuldstændige og nøjagtige i alle væsentlige henseender.
 
 Det er dit ansvar at sikre, at den registrerede betalingsmetode er gyldig, at den har en tilstrækkelig saldo og ikke er blokeret. I tilfælde af at debitering ikke er mulig, forbeholder Uno-X sig ret til midlertidigt at suspendere din adgang til tjenesterne eller dele af dem, indtil det forfaldne beløb er fuldt betalt. Uno-X har ret til at kræve betaling fra dig på andre måder, såsom ved at sende en separat faktura for din brug af tjenesterne.
@@ -64,6 +69,7 @@ Medmindre du udtrykkeligt har fået tilsagn skriftligt af Uno-X, må du ikke (og
 Du accepterer, at Uno-X og Monta bevarer alle rettigheder, titler og interesser (herunder alle immaterielle rettigheder) i og til Tjenesterne og al relateret eller underliggende dokumentation, teknologi, kode, knowhow, logoer, skabeloner, alt, der leveres som en del af understøttelsen af andre Tjenester, og eventuelle opdateringer, modifikationer eller afledte værker af noget af det foregående (som alle anses for at være fortrolige oplysninger). Uno-X forbeholder sig alle licenser, der ikke specifikt er givet i denne aftale. Du anerkender og accepterer, at du ikke har ret til at få en kopi af softwaren bag nogen af Tjenesterne, og at Uno-X efter eget skøn kan foretage opdateringer, fejlrettelser, ændringer eller forbedringer af Tjenesterne fra tid til anden. Uno-X forbeholder sig ret til at ændre eller fjerne funktioner i tjenesterne fra tid til anden.
 
 **6. Ansvar**
+
 Brugen af Tjenesterne er udelukkende brugerens ansvar. Tjenesterne leveres "som de er" og kan til enhver tid ændres, opdateres, afbrydes, suspenderes eller afbrydes uden varsel eller ansvar.
 
 Alle garantier, betingelser og andre vilkår, der er underforstået i lovgivningen, er, i det omfang lovgivningen tillader det, udelukket fra disse Brugsbetingelser. 
@@ -75,14 +81,17 @@ Uno-X (eller dets associerede selskaber, licensgivere og leverandører) er ikke 
 Uno-X’ (eller dets associerede selskaber, licensgivere og leverandørers) erstatningsansvar kan under ingen omstændigheder overstiger det beløb, der er betalt til Uno-X af Brugeren i løbet af en 12-måneders periode forud for den dato, hvor det første krav opstod, selvom Uno-X er blevet underrettet om muligheden for sådanne erstatningskrav. Disse begrænsninger er uafhængige af alle andre bestemmelser i denne Aftale og skal gælde uanset manglende afhjælpning af ethvert retsmiddel, der er angivet heri.
 
 **7. Force majeure**
+
 Ingen af parterne er ansvarlige for forsinkelser eller manglende opfyldelse af deres forpligtelse i henhold til denne Aftale (undtagen betalingsforpligtelser), hvis forsinkelsen eller fejlen skyldes årsager uden for deres rimelige kontrol, såsom strejke, blokade, krig, terrorhandling, optøjer, naturkatastrofer, epidemier, pandemier, svigt eller reduktion af strøm eller telekommunikation eller datanetværk eller -tjenester, IT-manipulation eller regeringshandling.
 
 **8. Opsigelse**
+
 Denne Aftale kan til enhver tid opsiges af begge parter uden varsel og uanset årsag. Efter opsigelse vil du ikke længere have adgang til Tjenesterne.
 
 Alle afsnit i denne Aftale, som i sagens natur bør bestå uanset opsigelse, vil bestå efter opsigelse, herunder, uden begrænsning, optjente betalingsrettigheder, fortrolighedsforpligtelser, garantifraskrivelser og ansvarsbegrænsninger. Opsigelsen påvirker således ikke eksisterende krav med hensyn til de opladningsprocesser, der tidligere har fundet sted, herunder forpligtelsen til at betale for alle opladningssessioner, du har påbegyndt før opsigelsen.
 
 **9. Databeskyttelse**
+
 Uno-X eller bemyndigede tjenesteudbydere indsamler, behandler og bruger data vedrørende dig til gennemførelse af kontraktforholdet i henhold til bestemmelserne i den generelle databeskyttelsesforordning (EU/2016/679), kendt som GDPR, og anden gældende national databeskyttelseslovgivning.
 
 Unikt identifikationsnummer, der bruges til at identificere dig, dit køretøj, personlige oplysninger og transaktionsoplysninger, kan overføres til operatøren af ladestationen med det formål at aktivere ladestationerne, løse potentielle problemer vedrørende ladetjenesten og fakturering. Personlige oplysninger, kontaktoplysninger og transaktionsoplysninger kan også overføres til Uno-X’ partnere med henblik på fakturering og kundeservice.
@@ -92,20 +101,25 @@ Uno-X kan bruge data, der indsamles i forbindelse med leveringen af Tjenesterne,
 For yderligere information, se venligst vores [https://bilist.unoxmobility.dk/privatlivspolitik/](https://bilist.unoxmobility.dk/privatlivspolitik/)
 
 **10. Afkald**
+
 Uno-X’ beslutning om ikke at håndhæve eller udøve nogen bestemmelse i Aftalen er ikke et afkald på denne bestemmelse.
 
 **11. Overdragelse**
+
 Brugeren er ikke berettiget til at overdrage nogen rettigheder eller forpligtelser i henhold til aftalen til nogen tredjepart uden forudgående skriftligt samtykke fra Uno-X.
 
 **12. Adskillelse**
+
 Hvis en bestemmelse i Aftalen af en eller anden grund eller i et hvilket som helst omfang anses for ugyldig eller ikke kan håndhæves, skal en sådan ugyldighed eller umulig håndhævelse ikke på nogen måde påvirke eller gøre de resterende bestemmelser i aftalen ugyldige eller umulige at håndhæve, og anvendelsen af denne bestemmelse skal håndhæves i det omfang, det er tilladt ved lov.
 
 **13. Forbrugerens fortrydelses- og klageret**
+
 Opladningstjenester: Fortrydelsesretten ophører fra det tidspunkt, hvor et køb af en tjeneste/en opladningssession er gennemført. Hvis du i forbindelse med køb af ladeydelser har anmodet om, at ladeleveringen påbegyndes inden fortrydelsesfristens udløb, og du fortsat ønsker at fortryde, skal du være opmærksom på, at vi vil opkræve en rimelig betaling for den del af ydelsen, der allerede var leveret på fortrydelsestidspunktet. Når en sådan forkyndelse er afsluttet, ophører fortrydelsesretten.
 
 Tvistbilæggelse: Ethvert krav efter dansk ret kan indbringes for Forbrugerklagenævnet eller Center for Klageløsning, som kan tilgås på Center for Klageløsning og Forbrugerklagenævnets (naevneneshus.dk) hjemmeside. Europa-Kommissionen tilbyder også borgere i EU- og EØS-lande en alternativ tvistbilæggelsesprocedure via deres platform for onlinetvistbilæggelse. Hvis du ikke er tilfreds med resultatet af denne procedure, kan du stadig anlægge en almindelig retssag.
 
 **14. Uno-X tegnebog**
+
 Tegnebogen er en virtuel betalingsmetode, som kan bruges til at betale for opladning af din elbil med midler, der er placeret på din personlige Uno-X konto direkte ved hjælp af Uno-X Opladning appen eller ved hjælp af en opladningsnøgle, der er forbundet med din konto ("Wallet"). Tegnebogen kan indlæses af en bruger ved hjælp af kreditkort eller andre accepterede betalingsmetoder. Brugeren kan kreditere penge til sin tegnebog enten manuelt eller automatisk, når saldoen kommer under et bestemt beløb. Brugeren kan også hæve sin saldo fra sin Wallet. Uno-X opkræver ikke gebyrer for kredit- eller udbetalingsprocessen. 
 
 En bruger, der scanner en QR-kode og ikke er en eksisterende Uno-X bruger ("Gæstebruger"), kan også gøre brug af Wallet, forudsat at de giver de nødvendige brugeroplysninger og accepterer Brugsbetingelserne.
@@ -125,11 +139,13 @@ Det er af stor betydning for Uno-X, at vores brugere er trygge ved at bruge vore
 Forbrugerombudsmanden behandler klager over Uno-X’ generelle vilkår og markedsføring. Forbrugerombudsmanden kan desuden behandle klager over informationsrettigheder, tredjemands misbrug af kort, bedste praksis mv. i overensstemmelse med betalingsloven.
 
 **15. Gældende lov og jurisdiktion**
+
 Denne Aftale er underlagt lovgivningen i Danmark.
 
 Hvis en tvist, der opstår som følge af eller i forbindelse med denne Aftale, skal en sådan tvist afgøres af Københavns Byret som rette værneting.
 
 **16. Ændringer af disse brugsbetingelser**
+
 Denne Aftale blev senest ajourført den 12. september 2024.
 
 Uno-X forbeholder sig ret til efter eget skøn at ændre, opdatere eller på anden måde revidere brugsbetingelserne til enhver tid. Sådanne revisioner træder i kraft umiddelbart efter offentliggørelse af opdateringer af brugsbetingelserne på denne webside. Uno-X vil underrette dig om eventuelle væsentlige ændringer af vilkårene. Ved at bruge tjenesterne, efter at Uno-X har offentliggjort ændringer, opdateringer eller revisioner, accepterer brugeren at være bundet af sådanne reviderede brugsbetingelser. Hvis en ændring, opdatering eller anden ændring af disse brugsbetingelser ikke er acceptabel for dig, har du ret til at opsige denne aftale, forudsat at du øjeblikkeligt opsiger din brug af eller adgang til tjenesterne.
