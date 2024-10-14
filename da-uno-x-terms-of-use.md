@@ -11,7 +11,7 @@ Denne aftale regulerer din brug af de tjenester, der drives af Uno-X ("Tjenester
 
 Uno-X Lynladning er en whitelabel platform for operatører af ladestandere, som understøttes og drives af Monta ApS ("Monta") på vegne af Uno-X.
 
-Læs mere om behandling af dine persondata i Uno-X’ privatlivspolitik ~[https://bilist.unoxmobility.dk/privatlivspolitik/](https://bilist.unoxmobility.dk/privatlivspolitik/)~
+Læs mere om behandling af dine persondata i Uno-X’ privatlivspolitik [https://bilist.unoxmobility.dk/privatlivspolitik/](https://bilist.unoxmobility.dk/privatlivspolitik/)
 
 **2. Accept**
 Ved at tilmelde dig tjenesterne og acceptere denne Aftale accepterer du de brugsbetingelser, som giver dig mulighed for at bruge tjenesterne.
@@ -36,7 +36,7 @@ Uno-X leverer en kvittering for brugen af opladningstjenesten, herunder hver udf
 **4. Fakturering**
 Uno-X kan opkræve dig via en række forskellige betalingsmetoder, såsom din Wallet, debet-/kreditkort eller via faktura.
 
-Fakturaer kan sendes af Uno-X via post eller e-mail og trukne beløb fremgår også af dit Uno-X Privatkort og Firmakort (~[https://bilist.unoxmobility.dk/kortbetingelser/](https://bilist.unoxmobility.dk/kortbetingelser/)~) Fuld betaling for udstedte fakturaer skal være Uno-X i hænde femten (15) dage efter fakturaens udstedelsesdato, medmindre andet er angivet eller aftalt. Forfaldsdatoen vil fremgå af fakturaen. Ubetalte beløb er underlagt et gebyr på 1,5 % pr. måned på enhver udestående saldo eller det maksimale tilladte ved lov, alt efter hvad der er lavest, plus alle udgifter til opkrævning og kan resultere i øjeblikkelig opsigelse af tjenester.
+Fakturaer kan sendes af Uno-X via post eller e-mail og trukne beløb fremgår også af dit Uno-X Privatkort og Firmakort ([https://bilist.unoxmobility.dk/kortbetingelser/](https://bilist.unoxmobility.dk/kortbetingelser/)) Fuld betaling for udstedte fakturaer skal være Uno-X i hænde femten (15) dage efter fakturaens udstedelsesdato, medmindre andet er angivet eller aftalt. Forfaldsdatoen vil fremgå af fakturaen. Ubetalte beløb er underlagt et gebyr på 1,5 % pr. måned på enhver udestående saldo eller det maksimale tilladte ved lov, alt efter hvad der er lavest, plus alle udgifter til opkrævning og kan resultere i øjeblikkelig opsigelse af tjenester.
 
 Uno-X kan suspendere adgangen til tjenesterne med øjeblikkelig virkning, hvis brugeren ikke betaler gebyrer, der faktureres af Uno-X i henhold til denne aftale. Suspension fritager ikke brugeren for dennes forpligtelse til at betale sådanne fakturaer eller andre gebyrer, der skal betales til Uno-X for de relevante tjenester.
 
@@ -89,7 +89,7 @@ Unikt identifikationsnummer, der bruges til at identificere dig, dit køretøj, 
 
 Uno-X kan bruge data, der indsamles i forbindelse med leveringen af Tjenesterne, til at (i) forbedre tjenesterne og dets andre produkter og tjenester og (ii) dele statistiske oplysninger med sine partnere.
 
-For yderligere information, se venligst vores ~[https://bilist.unoxmobility.dk/privatlivspolitik/](https://bilist.unoxmobility.dk/privatlivspolitik/)~
+For yderligere information, se venligst vores [https://bilist.unoxmobility.dk/privatlivspolitik/](https://bilist.unoxmobility.dk/privatlivspolitik/)
 
 **10. Afkald**
 Uno-X’ beslutning om ikke at håndhæve eller udøve nogen bestemmelse i Aftalen er ikke et afkald på denne bestemmelse.
@@ -114,13 +114,13 @@ Hvis Wallet ikke har tilstrækkelige midler til den anslåede pris for ladningen
 
 Du må ikke placere penge i Wallet, der overstiger EUR 250 (DKK 2.000). Hver overførsel for at fylde din Wallet op er begrænset til EUR 130 (DKK 1.000) kr. En anmodning om depositum, der overstiger dette beløb, vil blive afvist. Midler på din Wallet må kun bruges til at betale for opladningstjenester i Uno-X appen, der understøtter din opladning. I tilfælde af en negativ saldo i Wallet skal brugeren straks indbetale penge for at afregne saldoen. En Wallet kan blive blokeret af Uno-X i tilfælde af en negativ saldo, som ikke er blevet genopfyldt efter en skriftlig meddelelse. 
 
-Se Uno-X’ kortbestemmelser her ~[https://bilist.unoxmobility.dk/kortbetingelser/](https://bilist.unoxmobility.dk/kortbetingelser/)~ samt købsvilkår for ladeboks og elrefusionsabonnement.
+Se Uno-X’ kortbestemmelser her [https://bilist.unoxmobility.dk/kortbetingelser/](https://bilist.unoxmobility.dk/kortbetingelser/) samt købsvilkår for ladeboks og elrefusionsabonnement.
 
 Brugeren skal regelmæssigt føre tilsyn med transaktionerne for at sikre, at de svarer til deres faktiske opkrævning. Brugeren skal underrette Uno-X så hurtigt som muligt i tilfælde af forkerte registreringer. Hvis du bliver opmærksom på misbrug, eller hvis du mister din opkrævningsnøgle, skal du afmelde opkrævningsnøglen på din konto og kontakte Uno-X Kundecenter, så vi kan spærre kontoen og undgå misbrug. Kontakt Uno-X på info@unox.dk eller [tel:+45](tel:+45) 7012 5678.
 
 Brugeren er ansvarlig for alle betalinger foretaget ved brug af Wallet. I tilfælde af misbrug af tredjemand eller uautoriseret brug af Wallet, skal Uno-X dække det tab, som en Bruger måtte have lidt, forudsat at Brugeren ikke har handlet svigagtigt, har overholdt disse vilkår, og snarest muligt efter hændelsen har informeret Uno-X herom i overensstemmelse med betalingsloven. Eventuelle indsigelser mod en transaktion på grund af en uautoriseret eller forkert transaktion skal meddeles Uno-X hurtigst muligt efter den omtvistede transaktion. Ved vurderingen af, om indsigelser er blevet meddelt hurtigst muligt, vil der blive taget hensyn til kravet om regelmæssigt at føre tilsyn med transaktionerne.
 
-Det er af stor betydning for Uno-X, at vores brugere er trygge ved at bruge vores betalingsmuligheder, herunder Wallet. Alle personlige oplysninger, der bruges til et køb eller brug af Wallet, behandles ansvarligt og i overensstemmelse med gældende betalings- og databeskyttelseslove. Se venligst Uno-X’ ~[https://bilist.unoxmobility.dk/privatlivspolitik/](https://bilist.unoxmobility.dk/privatlivspolitik/)~ for mere information.
+Det er af stor betydning for Uno-X, at vores brugere er trygge ved at bruge vores betalingsmuligheder, herunder Wallet. Alle personlige oplysninger, der bruges til et køb eller brug af Wallet, behandles ansvarligt og i overensstemmelse med gældende betalings- og databeskyttelseslove. Se venligst Uno-X’ [https://bilist.unoxmobility.dk/privatlivspolitik/](https://bilist.unoxmobility.dk/privatlivspolitik/) for mere information.
 
 Forbrugerombudsmanden behandler klager over Uno-X’ generelle vilkår og markedsføring. Forbrugerombudsmanden kan desuden behandle klager over informationsrettigheder, tredjemands misbrug af kort, bedste praksis mv. i overensstemmelse med betalingsloven.
 
