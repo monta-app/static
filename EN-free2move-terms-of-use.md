@@ -4,7 +4,7 @@ These Terms of Use regulate the use of the "FREE2MOVE CHARGE BUSINESS" software 
 ## 1. General
 These Terms of Use (the "Agreement") are entered into between the entity/person using or accessing the Services (the "User" or "You") and Monta ApS ("Monta" or "we"), collectively referred to as the "Parties" or each a "Party".
 
-All your personal data are collected by Monta, as sub-processor of Stellantis Europe Spa (Data Controller). Monta acts as Data Processor of Free2move eSolutions Spa, an Italian company registered at Piazzale Lodi, 3, 20137, Milan, under no. 2605587, tax and VAT n. 11479180967 - belonging to the Stellantis Group. This Agreement, together with the Stellantis Privacy Policy, governs your use of the services operated by Monta ("Services"). 
+All your personal data are collected by Monta, as sub-processor of Stellantis Europe Spa (Data Controller). Monta acts as Data Processor of Free2move eSolutions Spa, an Italian company registered at Piazzale Lodi, 3, 20137, Milan, under no. 2605587, tax and VAT n. 11479180967 - belonging to the Stellantis Group, which acts as Data Processor of Stellantis. This Agreement, together with the Stellantis Privacy Policy, governs your use of the services operated by Monta ("Services"). 
 
 Services may include, but are not limited to, mobile applications and/or websites operated by Monta under its own brand and/or under its partners' brands. 
 ## 2. Acceptance
