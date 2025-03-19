@@ -1,3 +1,5 @@
+### View bp pulse privacy policy here: 
+
 ### [Customer Privacy Statement | bp pulse](https://www.bppulse.co.uk/privacy-notice)
 
 
