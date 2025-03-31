@@ -118,7 +118,7 @@ In order to adhere to stringent legal and regulatory obligations under applicabl
 
 These measures are implemented to prevent financial crimes, including money laundering and terrorist financing, and to ensure compliance with national and international laws governing financial transactions and customer due diligence.
 
-To facilitate this process, Monta employs a combination of proprietary software developed in-house and specialized solutions provided by reputable third-party vendors Spektr. 
+To facilitate this process, Monta employs a combination of proprietary software developed in-house and specialized solutions provided by reputable third-party vendor Spektr. 
 
 The KYC verification process entails the collection of specific information from customers, which may include, but is not limited to:,  
 
@@ -172,7 +172,7 @@ This risk score determines whether the customer has successfully fulfilled the K
 
 Monta is fully committed to safeguarding the confidentiality, integrity, and security of all personal data collected during this process. Such data will be handled in strict accordance with applicable data protection and privacy laws, as outlined elsewhere in this Privacy Policy. For a comprehensive understanding of how we collect, process, store, and protect your personal information, please refer to the relevant sections of this document. Should you have any questions or require further clarification regarding our KYC and AML procedures, please do not hesitate to contact us at privacy@monta.com.
 
-Data relating to this will be stored for a minimum period of 7 years or such longer period that certain legal requirements dictate
+Data relating to this will be stored for a minimum period of 7 years or such longer period that certain legal requirements dictate.
 
 
  8. Your rights
