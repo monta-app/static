@@ -112,7 +112,70 @@ Facebook: www.facebook.com/policy
 Instagram: https://help.instagram.com/519522125107875/?maybe_redirect_pol=0
 LinkedIn: https://www.linkedin.com/legal/privacy-policy 
 
- 7. Your rights
+ 7. Know Your Customer (KYC) and Anti-Money Laundering (AML) Compliance
+
+In order to adhere to stringent legal and regulatory obligations under applicable Know Your Customer (KYC) and Anti-Money Laundering (AML) frameworks, Monta is required, in certain circumstances, to perform identity verification and risk assessment procedures on its customers. 
+
+These measures are implemented to prevent financial crimes, including money laundering and terrorist financing, and to ensure compliance with national and international laws governing financial transactions and customer due diligence.
+
+To facilitate this process, Monta employs a combination of proprietary software developed in-house and specialized solutions provided by reputable third-party vendor Spektr. 
+
+The KYC verification process entails the collection of specific information from customers, which may include, but is not limited to:,  
+
+ 7.1. Identification Information  
+ - Full legal name  
+ - Date of birth  
+ - Nationality  
+ - Personal identification number or national ID  
+ - Identification document (e.g., passport, national ID, driver’s license)  
+ - Facial image (as part of ID verification using eKYC providers)  
+
+ 7.2. Contact Details  
+ - Residential address (may include proof of address)  
+ - Email address  
+ - Phone number  
+
+ 7.3. Employment & Business Information (for business customers)  
+ - Company name, registration number, and legal form  
+ - Corporate address  
+ - Nature of business / industry sector  
+ - Ultimate Beneficial Owners (UBOs) and their ownership percentages  
+ - Directors and legal representatives  
+ - Organizational structure and documentation (e.g., Articles of Association)  
+
+ 7.4. Transaction & Economic Profile Information (for business customers)  
+ - Intended use of the account  
+ - Expected transaction volume and frequency  
+ - Source of funds (e.g., income, investments, inheritance)  
+ - Source of wealth (e.g., business proceeds, asset holdings)  
+ - Purpose of the business relationship  
+ - Details of credit line usage (if applicable)  
+
+ 7.5. Screening & Risk Assessment Data  
+ - Sanctions screening results (EU, UN, OFAC)  
+ - Politically Exposed Person (PEP) status  
+ - Adverse media or negative news mentions  
+ - Geographic risk indicators (residency, nationality, business operations)  
+ - Risk rating and profile classification (low, medium, high, prohibited)  
+
+ 7.6. Ongoing Monitoring Information  
+ - Transaction behavior and patterns (e.g., deposits, withdrawals, wallet usage)  
+ - Internal risk reassessments or escalations  
+ - Notes and outcomes from compliance reviews  
+ - Correspondence and communication records related to AML/CTF and other personal details as required by law from time to time.   
+
+Additionally, customers may be prompted to respond to a series of questions designed to assess their identity and transactional risk profile. As part of this procedure, customers will be requested to submit high-quality, legible photographs or scans of valid government-issued identification documents, such as passports, driver’s licenses, or national identity cards. We will ask for access to microphone and camera.
+
+The information and documentation provided by the customer are processed through an automated system, which generates a risk score based on predefined criteria aligned with regulatory standards. 
+
+This risk score determines whether the customer has successfully fulfilled the KYC requirements. Should the automated assessment result in a determination that further review is necessary—such as an inconclusive or elevated risk score—a trained employee of Monta will intervene to provide assistance. This additional step may involve direct communication with the customer to request supplementary information, clarify discrepancies, or guide the customer through further verification procedures to ensure compliance with KYC and AML obligations.
+
+Monta is fully committed to safeguarding the confidentiality, integrity, and security of all personal data collected during this process. Such data will be handled in strict accordance with applicable data protection and privacy laws, as outlined elsewhere in this Privacy Policy. For a comprehensive understanding of how we collect, process, store, and protect your personal information, please refer to the relevant sections of this document. Should you have any questions or require further clarification regarding our KYC and AML procedures, please do not hesitate to contact us at privacy@monta.com.
+
+Data relating to this will be stored for a minimum period of 7 years or such longer period that certain legal requirements dictate.
+
+
+ 8. Your rights
 
 Monta has implemented several measures to protect your personal data and ensure your rights. As a data subject, you can exercise the rights listed below. 
 
@@ -127,24 +190,24 @@ Right to restriction of processing
 Right to data portability
 Right to object 
 
-7.1 Right to complain to the Data Protection Agency
+8.1 Right to complain to the Data Protection Agency
 
 If you disagree with the way in which Monta processes your personal data, you may file a complaint with the Data Protection Agency, using the contact details that are available at www.datatilsynet.dk. However, we hope that you will contact us first, using the below contact details, so that we may reach agreement. 
 
-7.2 Right to withdraw a former consent
+8.2 Right to withdraw a former consent
 
 If the processing of your personal data is based on your consent, cf. Art. 6(1)(a) of the GDPR, you have the right to withdraw your consent at any time. Please note that your withdrawal does not affect the lawfulness of the previous processing of your personal data which until your withdrawal has been based on your consent. 
 
 If you wish to exercise any of the above-mentioned rights, or if you wish to withdraw a former consent, you are welcome to contact us at info@monta.com. 
 
- 8. Questions or complaints
+ 9. Questions or complaints
  
 If you have any questions relating to this Privacy Policy, you wish to exercise your rights as mentioned above, or you disagree with the way Monta processes your personal data, you can contact Monta at info@monta.com. 
 
 You can also file a complaint to the relevant data protection supervisory authority, which is an independent public authority that, inter alia, is responsible for monitoring and enforcing the application of the GDPR. In Denmark, the relevant authority is the Danish Data Protection Agency. The Danish Data Protection Agency's contact information is available on its website: www.datatilsynet.dk.
 
- 9. Amendments to this privacy policy 
+ 10. Amendments to this privacy policy 
 
 Monta has the right to modify this Privacy Policy regarding new technologies, regulatory requirements, or other purposes. For this reason, please visit this page periodically. Below is highlighted the date when the last version of this Privacy Policy has been uploaded.
 
-Date of the most recent version of this Privacy Policy: 21 June 2022.
+Date of the most recent version of this Privacy Policy: 28 March 2025.
