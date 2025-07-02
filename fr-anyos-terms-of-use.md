@@ -1,6 +1,4 @@
-# Conditions Générales d'Accès et d'Utilisation - ANYOS
-
-Charge Mobile App
+# Conditions Générales d'Accès et d'Utilisation - ANYOS Charge Mobile App
 
 PAN Business & Consulting - ANYOS
 
