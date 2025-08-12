@@ -64,17 +64,13 @@ If you encounter an accessibility issue or have questions, you can reach out dir
 
 Email (accessibility team): accessibility@monta.com
 
-General support email: support@monta.com
-
-Phone: \+45 89 87 47 17
-
 Mailing Address:
 
 Monta ApS
 
-Overgaden Neden Vandet 7B
+Strandboulevarden 122, 5
 
-1414 Copenhagen K
+2100 Copenhagen
 
 Denmark
 
