@@ -1,4 +1,4 @@
-# Allgemeine Geschäftsbedingungen Elektromobilität
+# Allgemeine Geschäftsbedingungen powercard (Elektromobilität)
 
 **AGROLA AG**  
 Theaterstrasse 15a  
@@ -11,186 +11,232 @@ emobility@agrola.ch
 
 ## Vorbemerkung
 
-Aus Gründen der besseren Lesbarkeit wird ausschliesslich die männliche Form verwendet. Kundinnen sind stets mitgemeint.
-
----
+Aus Gründen der besseren Lesbarkeit dieser Allgemeinen Geschäftsbedingungen («AGB») wird nachfolgend
+ausschliesslich vom Kunden gesprochen und auf die Verwendung der weiblichen Form verzichtet. Kundinnen sind
+immer mitgemeint.
 
 ## § 1 Geltungsbereich und Vertragsverhältnis
 
-Diese AGB gelten für alle Rechtsbeziehungen zwischen AGROLA AG („AGROLA“) und ihren Kunden bezüglich:
-- Vermittlung von Ladestationen für Elektro-/Hybridfahrzeuge,
-- Bezahlung von Ladedienstleistungen,
-- weitere Dienstleistungen im Bereich Elektromobilität.
+Diese Allgemeinen Geschäftsbedingungen (nachfolgend «AGB») gelten für sämtliche Rechtsbeziehungen zwischen
+der AGROLA AG (nachfolgend «AGROLA») und ihren Kunden betreffend die Vermittlung von Ladestationen für
+aufladbare Elektro- oder Hybridfahrzeuge, der Bezahlung von Ladedienstleistungen an diesen Stationen und die
+Erbringung allfälliger, weiterer Dienstleistungen im Bereich der Elektromobilität (zusammen, die
+«Elektromobilitätsdienstleistungen»).
 
-Mit der Registrierung oder Nutzung einer Dienstleistung akzeptiert der Kunde die AGB. Änderungen durch den Kunden sind nur gültig, wenn AGROLA diesen schriftlich zustimmt.
+Mit der Registrierung für den Lade-Service von AGROLA oder spätestens mit dem Bezug einer Elektromobilitäts-
+dienstleistung anerkennt der Kunde die vorliegenden AGB. Diese bilden einen integrierenden Bestandteil des
+zwischen AGROLA und dem Kunden abgeschlossenen Vertrages (der «Vertrag»). Abweichende Bedingungen des
+Kunden bzw. Änderungen und/oder Ergänzungen der AGB durch den Kunden sind für AGROLA unbeachtlich und
+nicht gültig, es sei denn, AGROLA stimmt ihrer Geltung ausdrücklich und schriftlich zu.
 
-AGROLA wendet stets die zum Bestellzeitpunkt gültige Version der AGB an. Die aktuelle Version ist auf [www.agrola.ch](http://www.agrola.ch) einsehbar. Änderungen werden per E-Mail mitgeteilt.
+AGROLA erbringt ihre Elektromobilitätsdienstleistungen gemäss der jeweils im Zeitpunkt der Bestellung gültigen
+Fassung der AGB.
 
----
+Änderungen oder Ergänzungen dieser AGB werden den Kunden elektronisch mitgeteilt und werden zum
+Vertragsbestandteil, wenn der Kunde nicht innert 30 Tagen seit Kenntnisnahme der geänderten AGB widerspricht.
 
 ## § 2 Registrierung und Kundenkonto
 
 ### 2.1 Registrierung
 
-- Registrierung über Webseite oder App erforderlich.
-- Formular muss vollständig und wahrheitsgemäss ausgefüllt werden.
-- Kontoeröffnung wird per E-Mail bestätigt; AGROLA kann ohne Begründung ablehnen.
-- Zugangsdaten (Benutzername & Passwort) werden per E-Mail verschickt.
-- Kunde muss Daten geheim halten und bei Verdacht auf Missbrauch sofort ändern.
+Der Kunde muss sich für den Lade-Service elektronisch registrieren und ein Kundenkonto eröffnen, um sämtliche,
+von AGROLA angebotenen Elektromobilitätsdienstleistungen nutzen zu können. Die Registrierung kann der Kunde
+auf der Webseite von AGROLA oder in der eMobility App vornehmen. Der Kunde ist verpflichtet, das
+Registrierungsformular vollständig und wahrheitsgemäss auszufüllen.
+
+AGROLA bestätigt dem Kunden die erfolgreiche Eröffnung seines Kundenkontos per E-Mail. AGROLA behält sich
+jedoch das Recht vor, die Eröffnung eines Kundenkontos ohne Angabe von Gründen abzulehnen.
+
+Im Rahmen der Kontoeröffnung wird dem Kunden ein Benutzername (seine E-Mail-Adresse) zugewiesen. Zudem
+wird er per E-Mail zur Festlegung eines starken und sicheren Passworts aufgefordert. Benutzernamen und Passwort
+bilden zusammen die «Zugangsdaten». Der Kunde kann sein Passwort jederzeit ändern. Der Kunde ist verpflichtet,
+seine Zugangsdaten geheim zu halten, sie nicht an Dritte weiterzugegeben und sie vor dem unbefugten Zugriff
+durch Dritte zu schützen. Besteht der Verdacht, dass unberechtigte Dritte Kenntnis von den Zugangsdaten erlangt
+haben könnten, ist der Kunde verpflichtet, diese unverzüglich zu ändern.
 
 ### 2.2 Kundenkarte
 
-- Wird kostenlos zur Verfügung gestellt.
-- Ermöglicht Identifikation und Bezahlung ohne PIN.
-- Bei Verlust/Diebstahl sofortige Sperrung über Support-Hotline erforderlich.
-- AGROLA haftet nicht für Missbrauch vor Sperrung.
-- Defekte Karten werden kostenlos ersetzt, es sei denn, der Kunde ist verantwortlich.
-- Ersatz verlorener/gestohlener/beschädigter Karten erfolgt kostenpflichtig.
+AGROLA stellt den registrierten Kunden des Lade-Services auf Wunsch kostenlos eine Kundenkarte zur Verfügung.
+Mit dieser Karte kann sich der Kunde an den vermittelten Ladestationen ohne Eingabe eines PIN-Codes
+identifizieren, Ladevorgänge freischalten und bezahlen. Der Kunde erhält die Kundenkarte nach erfolgreicher
+Kontoeröffnung für den Lade-Service per Post zugestellt.
+
+Bei Verlust oder Diebstahl der Kundenkarte ist der Kunde verpflichtet, diese unverzüglich über die Support-Hotline
+von AGROLA oder eMobility App sperren zu lassen. Für missbräuchliche Verwendungen der Kundenkarte vor der
+Sperrung übernimmt AGROLA keine Haftung; der Kunde trägt die dadurch entstehenden Kosten.
+
+AGROLA ersetzt defekte Kundenkarten kostenlos, sofern der Defekt nicht vom Kunden verursacht wurde. Bei
+verlorenen, gestohlenen oder vom Kunden beschädigten Kundenkarten behält sich AGROLA vor, die Kosten für den
+Ersatz dem Kunden in Rechnung zu stellen.
 
 ### 2.3 Sperrung des Kundenkontos
 
-Sperrung kann ohne Vorankündigung erfolgen bei:
-- AGB-Verstössen (insb. Sicherheitsvorschriften §4.4),
-- Zahlungsverzug,
-- treuwidrigem oder gesetzwidrigem Verhalten,
-- mutmasslichem Interesse des Kunden (z. B. Missbrauch durch Dritte).
+AGROLA kann das Lade-Service Kundenkonto ohne Vorankündigung sperren und ihn vom Bezug von
+Elektromobilitätsdienstleistungen ausschliessen, wenn (i) er die Bestimmungen dieser AGB (insbesondere die
+Sicherheitsvorschriften in Ziffer 4.4) verletzt, (ii) der Kunde die in Rechnung gestellten Elektromobilitäts-
+Dienstleistungen nicht fristgerecht bezahlt, (iii) sich der Kunde in einer anderen Weise treu- oder gesetzeswidrig
+verhält oder (iv) wenn die Sperrung im mutmasslichen Interesse des Kunden oder AGROLA ist, z.B. bei Missbrauch
+durch Dritte.
 
-Benachrichtigung erfolgt per E-Mail. Sperrung bleibt bestehen, bis Grund entfällt.
-
----
+Der Kunde wird über die erfolgte Sperrung per E-Mail unterrichtet. Die Sperrung kann so lange aufrechterhalten
+werden, bis der Grund der Sperrung wegfällt.
 
 ## § 3 Elektromobilitäts-App und Kundenportal
 
-- AGROLA bietet webbasiertes Kundenportal + App (iOS/Android) („e-Mobility-Software“).
-- Ermöglicht: Ladestationen finden, reservieren, bezahlen, Kontrolle von Ort, Dauer, Kosten.
-- AGROLA und Lizenzgeber besitzen alle Rechte an der Software und deren Inhalten.
-- App ist nur gemäss diesen AGB zu verwenden.
-- Updates müssen installiert werden, sonst können Funktion und Sicherheit beeinträchtigt sein.
+AGROLA stellt dem Kunden ein webbasiertes Kundenportal auf ihrer Webseite und eine eMobility App in den
+entsprechenden App-Stores (iOS, Android) zur Verfügung. Über die eMobility App kann der Kunde u.a.
+Ladestationen suchen, reservieren und bezahlen sowie seine Ladevorgänge hinsichtlich Ort, Dauer und Kosten
+einsehen und überwachen.
 
----
+AGROLA und ihre Lizenzgeber sind Inhaber sämtlicher Rechte an der eMobility App, einschliesslich der darüber
+abrufbaren Inhalte und Daten. Der Kunde ist berechtigt, die eMobility App ausschliesslich im Rahmen des
+vorgesehenen Zwecks und gemäss diesen AGB zu nutzen.
+
+Der Kunde ist verpflichtet, die eMobility App zu aktualisieren, sobald Aktualisierungen verfügbar sind. Er trägt die
+Verantwortung, sich über mögliche Aktualisierungen zu informieren. Unterbleibt die Aktualisierung, kann die
+Funktionsfähigkeit der App eingeschränkt sein oder bestehende Sicherheitsrisiken bleiben bestehen.
 
 ## § 4 Ladedienstleistungen
 
 ### 4.1 Ladestation finden und reservieren
 
-- AGROLA vermittelt Zugang zu Ladestationen.
-- Echtzeitinformationen über Verfügbarkeit via Website und App.
-- Reservierung möglich, sofern Betreiber dies zulässt.
+AGROLA stellt auf ihrer Website und der eMobility App ein Instrument zur Verfügung, mit dem der Kunde in
+Echtzeit die Standorte und die Verfügbarkeit der Ladestationen im eMobility-Netzwerk von AGROLA sowie in den
+Netzwerken der Roaming-Partner von AGROLA einsehen kann und die verfügbare Ladestation seiner Wahl für
+seinen Ladevorgang reservieren kann (falls der Ladestationsbetreiber dies zulässt).
 
 ### 4.2 Aufladen des Fahrzeugs
 
-- Fahrzeug mit geeignetem Kabel anschliessen.
-- Steckdose ggf. mit Karte oder App freischalten.
-- Start/Stop des Ladevorgangs via Karte oder App.
-- AGROLA übernimmt keine Garantie bei Nutzung über Roaming-Partner.
-- Bei Problemen: Support-Hotline kontaktieren.
+Der Kunde ist verpflichtet, die Steckdose zu verwenden, die den technischen Spezifikationen seines Fahrzeugs
+entspricht. Mit dem Starten des Ladevorgangs akzeptiert der Kunde die jeweils gültigen Konditionen, wie sie in der
+AGROLA eMobility App oder auf der Webseite von AGROLA veröffentlicht sind. Kann der Ladevorgang nicht korrekt
+gestartet oder beendet werden oder ist die Ladestation defekt oder beschädigt, hat der Kunde den Vorfall zu
+melden.
 
-### 4.3 Bestimmungszweck der Parkplätze
+### 4.3 Bestimmungszweck der Parkplätze zum Aufladen
 
-- Nur für aktives Laden vorgesehen.
-- Parkieren ohne Ladevorgang ist untersagt.
+Die für das Laden bestimmten Parkplätze der Ladestationen dürfen lediglich zum Aufladen von Fahrzeugen
+genutzt werden. Der Kunde darf nicht auf diesen Plätzen parkieren, wenn kein aktiver Ladevorgang stattfindet.
 
 ### 4.4 Sicherheitsvorschriften
 
-Kunde verpflichtet sich:
-- nur zugelassene Elektro-/Hybridfahrzeuge anzuschliessen,
-- nur technisch einwandfreies Material zu nutzen,
-- Herstelleranweisungen zu Ladeleistung und -dauer zu befolgen,
-- alle Hinweise von Betreiber und AGROLA zu beachten,
-- Stationen und Umgebung zu schützen.
+Der Kunde verpflichtet sich,
 
-Bei Warnmeldung:
-- nötige Sicherheitsmassnahmen ergreifen,
-- ggf. sofort Verbindung trennen,
-- Support-Hotline informieren.
+- ausschliesslich aufladbare Elektro- oder Hybridfahrzeuge an die Ladestation anzuschliessen, die für den
+    Strassenverkehr zugelassen sind;
+- ausschliesslich Fahrzeuge anzuschliessen, die mit ihren Komponenten (insbesondere Ladekabel, Stecker etc.)
+    den geltenden gesetzlichen Vorschriften entsprechen und in betriebsbereitem, sicherem und fachgerecht
+    gewartetem Zustand sind;
+- die Anweisungen des Fahrzeugherstellers hinsichtlich Dauer und maximaler Leistung des Ladevorgangs zu
+    befolgen;
+- die Ladestation im Einklang mit diesen AGB zu benützen und sämtliche Anweisungen und Nutzungshinweise
+    des Ladestationseigentümers und/oder AGROLA zu befolgen; und
+- die Ladestation und deren Umgebung in seinem Einflussbereich bestmöglich gegen Beschädigungen zu
+    schützen.
 
-Kunde haftet für Schäden bei Verstoss gegen §4.4.
+Gibt die Ladestation und/oder das Fahrzeug eine Warnmeldung aus, ist der Kunde verpflichtet, unverzüglich
+sämtliche zumutbaren Massnahmen zur Gewährleistung der eigenen Sicherheit, derjenigen Dritter sowie zum
+Schutz des Fahrzeuges zu treffen. Insbesondere hat er – sofern gefahrlos möglich - die Verbindung zwischen
+Ladestation und Fahrzeug sofort zu trennen und eine entsprechende Meldung zu machen.
 
-### 4.5 Verfügbarkeit und Zustand
+Der Kunde haftet gegenüber dem Ladestationseigentümer für alle Schäden, die er in Verletzung dieser Ziffer 4.
+verursacht.
 
-- AGROLA vermittelt nur den Zugang.
-- Betrieb und Zustand liegen beim Betreiber.
-- Betreiber darf Betrieb zeitlich begrenzen oder einstellen.
-- AGROLA zeigt Ausfälle in App, übernimmt aber keine Haftung.
+### 4.5 Verfügbarkeit und Zustand von Ladestationen
 
-### 4.6 Unterbrechung
+Die Pflichten von AGROLA im Rahmen der Ladedienstleistungen beschränken sich auf die Vermittlung von
+Ladestationen, die Entgegennahme von Zahlungen für Ladevorgänge sowie deren Weiterleitung an den jeweiligen
+Eigentümer der Ladestation.
 
-Verfügbarkeit grundsätzlich 24/7, jedoch keine Garantie für:
-- unterbrechungsfreien Betrieb,
-- bestimmte Ladezeiten/-kapazitäten.
+Die vermittelten Ladestationen werden vom jeweiligen Ladestationseigentümer betrieben. Diesem obliegt es dafür
+zu sorgen, dass seine Ladestationen in gebrauchsbereitem, sicherem und fachgerecht gewartetem Zustand sind. Er
+ist berechtigt, den Betrieb von Ladestationen zeitlich zu begrenzen oder dauerhaft einzustellen.
 
-Vorübergehende Einschränkungen möglich bei:
-- Systemstörungen, Wartung,
-- Telekom-/Internetproblemen,
-- Über-/Unterlast,
-- höherer Gewalt,
-- zwingenden Umständen.
+AGROLA zeigt Unterbrechungen und die Verfügbarkeit einzelner Ladestationen in der eMobility App an. Darüber
+hinaus übernimmt AGROLA keinerlei Haftung für Verfügbarkeit, Zustand und Sicherheit der vermittelten
+Ladestationen.
 
----
+Wird die Ladestation gleichzeitig durch mehrere Fahrzeuge genutzt, kann die in der eMobility App oder auf der
+Webseite von AGROLA angezeigte Ladeleistung unter Umständen nicht vollständig gewährleistet werden. Der
+Kunde hat daraus keinerlei Anspruch auf eine bestimmte Ladeleistung oder eine Preisminderung.
 
-## § 5 Werbung
+### 4.6 Unterbrechung der Ladedienstleistungen
 
-AGROLA darf personalisierte/standortbezogene Werbung über App oder andere Kanäle senden.  
-Der Kunde kann dem jederzeit schriftlich widersprechen.
+Das Ladestations-Netzwerk von AGROLA und die eMobility App stehen dem Kunden grundsätzlich 7 Tage die
+Woche und 24 Stunden täglich zur Verfügung. AGROLA kann jedoch das Funktionieren ihres Netzwerks ohne
+Unterbrechungen oder Störungen, ebenso wenig wie bestimmte Ladezeiten und -kapazitäten gewährleisten.
 
----
+AGROLA ist berechtigt, die Verfügbarkeit ihres Ladestations-Netzwerks und der eMobility App in folgenden Fällen
+vorübergehend einzuschränken oder zu unterbrechen:
 
-## § 6 Weitere Dienstleistungen
+- bei betriebsbedingten Unterbrechungen wie Systemstörungen, Fehlerbehebungen und Unterhalts- und
+Aktualisierungsarbeiten;
+- bei Unterbrechung der Telekomleitungen bzw. Internetverbindung zwischen der Ladestation und den Servern
+von AGROLA bzw. denjenigen ihrer Service-Provider;
+- bei Über- oder Unterlast im Stromversorgungsnetz;
+- bei Fällen höherer Gewalt, ausserordentlichen Vorkommnissen und Naturereignissen;
+- in allen anderen Fällen, welche dies unbedingt notwendig machen.
 
-AGROLA kann zusätzliche Angebote wie Mobilitätsversicherung bereitstellen.  
-Kostenpflichtige Angebote werden entsprechend kenntlich gemacht.
+## § 5 Bezahlung der Ladedienstleistungen
 
----
+Die Preise können sich aus verschiedenen Komponenten zusammensetzen, namentlich aus einer Startgebühr, dem
+Elektrizitätsbezug, der Verweildauer sowie allfälligen Reservationskosten und Roaming-Gebühren.
 
-## § 7 Bezahlung
+Die jeweils gültigen Preise werden von dem jeweiligen Ladestationseigentümer festgelegt und sind in der eMobility
+App ersichtlich. Die angegebenen Preise verstehen sich jeweils inklusive MwSt.
 
-- Preisbestandteile: Startgebühr, Strombezug, Dauer, Reservation.
-- Preise vom jeweiligen Betreiber festgelegt.
-- Einsicht via Webseite und App (auch bei Nutzung der AGROLA powercard).
-- Alle Preise inkl. MWST.
-- AGROLA erhebt eine Vermittlungsgebühr (vom Betreiber bezahlt, im Preis enthalten).
+Die zur Verfügung stehenden Zahlungsmittel werden im Rahmen der Registrierung und Kundenkontoeröffnung
+zwischen dem Kunden und AGROLA vereinbart.
 
----
+Soweit die Abrechnung der bezogenen Ladedienstleistungen auf Rechnung geschieht, stellt AGROLA dem Kunden
+die Rechnung in der Regel monatlich zu. Der Rechnungsbetrag ist innerhalb der auf der Rechnung angegebenen
+Zahlungsfrist ab Rechnungsdatum direkt an AGROLA zu begleichen. Nach Ablauf der Zahlungsfrist tritt ohne
+weitere Mahnung Zahlungsverzug ein und AGROLA ist berechtigt, Mahngebühren zu erheben. Die erste Mahnung
+erfolgt frühestens drei Kalendertage nach Fälligkeit der Rechnung. Für jede versendete Mahnung können dem
+Kunden Mahngebühren von bis zu CHF 30.00 in Rechnung gestellt werden. Zusätzlich bleiben gesetzliche oder
+vertraglich vereinbarte Verzugszinsen sowie weitere Kosten im Zusammenhang mit dem Inkasso vorbehalten.
 
-## § 8 Vertragsdauer und Kündigung
+AGROLA kann dem Kunden die Möglichkeit einräumen, die Ladedienstleistungen per Kreditkarte oder über andere
+elektronische Zahlungsmittel zu begleichen. Die Auswahl und Verfügbarkeit dieser Zahlungsmittel liegen im
+Ermessen von AGROLA und können jederzeit durch AGROLA angepasst werden. Änderungen werden dem Kunden
+in geeigneter Weise mitgeteilt.
 
-- Vertrag auf unbestimmte Zeit.
-- Kündigung per E-Mail mit 1 Monat Frist zum Monatsende.
-- Fristlose Kündigung bei wichtigem Grund möglich (z. B. grober Verstoss gegen §4.4).
+## § 6 Vertragsdauer und Kündigung
 
----
+Der Vertrag wird auf unbestimmte Zeit abgeschlossen und kann von jeder Partei mit einer Frist von einem Monat
+auf das Ende eines Monats hin per E-Mail gekündigt werden.
 
-## § 9 Haftung
+Jede Partei kann den vorliegenden Vertrag jederzeit ohne Einhaltung einer Kündigungsfrist aus wichtigem Grund
+schriftlich kündigen. Als wichtiger Grund gilt insbesondere eine fortgesetzte oder schwerwiegende
+Vertragsverletzung oder ein Verstoss gegen die Sicherheitsvorschriften in Ziffer 4.4.
 
-AGROLA haftet nur für vorsätzlich oder grob fahrlässig verursachte Schäden.  
-Keine Haftung für:
-- Folgeschäden,
-- entgangenen Gewinn,
-- verlorene/veränderte Daten (soweit gesetzlich zulässig).
+## § 7 Haftung von AGROLA
 
----
+AGROLA haftet für sich und ihre Hilfspersonen ausschliesslich für Schäden, die durch vorsätzliches oder grob
+fahrlässiges Verhalten verursacht wurden. Die Haftung für leichte Fahrlässigkeit ist ausgeschlossen. Soweit
+gesetzlich zulässig, ist jede weitere Haftung ausgeschlossen, insbesondere für indirekte Schäden, Folgeschäden,
+entgangenen Gewinn oder verloren gegangene oder veränderte Daten.
 
-## § 10 Datenschutz
+## § 8 Schlussbestimmungen
 
-AGROLA kann Kundendaten erheben, speichern, verarbeiten, nutzen und weitergeben, sofern:
-- für Vertragserfüllung erforderlich,
-- zur Kundenpflege/-entwicklung dient,
-- zur Personalisierung der App/Werbung nötig,
-- zur Weiterentwicklung/Bewerbung von Produkten dient.
+Der Kunde ist verpflichtet, AGROLA über Änderungen seiner Kontaktangaben per E-Mail zu informieren.
+Zustellungen von Mitteilungen von AGROLA an den Kunden können rechtswirksam an die zuletzt AGROLA bekannt
+gegebene E-Mailadresse erfolgen.
 
-Der Kunde stimmt zu, dass Daten auch zwischen AGROLA und LANDI zu Marketingzwecken verarbeitet werden.
+Sollte eine Bestimmung dieser AGB unwirksam oder undurchführbar sein/werden, so wird der übrige Teil dieser
+AGB davon nicht berührt. An die Stelle der unwirksamen oder undurchführbaren Bestimmung tritt eine wirksame
+oder durchführbare Bestimmung, die der unwirksamen oder undurchführbaren in rechtlicher und wirtschaftlicher
+Hinsicht am nächsten kommt.
 
-AGROLA trifft technische Schutzmassnahmen zur Sicherung personenbezogener Daten.
+Der Vertrag und die daraus entstehenden Rechte und Pflichten sind ohne schriftliche Ermächtigung der anderen
+Partei nicht übertragbar. Vorbehalten bleibt die Übertragung dieses Vertrages von AGROLA auf eine ihrer
+Konzerngesellschaften.
 
----
+Dieser Vertrag untersteht schweizerischem, materiellem Recht, unter Ausschluss des UN-Kaufrechts.
+Ausschliesslicher Gerichtsstand ist Winterthur. Die vorstehende Rechtswahl- und Gerichtstandklausel gilt nicht,
+sofern und soweit sich der Kunde als Konsument zwingend auf die Anwendung eines anderen Rechts und/oder
+die Zuständigkeit eines anderen Gerichts berufen kann.
 
-## § 11 Schlussbestimmungen
+_Ausgabe August 2025_
 
-- Änderungen der Kontaktdaten sind per E-Mail mitzuteilen.
-- Mitteilungen von AGROLA gelten bei Zustellung an die zuletzt bekannte Adresse als rechtswirksam.
-- Ungültige Klauseln berühren die Gültigkeit der übrigen nicht.
-- Der Vertrag ist nicht ohne Zustimmung übertragbar (ausser auf Konzerngesellschaften).
-- Es gilt schweizerisches Recht (ohne UN-Kaufrecht).  
-- Gerichtsstand: Winterthur, es sei denn, der Kunde als Konsument hat Anspruch auf anderes Recht/Gericht.
 
-**Ausgabe: Mai 2019**

@@ -1,9 +1,9 @@
 # DATENSCHUTZBESTIMMUNGEN AGROLA.CH
-Wir, die **AGROLA AG** (im Folgenden «wir / unser(e) / AGROLA»), nehmen den Schutz Ihrer persönlichen Daten sehr ernst und halten uns streng an alle geltenden Gesetze und Vorschriften zum Datenschutz in der Schweiz (Bundesgesetz über den Datenschutz, DSG). Die folgenden Erläuterungen geben Ihnen einen Überblick darüber, wie wir diesen Schutz sicherstellen und welche Daten wir zu welchem Zweck verarbeiten. Die Datenschutzerklärung ist zweigeteilt. Im ersten Teil erläutern wir Ihnen den generellen Schutz der Daten im Zusammenhang mit unserer Webseite – im zweiten Teil gehen wir auf einzelne, spezifische Funktionalitäten und Interaktionsmöglichkeiten ein.
+Wir, die **AGROLA AG** (im Folgenden «wir / unser(e) / AGROLA»), nehmen den Schutz Ihrer persönlichen Daten sehr ernst und halten uns streng an alle geltenden Gesetze und Vorschriften zum Datenschutz in der Schweiz (Bundesgesetz über den Datenschutz, DSG). Die folgenden Erläuterungen geben Ihnen einen Überblick darüber, wie wir diesen Schutz sicherstellen und welche Daten wir zu welchem Zweck verarbeiten.Die Datenschutzerklärung ist zweigeteilt. Im ersten Teil erläutern wir Ihnen den generellen Schutz der Daten im Zusammenhang mit unserer Webseite – im zweiten Teil gehen wir auf einzelne, spezifische Funktionalitäten und Interaktionsmöglichkeiten ein.
 
 # 1. Verantwortlichkeit
-AGROLA AG Abteilung Marketing Theaterstrasse 15a 8401 Winterthur
-Tel.: +41 58 433 80 61 E-Mail: ~[kontakt@agrola.ch](mailto:kontakt@agrola.ch)~
+AGROLA AGAbteilung MarketingTheaterstrasse 15a8401 Winterthur
+Tel.: +41 58 433 80 61E-Mail: ~[kontakt@agrola.ch](mailto:kontakt@agrola.ch)~
 
 # 2. Nutzungsdaten
 Bei jedem Zugriff auf unsere Webseite und bei jedem Abruf einer Datei werden automatisch über diesen Vorgang allgemeine Daten in einer Protokolldatei gespeichert. Die Speicherung dient ausschliesslich systembezogenen und statistischen Zwecken. Eine Weitergabe der Daten an Dritte oder eine sonstige Auswertung findet nicht statt, es sei denn, es besteht eine gesetzliche Verpflichtung dazu.
@@ -21,7 +21,7 @@ Im Einzelnen wird über jeden Abruf folgender Datensatz gespeichert:
 Personenbezogene Daten werden von uns nur dann verarbeitet, wenn uns dies gesetzlich gestattet ist oder Sie uns Ihre Einwilligung erteilt haben. Wo wir konkret personenbezogene Daten bearbeiten, werden wir im zweiten Teil der vorliegenden Erklärung beschreiben.
 
 # 4. Bonitätsauskünfte
-Unser Unternehmen prüft regelmässig bei Vertragsabschlüssen und in bestimmten Fällen, in denen ein berechtigtes Interesse vorliegt (auch bei Bestandeskunden), Ihre Bonität. Zu diesem Zweck übermitteln wir Ihren Namen und Ihre Kontaktdaten an die entsprechenden Auskunfteien. Das Ergebnis der Bonitätsprüfung speichern wir für ein Jahr.
+Unser Unternehmen prüft regelmässig bei Vertragsabschlüssen und in bestimmten Fällen, in denen ein berechtigtes Interesse vorliegt (auch bei Bestandeskunden), Ihre Bonität. Zu diesem Zweck übermitteln wir Ihren Namen und Ihre Kontaktdaten an die entsprechenden Auskunfteien.Das Ergebnis der Bonitätsprüfung speichern wir für ein Jahr.
 
 # 5. Dauer der Speicherung
 Ihre personenbezogenen Daten werden jeweils solange gespeichert, wie es für den entsprechenden Zweck notwendig ist, und im Anschluss routinemässig gelöscht. Es gibt Anwendungen, bei welchen für Ihre personenbezogenen Daten eine gesetzliche Aufbewahrungspflicht besteht (z. B. zur Vertragserfüllung oder zur Vertragsanbahnung). In diesen Fällen werden wir die Daten löschen, wenn die Aufbewahrungsfrist abgelaufen ist.
@@ -29,7 +29,7 @@ Ihre personenbezogenen Daten werden jeweils solange gespeichert, wie es für den
 # 6. Betroffenenrechte
 Je nach Rechtslage stehen Ihnen unter anderem die folgenden Betroffenenrechte zur Verfügung:
 ### a. Auskunftsrecht
-Sie haben das Recht, von uns eine Bestätigung darüber zu verlangen, ob Sie betreffende personenbezogene Daten verarbeitet werden und um welche Daten es sich handelt. Senden Sie hierfür bitte einfach eine E-Mail an **~[kontakt@agrola.ch](mailto:kontakt@agrola.ch)~**.
+Sie haben das Recht, von uns eine Bestätigung darüber zu verlangen, ob Sie betreffende personenbezogene Daten verarbeitet werden und um welche Daten es sich handelt.Senden Sie hierfür bitte einfach eine E-Mail an **~[kontakt@agrola.ch](mailto:kontakt@agrola.ch)~**.
 ### b. Berichtigung / Löschung der Verarbeitung
 Des Weiteren haben Sie das Recht, von uns zu verlangen, dass
 * Sie betreffende unrichtige personenbezogene Daten unverzüglich berichtigt werden (Recht auf Berichtigung)
@@ -37,15 +37,15 @@ Des Weiteren haben Sie das Recht, von uns zu verlangen, dass
 
 ⠀Senden Sie hierfür bitte einfach eine E-Mail an **~[kontakt@agrola.ch](mailto:kontakt@agrola.ch)~**.
 ### c. Widerrufsrecht
-Sie haben das Recht, Ihre Einwilligung jederzeit zu widerrufen. Durch den Widerruf der Einwilligung wird die Rechtmässigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung nicht berührt. Senden Sie hierfür bitte einfach eine E-Mail an **~[kontakt@agrola.ch](mailto:kontakt@agrola.ch)~**.
+Sie haben das Recht, Ihre Einwilligung jederzeit zu widerrufen. Durch den Widerruf der Einwilligung wird die Rechtmässigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung nicht berührt.Senden Sie hierfür bitte einfach eine E-Mail an **~[kontakt@agrola.ch](mailto:kontakt@agrola.ch)~**.
 ### d. Datentransfer
-Sie haben das Recht, sich Ihre Daten in einem gängigen, elektronischen Format exportieren zu lassen. Senden Sie hierfür bitte einfach eine E-Mail an **~[kontakt@agrola.ch](mailto:kontakt@agrola.ch)~**.
+Sie haben das Recht, sich Ihre Daten in einem gängigen, elektronischen Format exportieren zu lassen.Senden Sie hierfür bitte einfach eine E-Mail an **~[kontakt@agrola.ch](mailto:kontakt@agrola.ch)~**.
 
 # 7. Unser Datenschutzverantwortlicher
-fenaco Genossenschaft, Datenschutzverantwortlicher Allee 1a CH-6210 Sursee Schweiz
+fenaco Genossenschaft, DatenschutzverantwortlicherAllee 1aCH-6210 SurseeSchweiz
 
 # 8. Sicherheit
-Für die Sicherheit Ihrer Daten verwenden wir modernste Internettechnologien. Während des Onlineanfrageprozesses sind Ihre Angaben mit einer SSL-Verschlüsselung gesichert. Für eine sichere Speicherung Ihrer Daten werden unsere Systeme durch Firewalls geschützt, die unberechtigte Zugriffe von aussen verhindern. Zudem setzen wir technische und organisatorische Sicherheitsmassnahmen ein, um Ihre uns zur Verfügung gestellten persönlichen Daten durch zufällige oder vorsätzliche Manipulation, Verlust, Zerstörung oder Zugriff unberechtigter Personen zu schützen. Unsere Vertragspartner, die Zugang zu Ihren Daten erhalten, um Ihnen gegenüber in unserem Namen Serviceleistungen zu erbringen, sind vertraglich zur Wahrung des Datenschutzes und zur Geheimhaltung verpflichtet. Wie Sie im zweiten Teil der vorliegenden Datenschutzerklärung sehen werden, gibt es verschiedene Prozesse, wo wir mit Partnern und / oder Dienstleistern zusammenarbeiten. Im Rahmen dieser.
+Für die Sicherheit Ihrer Daten verwenden wir modernste Internettechnologien. Während des Onlineanfrageprozesses sind Ihre Angaben mit einer SSL-Verschlüsselung gesichert. Für eine sichere Speicherung Ihrer Daten werden unsere Systeme durch Firewalls geschützt, die unberechtigte Zugriffe von aussen verhindern. Zudem setzen wir technische und organisatorische Sicherheitsmassnahmen ein, um Ihre uns zur Verfügung gestellten persönlichen Daten durch zufällige oder vorsätzliche Manipulation, Verlust, Zerstörung oder Zugriff unberechtigter Personen zu schützen.Unsere Vertragspartner, die Zugang zu Ihren Daten erhalten, um Ihnen gegenüber in unserem Namen Serviceleistungen zu erbringen, sind vertraglich zur Wahrung des Datenschutzes und zur Geheimhaltung verpflichtet. Wie Sie im zweiten Teil der vorliegenden Datenschutzerklärung sehen werden, gibt es verschiedene Prozesse, wo wir mit Partnern und / oder Dienstleistern zusammenarbeiten. Im Rahmen dieser.
 
 # 9. Cookies
 Wir setzen in einigen Bereichen unserer Webseite sogenannte «Cookies» ein. Durch solche Dateielemente kann Ihr Computer als technische Einheit während Ihres Besuchs auf dieser Webseite identifiziert werden, um Ihnen die Verwendung unseres Angebotes – auch bei Wiederholungsbesuchen – zu erleichtern.
@@ -74,13 +74,13 @@ Durch die Nutzung dieser Website erklären Sie sich mit der Bearbeitung der übe
 Damit Sie auf unserer Website Artikel auf Ihre Social-Media-Kanäle teilen können, kommen bei uns Social Plugins zum Einsatz:
 ### a. Facebook
 Auf unserer Website setzen wir das Plug-in des Social-Networks **Facebook** ein. Bei Facebook handelt es sich um einen Internetservice der facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA (nachfolgend «Facebook» genannt).
-Sofern das Plug-in auf einer der von Ihnen besuchten Seiten unseres Internetauftritts hinterlegt ist, lädt Ihr Internet-Browser eine Darstellung des Plug-ins von den Servern von Facebook in den USA herunter. Aus technischen Gründen ist es dabei notwendig, dass Facebook Ihre IP-Adresse verarbeitet. Daneben werden aber auch Datum und Uhrzeit des Besuchs unserer Internetseiten erfasst.
+Sofern das Plug-in auf einer der von Ihnen besuchten Seiten unseres Internetauftritts hinterlegt ist, lädt Ihr Internet-Browser eine Darstellung des Plug-ins von den Servern von Facebook in den USA herunter.Aus technischen Gründen ist es dabei notwendig, dass Facebook Ihre IP-Adresse verarbeitet. Daneben werden aber auch Datum und Uhrzeit des Besuchs unserer Internetseiten erfasst.
 Sollten Sie bei Facebook eingeloggt sein, während Sie eine unserer mit dem Plug-in versehenen Internetseite besuchen, werden die durch das Plug-in gesammelten Informationen Ihres konkreten Besuchs von Facebook erkannt. Die so gesammelten Informationen weist Facebook womöglich Ihrem dortigen persönlichen Nutzerkonto zu. Sofern Sie also bspw. den sog. «Gefällt mir»-Button von Facebook benutzen, werden diese Informationen in Ihrem Facebook-Nutzerkonto gespeichert und ggf. über die Plattform von Facebook veröffentlicht.
 Wenn Sie das verhindern möchten, müssen Sie sich entweder vor dem Besuch unseres Internetauftritts bei Facebook ausloggen oder durch den Einsatz eines Add-ons für Ihren Internetbrowser verhindern, dass das Laden des Facebook-Plug-ins blockiert wird.
 Weitergehende Informationen über die Erhebung und Nutzung von Daten sowie Ihre diesbezüglichen Rechte und Schutzmöglichkeiten hält Facebook in den abrufbaren Datenschutzhinweisen bereit.
 ### b. LinkedIn
 Auf unserer Website setzen wir das Plug-in des Social-Networks **LinkedIn** ein. Bei LinkedIn handelt es sich um einen Internetservice der LinkedIn Corporation, 2029 Stierlin Court, Mountain View, CA 94043, USA (nachfolgend «LinkedIn» genannt). Für Datenschutzangelegenheiten ausserhalb der USA ist LinkedIn Ireland, Privacy Policy Issues, Wilton Plaza, Wilton Place, Dublin 2, Ireland, zuständig.
-Sofern das Plug-in auf einer der von Ihnen besuchten Seiten unseres Internetauftritts hinterlegt ist, lädt Ihr Internet-Browser eine Darstellung des Plug-ins von den Servern von LinkedIn in den USA herunter. Aus technischen Gründen ist es dabei notwendig, dass LinkedIn Ihre IP-Adresse verarbeitet. Daneben werden aber auch Datum und Uhrzeit des Besuchs unserer Internetseiten erfasst.
+Sofern das Plug-in auf einer der von Ihnen besuchten Seiten unseres Internetauftritts hinterlegt ist, lädt Ihr Internet-Browser eine Darstellung des Plug-ins von den Servern von LinkedIn in den USA herunter.Aus technischen Gründen ist es dabei notwendig, dass LinkedIn Ihre IP-Adresse verarbeitet. Daneben werden aber auch Datum und Uhrzeit des Besuchs unserer Internetseiten erfasst.
 Sollten Sie bei LinkedIn eingeloggt sein, während Sie eine unserer mit dem Plug-in versehenen Internetseite besuchen, werden die durch das Plug-in gesammelten Informationen Ihres konkreten Besuchs von LinkedIn erkannt. Die so gesammelten Informationen weist LinkedIn womöglich Ihrem dortigen persönlichen Nutzerkonto zu. Sofern Sie also bspw. den sog. «Teilen»-Button von LinkedIn benutzen, werden diese Informationen in Ihrem LinkedIn-Nutzerkonto gespeichert und ggf. über die Plattform von LinkedIn veröffentlicht.
 Wenn Sie das verhindern möchten, müssen Sie sich entweder vor dem Besuch unseres Internetauftritts bei LinkedIn ausloggen oder die entsprechenden Einstellungen in Ihrem LinkedIn-Benutzerkonto vornehmen.
 Weitergehende Informationen über die Erhebung und Nutzung von Daten sowie Ihre diesbezüglichen Rechte und Schutzmöglichkeiten hält LinkedIn in den abrufbaren Datenschutzhinweisen bereit.
@@ -99,8 +99,8 @@ Durch Ihren Klick auf das jeweilige Symbol wird ein neues Fenster (sog. App) ge�
 Erst nach Ihrer ausdrücklichen Einwilligung in die Verwendung der übermittelten und erforderlichen Daten werden Ihre Daten bei uns gespeichert und zu den oben unter Punkt 3 angeführten Zwecken verwendet.
 Um den Authentifizierungsprozess für die Registrierung und den Login ausführen zu können, wird Ihre IP-Adresse an den jeweiligen Anbieter des sozialen Netzwerks übermittelt. Wir haben keinen Einfluss auf den Zweck und Umfang der Datenerhebung und auf die weitere Verarbeitung der Daten durch den jeweiligen Anbieter des sozialen Netzwerks.
 Für weitere Informationen dazu lesen Sie bitte die Datenschutzhinweise des jeweiligen Anbieters.
-* **Facebook** – Facebook Inc., 1601 S California Ave, Palo Alto, California 94304, USA ~[https://www.facebook.com/policy.php](https://www.facebook.com/policy.php)~
-* **Twitter** – Twitter, Inc., 1355 Market St, Suite 900, San Francisco, California 94103, USA ~[https://twitter.com/privacy](https://twitter.com/privacy)~
+* **Facebook** – Facebook Inc., 1601 S California Ave, Palo Alto, California 94304, USA~[https://www.facebook.com/policy.php](https://www.facebook.com/policy.php)~
+* **Twitter** – Twitter, Inc., 1355 Market St, Suite 900, San Francisco, California 94103, USA~[https://twitter.com/privacy](https://twitter.com/privacy)~
 
 ⠀
 # 14. Eingebettete YouTube-Videos
@@ -127,7 +127,7 @@ Die von Ihnen bestellte Ware wird je nach Produkt von unterschiedlichen Partnern
 Um die korrekte Auslieferung sicherstellen zu können, werden die relevanten Daten an den entsprechenden Dienstleister weitergegeben.
 
 # 18. Änderungsvorbehalt
-Wir behalten uns vor, diese Datenschutzerklärung gelegentlich anzupassen, damit sie stets den aktuellen rechtlichen Anforderungen entspricht oder um Änderungen unserer Leistungen in der Datenschutzerklärung umzusetzen, z. B. bei der Einführung neuer Services. Für Ihren erneuten Besuch gilt dann die neue Datenschutzerklärung.
+Wir behalten uns vor, diese Datenschutzerklärung gelegentlich anzupassen, damit sie stets den aktuellen rechtlichen Anforderungen entspricht oder um Änderungen unserer Leistungen in der Datenschutzerklärung umzusetzen, z. B. bei der Einführung neuer Services.Für Ihren erneuten Besuch gilt dann die neue Datenschutzerklärung.
 
 # 19. Links zu anderen Webseiten
 Unser Online-Angebot enthält Links zu Webseiten von anderen Anbietern. Wir haben keinen Einfluss darauf, dass deren Betreiber die Datenschutzbestimmungen einhalten.
