@@ -20,7 +20,7 @@ Diese Bedingungen werden regelmäßig aktualisiert. Die aktuellste Version finde
 
 &quot;Endnutzer&quot; bezeichnet den autorisierten und tatsächlichen Nutzer der Monta-Academy.
 
-&quot;Wir&quot;, &quot;uns&quot;, &quot;unser&quot; und &quot;Monta&quot; bedeutet Monta GmbH, Paul-Lincke-Ufer 41, 10999 Berlin, Deutschlands, E-Mail: info@monta.app, Handelsregisternummer: 41668385
+&quot;Wir&quot;, &quot;uns&quot;, &quot;unser&quot; und &quot;Monta&quot; bedeutet Monta GmbH, Oranienstraße 10/11, 10997 Berlin, Deutschlands, E-Mail: kontakt@monta.com, Amtsgericht Berlin HRB 167576 USt-IDdNr: DE347223826
 
 &quot;Sie&quot; und &quot;Partner&quot; bezeichnet die Partei, die diesen Vertrag abschließt und am Academy-Partnerprogramm teilnimmt.
 
