@@ -1,14 +1,12 @@
 Monta Platform GmbH
-
-Paul-Lincke-Ufer 41
-
-10999 Berlin
-
+Oranienstraße 10/11
+10997 Berlin
 Deutschland
 
-info@monta.com
+Amtsgericht Berlin HRB 167576
+USt-IDdNr: DE347223826
 
-Handelsregisternummer: 41668385
+Kontakt: kontakt@monta.com
 
 In dieser Datenschutzrichtlinie wird erklärt, wie Monta die von Ihnen bei Nutzung unserer Website, Nutzerportale und mobiler Anwendungen erfassten personenbezogenen Daten nutzt.
 
