@@ -66,7 +66,7 @@ Unless explicitly granted to You in writing by Monta, You must not (and must not
 
 You agree that Monta retains all rights, title and interest (including all Intellectual Property Rights) in and to the Services, and all related or underlying documentation, technology, code, know-how, logos, templates, anything delivered as part of the support of other services, and any updates, modifications, or derivative works of any of the foregoing (all of which is deemed Monta&#39;s confidential information) and that Monta reserves any licenses not specifically granted in this Agreement. You acknowledge and agree that you have no right to obtain a copy of the software behind any of the Services and that Monta has sole discretion to make updates, bug fixes, modifications or improvements to the Services from time to time. Monta reserves the right to change or remove features of the Services from time to time.
 
-Monta continuously works for a more sustainable and developed grid. This implies that Monta may temporarily pause an ongoing charge, thereby contributing to the stability of the electricity grid. The temporary pause will not have a noticeable effect on the total charge of your electric vehicle. You can at any time opt out of participating by toggling off PowerBank in the app or the portal.
+Monta continuously works for a more sustainable and developed grid. This implies that Monta may temporarily pause an ongoing charge, thereby contributing to the stability of the electricity grid. The temporary pause will not have a noticeable effect on the total charge of your electric vehicle. You can at any time opt out of participating by toggling off PowerBank in the app or the Hub.
 
 **6. Liability**
 
