@@ -66,8 +66,6 @@ Unless explicitly granted to You in writing by Monta, You must not (and must not
 
 You agree that Monta retains all rights, title and interest (including all Intellectual Property Rights) in and to the Services, and all related or underlying documentation, technology, code, know-how, logos, templates, anything delivered as part of the support of other services, and any updates, modifications, or derivative works of any of the foregoing (all of which is deemed Monta&#39;s confidential information) and that Monta reserves any licenses not specifically granted in this Agreement. You acknowledge and agree that you have no right to obtain a copy of the software behind any of the Services and that Monta has sole discretion to make updates, bug fixes, modifications or improvements to the Services from time to time. Monta reserves the right to change or remove features of the Services from time to time.
 
-Monta continuously works for a more sustainable and developed grid. This implies that Monta may temporarily pause an ongoing charge, thereby contributing to the stability of the electricity grid. The temporary pause will not have a noticeable effect on the total charge of your electric vehicle. You can at any time opt out of participating by toggling off PowerBank in the app or the Hub.
-
 **6. Liability**
 
 The use of the Services is the sole responsibility of the User. The Services are supplied &quot;as is&quot; and may be modified, updated, interrupted, suspended or discontinued at any time without notice or liability.
@@ -139,14 +137,25 @@ Monta Credits: Credits received in your Wallet from referrals, promotion codes o
 
 The Danish Consumer Ombudsman (Forbrugerombudsmand) handles complaints regarding Monta’s general terms and marketing. Further, the Forbrugerombudsmand may handle complaints on information rights, third party misuse of card, best practices, etc. in accordance with the Danish Payment Act. 
 
-**15. Governing Law and Jurisdiction**
+**15. PowerBank & Grid Stability**
+
+Monta continuously works for a more sustainable and developed grid. As part of this commitment, we offer features that help balance electricity demand and support grid stability.
+PowerBank: PowerBank allows Monta to temporarily pause an ongoing charge, thereby contributing to the stability of the electricity grid. The temporary pause will not have a noticeable effect on the total charge of your electric vehicle. You can at any time opt out of participating by toggling off PowerBank in the App or the Hub.
+
+SmartCharging: When you make use of SmartCharging to schedule a charge session, Monta may partner with energy flexibility service providers to support stabilizing the grid. By accepting the Terms of Use, you accept that your charging may be optimised to times when electricity demand is lower or renewable energy is more abundant. Our energy flexibility partners may seek smart meter data from your electricity supplier and combine this with information obtained from Monta to verify your flexible charging patterns. Participation is entirely voluntary, and you can opt out at any time through your account settings. You have the ability to set your own charging criteria in the App or Hub.
+
+At all times, to the extent Monta assists in grid stabilization, or if required by applicable law to either pause, curtail, or stop an ongoing charge, any such grid stabilization shall be done with minimum noticeable effect on the total charge of the electric vehicle to the fullest extent possible.
+
+By accepting the Terms of Use, you acknowledge that, if required, our flexibility partner may access your smart meter data (which may include your household electricity consumption) for grid balancing purposes. For more information about how your data is used and your data subject rights, please see our Privacy Policy.
+
+**16. Governing Law and Jurisdiction**
 
 This Agreement is subject to the laws of Denmark.
 
 If any dispute arising out of or in connection with this Agreement were to be litigated, such dispute shall be settled by the City Court of Copenhagen as sole proper venue.
 
-**16. Changes to these Terms of Use**
+**17. Changes to these Terms of Use**
 
-This Agreement was last updated on 1 February 2024.
+This Agreement was last updated on 2 December 2025.
 
 Monta reserves the right in its sole discretion, to modify, update, or otherwise revise the Terms of Use at any time. Such revisions shall be effective immediately upon posting updates to the Terms of Use on this webpage. Monta will notify you of any material changes to the terms. By using the Services after Monta has posted any modification, updates, or revisions, the User agrees to be bound by such revised Terms of Use. If any modification, update, or other change to these Terms of Use are not acceptable to you, then you have the right to terminate this Agreement provided you immediately terminate your use or access to the Services.
