@@ -140,13 +140,12 @@ The Danish Consumer Ombudsman (Forbrugerombudsmand) handles complaints regarding
 **15. PowerBank & Grid Stability**
 
 Monta continuously works for a more sustainable and developed grid. As part of this commitment, we offer features that help balance electricity demand and support grid stability.
+
 PowerBank: PowerBank allows Monta to temporarily pause an ongoing charge, thereby contributing to the stability of the electricity grid. The temporary pause will not have a noticeable effect on the total charge of your electric vehicle. You can at any time opt out of participating by toggling off PowerBank in the App or the Hub.
 
 SmartCharging: When you make use of SmartCharging to schedule a charge session, Monta may partner with energy flexibility service providers to support stabilizing the grid. By accepting the Terms of Use, you accept that your charging may be optimised to times when electricity demand is lower or renewable energy is more abundant. Our energy flexibility partners may seek smart meter data from your electricity supplier and combine this with information obtained from Monta to verify your flexible charging patterns. Participation is entirely voluntary, and you can opt out at any time through your account settings. You have the ability to set your own charging criteria in the App or Hub.
 
-At all times, to the extent Monta assists in grid stabilization, or if required by applicable law to either pause, curtail, or stop an ongoing charge, any such grid stabilization shall be done with minimum noticeable effect on the total charge of the electric vehicle to the fullest extent possible.
-
-By accepting the Terms of Use, you acknowledge that, if required, our flexibility partner may access your smart meter data (which may include your household electricity consumption) for grid balancing purposes. For more information about how your data is used and your data subject rights, please see our Privacy Policy.
+At all times, to the extent Monta assists in grid stabilization, or if required by applicable law to either pause, curtail, or stop an ongoing charge, any such grid stabilization shall be done with minimum noticeable effect on the total charge of the electric vehicle to the fullest extent possible. By accepting the Terms of Use, you acknowledge that, if required, our flexibility partner may access your smart meter data (which may include your household electricity consumption) for grid balancing purposes. For more information about how your data is used and your data subject rights, please see our Privacy Policy.
 
 **16. Governing Law and Jurisdiction**
 
