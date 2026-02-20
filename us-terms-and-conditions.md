@@ -1,7 +1,7 @@
 # Terms of Use
 Monta Platform Inc.
 
-Effective Date: 10 September 2024
+Effective Date: 20 February 2026
 
 ## 1. General
 These Terms of Use (the ”Agreement” or “Terms of Use”) are entered into between the entity/person using or accessing the Services (the ”User” or ”You”) and Monta Platform Inc. (”Monta” or ”we”), collectively referred to as the ”Parties” or each a ”Party”.
