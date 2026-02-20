@@ -80,7 +80,7 @@ All sections of this Agreement which by their nature should survive termination 
 ## 9. Data Protection
 Monta or commissioned service providers collect, process and use data pertaining to You for the implementation of the contractual relationship pursuant to the provisions of applicable data protection and privacy laws.
 
-Unique identification number that is used to identify You, Your vehicle, personal details and transactional details may be transferred to the operator of the charging station for the purpose of activating the charging stations, solving potential issues regarding the charging service and invoicing. Personal details, contact details and transactional details may also be transferred to the partners of Monta for the purpose of invoicing and customer service.
+Unique identification number that is used to identify You, Your vehicle, personal details and transactional details may be transferred to the operator of the charging station for the purpose of activating the charging stations, solving potential issues regarding the charging service, invoicing and so that the operator can advertise its products and services to you. Personal details, contact details and transactional details may also be transferred to the partners of Monta for the purpose of invoicing and customer service.
 
 Monta may use non-personal data collected in the provision of the Services that has been de-identified or aggregated (“Non-Personal Data”) in order to (i) improve the Services and its other products and services, and (ii) share statistical information with its partners. Monta will take reasonable measures to ensure that the Non-Personal Data cannot be associated with an individual or household, and commits to maintain and use the Non-Personal Data in deidentified form and not attempt to reidentify the information, unless permitted or required under the law. Monta will also contractually obligate any recipient of the Non-Personal Data to comply with privacy laws with respect to such data.
 
@@ -123,4 +123,4 @@ This Agreement constitutes the sole and entire agreement between You and Monta r
 ## 16. Changes to these Terms of Use
 Monta reserves the right in its sole discretion, to modify, update, or otherwise revise the Terms of Use at any time. Such revisions shall be effective immediately upon posting updates to the Terms of Use on this webpage. Monta will notify You of any material changes to these Terms of Use. By using the Services after Monta has posted any modification, updates, or revisions, the User agrees to be bound by such revised Terms of Use. If any modification, update, or other change to these Terms of Use are not acceptable to You, then You have the right to terminate this Agreement provided You immediately terminate Your use or access to the Services.
 
-This Agreement was last updated on 10 September 2024.
+This Agreement was last updated on 20 February 2026.
