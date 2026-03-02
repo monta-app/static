@@ -57,7 +57,7 @@ Monta is addressing the threat of cyber-attacks both through our technical prote
 
 ## Personal Information
 
-Authorized Users of Information Systems are not given rights of privacy in relation to their use of Information Systems. Duly authorized users may access or monitor personal data contained in any Information System (mailboxes, web access logs, file-store etc) but always subject to Monta’s [Privacy Policy](https://app.monta.app/privacy-policy) and [GDPR Policy](https://docs.google.com/document/d/1Lk8B93XGOONxcp03oD8s2kASsJzneygE/edit).
+Authorized Users of Information Systems are not given rights of privacy in relation to their use of Information Systems. Duly authorized users may access or monitor personal data contained in any Information System (mailboxes, web access logs, file-store etc) but always subject to Monta’s [Privacy Policy](https://app.monta.app/privacy-policy) and [GDPR Policy](https://app.monta.app/gdpr).
 
 ## Information Security Board
 
@@ -78,7 +78,7 @@ These policies can be shared on a private and confidential basis with third part
 
 # Publication of the policy
 
-This Information Security Policy is publicly available on [www.monta.com](http://www.monta.com/), and can always be referred to or shared upon request.
+This Information Security Policy is publicly available on [www.monta.com](https://monta.com/), and can always be referred to or shared upon request.
 
 # Compliance with the policy
 
