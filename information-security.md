@@ -6,8 +6,8 @@ Strandboulevarden 122, 2100 Copenhagen, Denmark
 Email: info@monta.com  
 Company registration number: 41668385
 
-Version: 1.3
-Date: 4 February 2026
+Version: 1.4
+Date: 2 July 2026
 
 # Overview
 
@@ -61,14 +61,15 @@ Authorized Users of Information Systems are not given rights of privacy in relat
 
 ## Information Security Board
 
-Monta has established an Information Security Board, which is led by the VP Operational Excellence & Governance. The responsibility of the Information Security Board is to implement information security measures and ensure proper compliance with the same. The Information Security Board has created a monitoring overview with both ongoing monitoring as well as monthly meetings.
+Monta has established an Information Security Board, which is led by the VP Operational Excellence & Governance. The responsibility of the Information Security Board is to implement information security measures and ensure proper compliance with the same, including oversight of AI governance as set out in the AI Policy. The Information Security Board has created a monitoring overview with both ongoing monitoring as well as monthly meetings.
 
 ## Related standards, policies and processes
 
 This Information Security Policy sets out the overall standards for Monta’s information security, which is regulated in further detail in the relevant policies listed below:
 
 - IT Policy
-- Office Security Policy
+- AI Policy
+- Physical Security Policy
 - Information Classification Policy
 - Business Continuity Policy
 - Privacy Policy
