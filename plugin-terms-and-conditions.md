@@ -1,7 +1,7 @@
 # Table des matières / Inhoudsopgave
 
-- [CONDITIONS GENERALES DE VENTE DE LA SRL PLUGINCOMPANY (CI-APRES « CGV »)](#conditions-generales-de-vente-de-la-srl-plugincompany-ci-apres--cgv)
-- [ALGEMENE VERKOOPVOORWAARDEN VAN DE BV PLUGINCOMPANY (HIERNA « AVV »)](#algemene-verkoopvoorwaarden-van-de-bv-plugincompany-hierna--avv)
+- [CONDITIONS GENERALES DE VENTE DE LA SRL PLUGINCOMPANY (CI-APRES « CGV »)](#conditions-generales-de-vente-de-la-srl-plugincompany-ci-apres--cgv-)
+- [ALGEMENE VERKOOPVOORWAARDEN VAN DE BV PLUGINCOMPANY (HIERNA « AVV »)](#algemene-verkoopvoorwaarden-van-de-bv-plugincompany-hierna--avv-)
 
 ---
 
@@ -207,7 +207,7 @@ Les présentes CGV ne régissent que les commandes à destination du Benelux.
 
 19.3 Cet article s’applique nonobstant la pluralité de défendeurs et toute demande en intervention volontaire ou forcée.
 
-[Retour en haut / Terug naar boven](#table-des-matires--inhoudsopgave)
+[Retour en haut / Terug naar boven](#table-des-matières--inhoudsopgave)
 
 ---
 
@@ -413,4 +413,4 @@ Deze Algemene Voorwaarden zijn alleen van toepassing op bestellingen die bestemd
 
 19.3 Dit artikel is van toepassing ondanks het feit dat er meerdere verweerders zijn en ondanks een verzoek tot vrijwillige of gedwongen tussenkomst.
 
-[Retour en haut / Terug naar boven](#table-des-matires--inhoudsopgave)
+[Retour en haut / Terug naar boven](#table-des-matières--inhoudsopgave)
