@@ -1,6 +1,6 @@
 Monta Platform GmbH
-Oranienstraße 10/11
-10997 Berlin
+Monbijouplatz 4
+10178 Berlin
 Deutschland
 
 Amtsgericht Berlin HRB 167576
