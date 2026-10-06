@@ -1,10 +1,4 @@
-# Table of Contents
-
-- [Charge with KINTO Terms of Use (English)](#charge-with-kinto-terms-of-use-english)
-
----
-
-# Charge with KINTO Terms of Use (English)
+# Charge with KINTO Terms of Use
 
 ## Introduction
 

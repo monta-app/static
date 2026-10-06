@@ -1,10 +1,4 @@
-# Table of Contents
-
-- [Charge with KINTO Privacy Notice (English)](#charge-with-kinto-privacy-notice-english)
-
----
-
-# Charge with KINTO Privacy Notice (English)
+# Charge with KINTO Privacy Notice
 
 **PRIVACY NOTICE**
 
