@@ -1,1 +1,3 @@
 Ich bin einverstanden, über Angebote von Lieferungen oder Dienstleistungen in den Bereichen Energie, Elektromobilität, Wasser sowie zu Marktforschungsumfragen von MVV sowie deren verbundene Unternehmen informiert zu werden. Ich bin einverstanden, dass MVV meine Angaben gemäß dieser Einwilligungserklärung verarbeiten und nutzen darf. Die Kontaktaufnahme kann per Email oder telefonisch erfolgen. Diese Einwilligungserklärung kann ich jederzeit mit Wirkung für die Zukunft widerrufen.
+
+Weitere Informationen finden Sie unter [www.mvv.de/datenschutz](https://www.mvv.de/datenschutz).
