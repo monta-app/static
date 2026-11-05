@@ -28,7 +28,7 @@ When you visit our Website, user portals, and/or mobile applications Monta will 
 
 The legitimate interests pursued are to provide you with products and services that work optimally, a good website experience and marketing activities. The legal basis for the processing of your personal data is Art. 6(1)(f) of the GDPR. In certain cases, the legal basis for the processing of your personal data in this regard is your consent, which you will be asked to give when you visit the Website, user portals, and/or mobile applications, cf. Art. 6(1)(a) of the GDPR. You may find more information about our use of cookies in the cookie policy when entering our Website.
 
-We also count visits without cookies, with a statistics tool we run ourselves (OpenPanel). Your IP address is used only to look up an approximate location (city level) and is not stored. We record the pages you visit, where you came from, your browser and device, and how you use our help center (searches, with personal details masked, and article feedback). The data is kept in our own analytics system, hosted for us by our cloud providers, and is not shared with anyone else. Legal basis: our legitimate interest in improving the Website, cf. Art. 6(1)(f) GDPR.
+We also count visits to our Website, including our help center (monta.com/help) and updates.monta.com, without cookies, with a statistics tool we run ourselves (OpenPanel). Your IP address is used only to look up an approximate location (city level) and is not stored. We record the pages you visit, where you came from, your browser and device, and how you use our help center (searches, with email addresses and long numbers masked, and article feedback). The data is kept in our own analytics system, hosted for us by our cloud providers, and is not shared with anyone else. Legal basis: our legitimate interest in improving the Website, cf. Art. 6(1)(f) GDPR.
 
 If you wish to receive a newsletter or book a demo, we also process the following information about you: name and surname, subject(s) of interest and your email address in order to tailor the content of and to send our newsletters to you. The legal basis for the processing of your personal data in this respect is our legitimate interests in branding our products and business and the relevant marketing material that you have requested, cf. Art. 6(1)(f) of the GDPR. You may at any time with future effect unsubscribe to receiving our newsletter. To declare that you wish to unsubscribe, you may use the respective link included in all newsletters or send an email to info@monta.com. 
 
@@ -80,7 +80,7 @@ Personal data related to your newsletter account is stored until you withdraw yo
 
 Personal data collected via cookies through use of our Website, user portals, and/or mobile applications are stored for different periods depending on the type and purpose of the cookie in question. 
 
-Website statistics collected without cookies (see section 2.1) are deleted 25 months after they were collected.
+Website statistics collected without cookies (see section 2.1) are deleted 25 months after they were collected, and the search terms typed into our help center after 6 months.
 
 Personal data collected in relation to the use of social media will be erased when the content is deleted or when you withdraw your response to our content (likes, sharing, etc.). See more in section 6 below. 
 
